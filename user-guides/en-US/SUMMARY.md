@@ -15,6 +15,7 @@
   * [Working Well with Your Community](getting-started/communicate-and-collaborate-using-meeds/working-well-with-your-community.md)
   * [Sharing and Interacting](getting-started/communicate-and-collaborate-using-meeds/sharing-and-interacting.md)
   * [Documenting Procedures and Reports](getting-started/communicate-and-collaborate-using-meeds/documenting-procedures-and-reports.md)
+  * [Tracking Tasks](getting-started/communicate-and-collaborate-using-meeds/tracking-tasks.md)
 * [🎯 Participate & Contribute](getting-started/participate-and-contribute.md)
 * [💝 Get rewarded & Use your Meeds](getting-started/get-rewarded-and-use-your-meeds.md)
 
