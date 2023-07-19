@@ -2,8 +2,6 @@
 
 &#x20;Are you eager to build a community to:
 
-
-
 👉 Discuss a cross-cutting theme&#x20;
 
 👉 Get to know each other better, especially if you're working remotely in an area where other members are located&#x20;

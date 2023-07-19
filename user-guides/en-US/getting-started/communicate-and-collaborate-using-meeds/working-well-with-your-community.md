@@ -2,8 +2,6 @@
 
 Meeds lets you connect in a secure, simple, and efficient environment.
 
-
-
 In fact, you can:&#x20;
 
 👉 Create a space for a dedicated, exclusive, or open audience&#x20;
