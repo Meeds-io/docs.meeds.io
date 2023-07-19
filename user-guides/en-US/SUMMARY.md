@@ -22,6 +22,7 @@
   * [Discovering Actions to Perform](getting-started/participate-and-contribute/discovering-actions-to-perform.md)
   * [Accessing and Using an Engagement Program](getting-started/participate-and-contribute/accessing-and-using-an-engagement-program.md)
   * [Encourage and Congratulate Others](getting-started/participate-and-contribute/encourage-and-congratulate-others.md)
+  * [Review and Track Your Achievements](getting-started/participate-and-contribute/review-and-track-your-achievements.md)
 * [💝 Get rewarded & Use your Meeds](getting-started/get-rewarded-and-use-your-meeds.md)
 
 ## Host communities
