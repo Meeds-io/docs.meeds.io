@@ -11,7 +11,8 @@
   * [Updating Your Notifications](getting-started/exploring-a-meeds-hub/updating-your-notifications.md)
   * [Updating Your Password](getting-started/exploring-a-meeds-hub/updating-your-password.md)
   * [Using Meeds on the Go](getting-started/exploring-a-meeds-hub/using-meeds-on-the-go.md)
-* [⚙ Communicate & Collaborate using Meeds](getting-started/communicate-and-collaborate-using-meeds.md)
+* [⚙ Communicate & Collaborate using Meeds](getting-started/communicate-and-collaborate-using-meeds/README.md)
+  * [Working Well with Your Community](getting-started/communicate-and-collaborate-using-meeds/working-well-with-your-community.md)
 * [🎯 Participate & Contribute](getting-started/participate-and-contribute.md)
 * [💝 Get rewarded & Use your Meeds](getting-started/get-rewarded-and-use-your-meeds.md)
 

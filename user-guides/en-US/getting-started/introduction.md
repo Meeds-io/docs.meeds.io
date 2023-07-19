@@ -1,23 +1,25 @@
 # 👨💻 Introduction
 
-## About this documentation
+## About this Guide
 
-This documentation provides simple instructions on how to use our Meeds Software, including step-by-step guides.&#x20;
+This guide gives you simple instructions on how to use our Meeds software, including step-by-step tutorials.&#x20;
 
-We welcome your feedback to help us improve and enrich the documentation based on your usage.
+We want to hear what you think so we can make this guide better and more helpful based on how you use Meeds.&#x20;
 
-So please, ask us questions and give us feedback if you cannot find the answers you're looking for. Your input is curcial to our ongoing efforts to improve our software and documentation.
+So don't hesitate to ask questions or tell us what you think if you can't find the answers you're looking for. Your help is important for us to make our software and this guide better.
 
 ## About Meeds
 
-Meeds aims to revolutionize the way we work.
+Meeds wants to change the way we work.&#x20;
 
-Launched in 2020, by several open-source software vendors, the Meeds project has established itself in Switzerland as a non-profit association.
+Started in 2020 by several open-source software companies, the Meeds project was set up in Switzerland as a nonprofit association.&#x20;
 
-After publishing its vision in a white paper, Meeds is now working to realize it with web3 technology and with the help of the Meeds builders community.
+After sharing its vision in a white paper, Meeds is now working to make it a reality on web3 with the help of the Meeds DAO builder community.&#x20;
 
-Currently, the Meeds association oversees the development of the open-source software powering the Hubs and the WoM. It also regulates the issuance and allocation of the Ɱeed token, for which it has obtained legal recognition from the Swiss market authority (FINMA). The Meeds association has the goal to build a DAO with Meeds stakeholders and progressively hand over governance and operations to the community.
+The various committees of the Meeds DAO oversee the development of the open-source software that powers the Hubs and WoM.&#x20;
 
-<figure><img src="../.gitbook/assets/hero_image.webp" alt=""><figcaption><p>The Meeds DAO provides a software to help any organization to boost engagement</p></figcaption></figure>
+They also manage the issuing and giving out of the Ɱeed token, which has been officially recognized by the Swiss Financial Market Supervisory Authority (FINMA).
+
+<figure><img src="../.gitbook/assets/hero_image.webp" alt=""><figcaption><p>The Meeds DAO offers software that helps any organization increase engagement.</p></figcaption></figure>
 
 **Want to learn more? Please, visit our** [**website**](https://www.meeds.io/)
