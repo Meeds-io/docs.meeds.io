@@ -18,7 +18,8 @@
   * [Tracking Tasks](getting-started/communicate-and-collaborate-using-meeds/tracking-tasks.md)
   * [Creating a Space for Building and Supporting a Community](getting-started/communicate-and-collaborate-using-meeds/creating-a-space-for-building-and-supporting-a-community.md)
   * [Leading Your Community](getting-started/communicate-and-collaborate-using-meeds/leading-your-community.md)
-* [🎯 Participate & Contribute](getting-started/participate-and-contribute.md)
+* [🎯 Participate & Contribute](getting-started/participate-and-contribute/README.md)
+  * [Discovering Actions to Perform](getting-started/participate-and-contribute/discovering-actions-to-perform.md)
 * [💝 Get rewarded & Use your Meeds](getting-started/get-rewarded-and-use-your-meeds.md)
 
 ## Host communities
