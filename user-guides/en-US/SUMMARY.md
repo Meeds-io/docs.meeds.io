@@ -23,7 +23,11 @@
   * [Accessing and Using an Engagement Program](getting-started/participate-and-contribute/accessing-and-using-an-engagement-program.md)
   * [Encourage and Congratulate Others](getting-started/participate-and-contribute/encourage-and-congratulate-others.md)
   * [Review and Track Your Achievements](getting-started/participate-and-contribute/review-and-track-your-achievements.md)
-* [💝 Get rewarded & Use your Meeds](getting-started/get-rewarded-and-use-your-meeds.md)
+* [💝 Earning Rewards & Using Your Meeds](getting-started/earning-rewards-and-using-your-meeds/README.md)
+  * [Understanding Reward Rules](getting-started/earning-rewards-and-using-your-meeds/understanding-reward-rules.md)
+  * [Setting Up Your Wallet](getting-started/earning-rewards-and-using-your-meeds/setting-up-your-wallet.md)
+  * [Tracking Your Rewards](getting-started/earning-rewards-and-using-your-meeds/tracking-your-rewards.md)
+  * [Claiming Your Perks](getting-started/earning-rewards-and-using-your-meeds/claiming-your-perks.md)
 
 ## Host communities
 
