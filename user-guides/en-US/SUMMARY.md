@@ -14,7 +14,7 @@
 * [⚙ Collaborating in Spaces](getting-started/collaborating-in-spaces/README.md)
   * [Working Well with Your Community](getting-started/collaborating-in-spaces/working-well-with-your-community.md)
   * [Sharing and Interacting](getting-started/collaborating-in-spaces/sharing-and-interacting.md)
-  * [Documenting Procedures and Reports](getting-started/collaborating-in-spaces/documenting-procedures-and-reports.md)
+  * [Capturing Knowledge](getting-started/collaborating-in-spaces/documenting-procedures-and-reports.md)
   * [Tracking Tasks](getting-started/collaborating-in-spaces/tracking-tasks.md)
   * [Creating a Space for Building and Supporting a Community](getting-started/collaborating-in-spaces/creating-a-space-for-building-and-supporting-a-community.md)
   * [Leading Your Community](getting-started/collaborating-in-spaces/leading-your-community.md)
