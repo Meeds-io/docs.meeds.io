@@ -11,7 +11,7 @@ on:
   schedule: 
     - cron: '30 5,12,17 * * *'
   push:
-    branches: [ main ]
+    branches: [ develop ]
     paths:
       - 'en/**'
 
@@ -60,8 +60,8 @@ jobs:
           upload_translations: false
           download_translations: true
           commit_message: New Crowdin translations - ${{ matrix.lc }}
-          localization_branch_name: l10n_main_${{ matrix.lc }}
-          pull_request_base_branch_name: 'main'
+          localization_branch_name: l10n_develop_${{ matrix.lc }}
+          pull_request_base_branch_name: 'develop'
           pull_request_title: New translations - ${{ matrix.lc }}
           download_language: ${{ matrix.lc }}
         #env:
