@@ -4,7 +4,7 @@
 
 ## Getting started
 
-* [👨💻 Introduction](getting-started/introduction.md)
+* [Introduction](getting-started/introduction.md)
 * [🚀 Exploring a Meeds Hub](getting-started/exploring-a-meeds-hub/README.md)
   * [Finding Your Way Around](getting-started/exploring-a-meeds-hub/finding-your-way-around.md)
   * [Updating Your Profile](getting-started/exploring-a-meeds-hub/updating-your-profile.md)
@@ -29,10 +29,10 @@
   * [Tracking Your Rewards](getting-started/earning-rewards-and-perks/tracking-your-rewards.md)
   * [Claiming Your Perks](getting-started/earning-rewards-and-perks/claiming-your-perks.md)
 
-## Host communities
+## Hosting Communities
 
-* [Set up your Hub](host-communities/set-up-your-hub.md)
-* [Manage users](host-communities/manage-users.md)
-* [Manage communities](host-communities/manage-communities.md)
-* [Propose actions to achieve](host-communities/propose-actions-to-achieve.md)
-* [Reward contributors](host-communities/reward-contributors.md)
+* [Setting up Your Hub](host-communities/set-up-your-hub.md)
+* [Managing Users](host-communities/manage-users.md)
+* [Managing Communities](host-communities/manage-communities.md)
+* [Adding Contributions](host-communities/propose-actions-to-achieve.md)
+* [Rewarding Contributors](host-communities/reward-contributors.md)
