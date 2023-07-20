@@ -5,6 +5,6 @@
 "files": [
   {
     "source": "/user-guides/en-US/**/*.md",
-    "translation": "/user-guides/%two_letters_code%-%locale%/**/%original_file_name%"
+    "translation": "/user-guides/%locale%/**/%original_file_name%"
   }
 ]
