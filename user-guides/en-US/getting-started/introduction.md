@@ -20,6 +20,10 @@ The various committees of the Meeds DAO oversee the development of the open-sour
 
 They also manage the issuing and giving out of the Ɱeed token, which has been officially recognized by the Swiss Financial Market Supervisory Authority (FINMA).
 
-<figure><img src="../.gitbook/assets/hero_image.webp" alt=""><figcaption><p>The Meeds DAO offers software that helps any organization increase engagement.</p></figcaption></figure>
+<figure>
+
+![](../.gitbook/assets/hero_image.webp)<figcaption>
+
+The Meeds DAO offers software that helps any organization increase engagement.</figcaption></figure>
 
 **Want to learn more? Please, visit our** [**website**](https://www.meeds.io/)
