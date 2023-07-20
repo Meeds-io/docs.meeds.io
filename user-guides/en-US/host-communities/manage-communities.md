@@ -1,2 +1,2 @@
-# Manage communities
+# Managing Communities
 
