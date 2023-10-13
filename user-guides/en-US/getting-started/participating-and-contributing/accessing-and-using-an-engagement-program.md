@@ -1,6 +1,6 @@
 # Accessing and Using an Engagement Program
 
-With your Meeds engagement solution, find **a contribution center dedicated to your profile**:
+With your Meeds, find **a contribution center dedicated to your profile**:
 
 👉 Here you will find **detailed programs** presenting the initiatives or actions to carry out (automatic or manual).&#x20;
 
