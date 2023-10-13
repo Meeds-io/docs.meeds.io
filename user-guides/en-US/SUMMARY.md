@@ -4,7 +4,7 @@
 
 ## Getting started
 
-* [Introduction](getting-started/introduction.md)
+* [👨💻 Introduction](getting-started/introduction.md)
 * [🚀 Exploring a Meeds Hub](getting-started/exploring-a-meeds-hub/README.md)
   * [Finding Your Way Around](getting-started/exploring-a-meeds-hub/finding-your-way-around.md)
   * [Updating Your Profile](getting-started/exploring-a-meeds-hub/updating-your-profile.md)
