@@ -1,9 +1,8 @@
 ---
 description: >-
-  This documentation provides simple documentation on how to use our Meeds
-  Software. It typically includes step-by-step instructions and we count on you
-  to give us feedback to improve it upon your usage
+  This guide is meant to help you learn how to use a Meeds Hub. It includes step-by-step instructions.
 ---
 
 # User Guide
 
+💡 Let us know how we can improve it.
