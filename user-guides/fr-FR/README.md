@@ -1,9 +1,9 @@
 ---
 description: >-
-  This documentation provides simple documentation on how to use our Meeds
-  Software. It typically includes step-by-step instructions and we count on you
-  to give us feedback to improve it upon your usage
+  Retrouvez ici les informations pratiques sur l'utilisation de la solution
+  Meeds. Ce guide propose des instructions simples et nous comptons sur vous
+  pour proposer des améliorations.
 ---
 
-# User Guide
+# Guide Utilisateur
 
