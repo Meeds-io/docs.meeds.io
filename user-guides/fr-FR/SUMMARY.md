@@ -10,7 +10,7 @@
   * [Rechercher du contenu](premiers-pas/decouvrir-meeds/rechercher-du-contenu.md)
   * [Gérer ses notifications](premiers-pas/decouvrir-meeds/gerer-ses-notifications.md)
   * [Lister ses applications](premiers-pas/decouvrir-meeds/lister-ses-applications.md)
-  * [Créer ses favoris](premiers-pas/decouvrir-meeds/creer-ses-favoris.md)
+  * [Créer sa liste de favoris](premiers-pas/decouvrir-meeds/creer-sa-liste-de-favoris.md)
   * [Utiliser Meeds en mobilité](premiers-pas/decouvrir-meeds/utiliser-meeds-en-mobilite.md)
 * [🎯 Participer & contribuer](premiers-pas/participer-and-contribuer/README.md)
   * [Découvrir les actions à réaliser](premiers-pas/participer-and-contribuer/decouvrir-les-actions-a-realiser.md)
