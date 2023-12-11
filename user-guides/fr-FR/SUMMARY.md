@@ -30,6 +30,7 @@
   * [Créer un espace pour accueillir, soutenir une communauté](premiers-pas/collaborer-dans-un-espace/creer-un-espace-pour-accueillir-soutenir-une-communaute.md)
   * [Animer sa communauté](premiers-pas/collaborer-dans-un-espace/animer-sa-communaute.md)
 * [🛠 Personnaliser son profil](premiers-pas/personnaliser-son-profil/README.md)
+  * [Lister ses applications](premiers-pas/personnaliser-son-profil/lister-ses-applications.md)
   * [Mettre à jour son profil](premiers-pas/personnaliser-son-profil/mettre-a-jour-son-profil.md)
   * [Configurer ses notifications](premiers-pas/personnaliser-son-profil/configurer-ses-notifications.md)
   * [Mettre en sourdine des espaces](premiers-pas/personnaliser-son-profil/mettre-en-sourdine-des-espaces.md)

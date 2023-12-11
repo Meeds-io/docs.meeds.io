@@ -1,34 +1,36 @@
+---
+description: >-
+  Découvrez comment la solution Meeds vous propose une navigation intuitive,
+  adaptée et moderne
+---
+
 # Naviguer sur Meeds
 
-La solution Meeds vous propose une navigation **adaptée, intuitive et moderne**.\
-\
-Vous retrouverez une navigation générique :
+### :question: Besoin d'accéder rapidement à des outils, à des applications ?
 
-👉 Depuis la barre du haut, retrouvez des accès rapides à la recherche unifiée, aux notifications, aux favoris récemment ajoutés et au centre d'applications
+:point\_right: **Utilisez la barre du haut. Elle vous permettra d'accéder rapidement à :**
 
-👉 Depuis le menu de gauche, accédez aux pages génériques :
+* l'accueil de votre Hub
+* la [recherche unifiée](rechercher-du-contenu.md)
+* vos [notifications](gerer-ses-notifications.md)
+* vos [favoris](creer-ses-favoris.md)
+* vos [applications](../personnaliser-son-profil/lister-ses-applications.md)
 
-* votre profil pour le modifier et le mettre à jour
-* la page Overview pour participer à des challenges ou constater de votre contribution
-* le fil d'activités pour consulter les dernières nouveautés de vos communautés
-* l'annuaire des espaces et des utilisateurs pour faire grandir votre réseau
-* vos paramètres utilisateur pour personnaliser vos notifications, votre mot de passe
+### :question:**Besoin de parcourir d'autres pages**&#x20;
 
-\
-En complément, nous vous proposons une navigation contextuelle :
+**👉 Ouvrez le menu de gauche et naviguez dans la plateforme en toute simplicité pour :**
 
-👉 Depuis le menu de gauche, retrouvez les communautés triées en fonction de votre consultation récente
+* consulter, modifier votre [Profil](../personnaliser-son-profil/mettre-a-jour-son-profil.md)
+* parcourir les actions et produits disponibles dans le site [Contribuer](../participer-and-contribuer/decouvrir-les-actions-a-realiser.md)
+* afficher votre tableau de bord, vos contributions, votre portefeuile dans le site [Mon Activité](../participer-and-contribuer/suivre-ses-realisations.md)
+* accéder au fil d'activités de vos [communautés](../collaborer-dans-un-espace/)
+* parcourir l'annuaire des membres et des espaces
+* modifier vos [paramètres ](../personnaliser-son-profil/)utilisateur&#x20;
 
-👉 Depuis la barre du haut, retrouvez un accès aux applications clés selon votre navigation :
+### 💡 A savoir
 
-* Sur toute page générique, nous vous proposons un accès rapide à : Overview, Centre de Contributions et Boutique
-* Dans tout espace, nous vous suggérons un accès rapide aux applications de l'espace
-
-\
-💡 A savoir
-
-* Il est possible de fixer le menu de gauche ouvert pour avoir une vision collaborative
-* Il est possible de choisir votre page d'accueil depuis le menu de gauche.
+* Fixez le menu de gauche à votre convenance et laissez-le ouvert
+* Personnalisez votre page d'accueil depuis le menu de gauche
 
 \
 ▶ Besoin d'en voir plus, visionnez cette vidéo :
