@@ -13,7 +13,7 @@ description: >-
 * l'accueil de votre Hub
 * la [recherche unifiée](rechercher-du-contenu.md)
 * vos [notifications](gerer-ses-notifications.md)
-* vos [favoris](creer-sa-liste-de-favoris.md)
+* vos [favoris](creer-ses-favoris.md)
 * vos [applications](lister-ses-applications.md)
 
 ### :question:**Besoin de parcourir d'autres pages**&#x20;

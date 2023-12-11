@@ -1,18 +1,23 @@
+---
+description: Accédez à votre solution Meeds depuis une tablette ou un mobile
+---
+
 # Utiliser Meeds en mobilité
 
-## Utiliser Meeds en mobilité
+### :question:Vous avez besoin d'accéder au Hub depuis un mobile ou une tablette ?
 
-La solution Meeds est accessible sur différent support, à partir de tout navigateur :\
-\
+La solution Meeds est accessible à partir de tout navigateur et depuis tout support
+
+👉 Ordinateur
+
 👉 Tablette
 
 👉 Mobile
 
-\
-**💡 A savoir**
+### **💡 A savoir**
 
-* Vous retrouverez toutes les capacités proposées par la solution Meeds en mobile ou en tablette. L'affichage est bien évidemment adapté à cet effet.
-* Une application mobile est en projet. Faites-nous part de ce besoin et en quoi cela serait un atout par rapport à un accès navigateur simple.
+* L'affichage est adapté selon le support utilisé
+* Certaines actions peuvent être inaccessible en mobile (édition d'une note, accès à l'administration)
 
 \
 ▶ Besoin d'en voir plus, visionnez cette vidéo :
