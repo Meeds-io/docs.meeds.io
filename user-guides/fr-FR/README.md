@@ -1,9 +1,8 @@
 ---
 description: >-
-  Retrouvez ici les informations pratiques sur l'utilisation de la solution
-  Meeds. Ce guide propose des instructions simples et nous comptons sur vous
-  pour proposer des améliorations.
+  Retrouvez ici les informations clés pour utiliser votre solution Meeds :
+  Démarrage de votre Hub,  Connecteurs, et Conseils pratiques
 ---
 
-# Guide Utilisateur
+# Documentation Meeds
 

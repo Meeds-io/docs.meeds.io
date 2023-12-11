@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Guide Utilisateur](README.md)
+* [Documentation Meeds](README.md)
 
 ## Premiers pas
 
