@@ -6,9 +6,7 @@ description: >-
 
 # Créer sa liste de favoris
 
-### :question:Besoin de garder en mémoire un message pour plus tard ?
-
-### :question:Besoin de mettre en favori un espace que vous consultez régulièrement ?
+### :question:Un espace à mettre en favori ? OU Un message à lire plus tard ?
 
 Marquez les contenus qui vous intéressent en favori. Et créez ainsi votre panier de contenus utiles, facile à retrouver
 
