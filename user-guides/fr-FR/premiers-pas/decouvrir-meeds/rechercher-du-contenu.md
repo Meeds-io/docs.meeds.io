@@ -23,7 +23,7 @@ Vous pourrez rechercher parmi les types de contenu suivant :
 
 **Vous pourrez ajouter à cela des filtres complémentaires :**
 
-* [Vos favoris](creer-sa-liste-de-favoris.md)
+* [Vos favoris](creer-ses-favoris.md)
 * Des # [tags](../collaborer-dans-un-espace/referencer-son-contenu-avec-des-tags.md) ajoutés dans les contenus
 
 **Et bien sûr entrer un texte pour filtrer votre liste selon son contenu:**

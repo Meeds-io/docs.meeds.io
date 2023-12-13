@@ -1,2 +1,0 @@
-# Récompenser les participants
-

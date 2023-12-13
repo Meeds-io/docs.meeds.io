@@ -1,2 +1,0 @@
-# ⚙ Configurer en quelques clics
-
