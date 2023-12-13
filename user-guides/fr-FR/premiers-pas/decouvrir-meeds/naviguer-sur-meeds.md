@@ -21,8 +21,8 @@ description: >-
 **👉 Ouvrez le menu de gauche et naviguez dans la plateforme en toute simplicité pour :**
 
 * consulter, modifier votre [Profil](../personnaliser-son-profil/mettre-a-jour-son-profil.md)
-* parcourir les actions et produits disponibles dans le site [Contribuer](../contribuer/soumettre-ses-contributions.md)
-* afficher votre tableau de bord, vos contributions, votre portefeuile dans le site [Mon Activité](../contribuer/suivre-ses-realisations.md)
+* parcourir les actions et produits disponibles dans le site [Contribuer](../participer-and-contribuer/decouvrir-les-actions-a-realiser.md)
+* afficher votre tableau de bord, vos contributions, votre portefeuile dans le site [Mon Activité](../contribuer/suivre-ses-realisations-en-cours.md)
 * accéder au fil d'activités de vos [communautés](../collaborer-dans-un-espace/)
 * parcourir l'annuaire des membres et des espaces
 * modifier vos [paramètres ](../personnaliser-son-profil/)utilisateur&#x20;

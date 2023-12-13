@@ -31,7 +31,7 @@ Vous pourrez lister les actions par programme pour une vue par thématique
 
 &#x20;:point\_right: Accédez au programme de votre choix
 
-Consultez un [programme de contribution](consulter-un-programme-dengagement.md)
+Consultez un [programme de contribution](../contribuer/consulter-les-programmes-de-contributions.md)
 
 Listez les actions et choisissez l'action à laquelle vous voulez participer&#x20;
 
@@ -39,7 +39,7 @@ Découvrez les critères attendus
 
 &#x20;:point\_right: Retrouvez les actions à la une
 
-Depuis le [tableau de bord](suivre-son-avancement-et-ses-recompenses.md), ou bien depuis le fil d'activités général ou d'un espace, découvrez les actions à la une
+Depuis le [tableau de bord](../contribuer/consulter-son-tableau-de-bord-en-cours.md), ou bien depuis le fil d'activités général ou d'un espace, découvrez les actions à la une
 
 Affichez à votre convenance les actions auxquelles vous voulez participer
 
