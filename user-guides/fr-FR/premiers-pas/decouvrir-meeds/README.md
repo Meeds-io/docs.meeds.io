@@ -1,5 +1,7 @@
 ---
-description: Commencez à utiliser la solution Meeds en quelques minutes
+description: >-
+  En quelques étapes simples, découvrez comment utiliser simplement et
+  efficacement votre Hub Meeds
 ---
 
 # 🚀 Découvrir Meeds
