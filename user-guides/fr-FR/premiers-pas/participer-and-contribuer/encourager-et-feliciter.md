@@ -20,17 +20,11 @@ _Vous mettez en valeur vos collègues et vous leur donnez ainsi plus de visibili
 
 Envoyez des **Kudos** aux personnes que vous souhaitez encourager, remercier, féliciter
 
-* Depuis&#x20;
+* Depuis le **profil d'un utilisateur**, envoyez un kudos et choisissez où ce message sera publié
+* En **commentant le message ou un commentaire** de la personne que vous souhaitez féliciter
+* Dès la composition d'un message, choisissez d'envoyer un kudos, indiquer le destinataire et l'audience
 
+### :question:Combien de Kudos puis-je envoyer ?
 
-
-
-
-💡 A savoir
-
-* Le nombre de Kudos est **limité**. Il est donc nécessaire de distribuer à bon escient ces marques de reconnaissance
-* Les Kudos peuvent être transmis sous forme d'**activité principale** ou bien sous forme de **commentaire**
-* Vous pouvez envoyer un Kudos à **votre réseau** (seuls vos contacts et le destinataire le verront) ou bien auprès d'**une audience particulière** (par choix d'un espace)
-
-\
-▶ Besoin d'en voir plus, visionnez cette vidéo :&#x20;
+* Votre kudos a une valeur. **Son usage est donc limité**.
+* Par défaut, vous pouvez en transmettre **3 par semaine**. Votre animateur de Hub peut décider d'en allouer plus et de modifier la périodicité (semaine, mois, trimestre, semestre, année)
