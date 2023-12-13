@@ -1,13 +1,31 @@
+---
+description: >-
+  Remerciez, félicitez vos pairs et développez la reconnaissance mutuelle ainsi
+  que la confiance en soi
+---
+
 # Encourager et féliciter
 
-Meeds **promeut la reconnaissance mutuelle** et l'encouragement par les pairs.\
-\
-👉 Cela soutient la prise d'initiatives. Plus vous êtes remercié pour vos actions, plus vous allez en réaliser\
-👉 Ceci valorise les expériences et les compétences de chacun. Vous mettez en valeur vos collègues et vous leur donnez ainsi plus de visibilité.\
-\
-Utilisez donc les **Kudos** pour remercier, féliciter ou encourager l'action des autres membres de votre communauté. Il vous remercieront de cette mise en lumière et de cette reconnaissance.
+### :bulb:Meeds **promeut la reconnaissance et l'encouragement mutuels**
 
-\
+👉 Vous soutenez la prise d'initiatives
+
+_Plus vous êtes remercié pour vos actions, plus vous allez en réaliser_
+
+👉 Vous valorisez les expériences et les compétences de chacun.&#x20;
+
+_Vous mettez en valeur vos collègues et vous leur donnez ainsi plus de visibilité._
+
+### :question:Que propose Meeds pour développer la reconnaissance mutuelle ?
+
+Envoyez des **Kudos** aux personnes que vous souhaitez encourager, remercier, féliciter
+
+* Depuis&#x20;
+
+
+
+
+
 💡 A savoir
 
 * Le nombre de Kudos est **limité**. Il est donc nécessaire de distribuer à bon escient ces marques de reconnaissance

@@ -12,7 +12,7 @@
   * [Lister ses applications](premiers-pas/decouvrir-meeds/lister-ses-applications.md)
   * [Créer sa liste de favoris](premiers-pas/decouvrir-meeds/creer-ses-favoris.md)
   * [Utiliser Meeds en mobilité](premiers-pas/decouvrir-meeds/utiliser-meeds-en-mobilite.md)
-* [🎯 Participer & contribuer](premiers-pas/participer-and-contribuer/README.md)
+* [🎯 Participer & Contribuer](premiers-pas/participer-and-contribuer/README.md)
   * [Découvrir les actions à réaliser](premiers-pas/participer-and-contribuer/decouvrir-les-actions-a-realiser.md)
   * [Consulter et utiliser un programme d'engagement](premiers-pas/participer-and-contribuer/consulter-et-utiliser-un-programme-dengagement.md)
   * [Encourager et féliciter](premiers-pas/participer-and-contribuer/encourager-et-feliciter.md)
