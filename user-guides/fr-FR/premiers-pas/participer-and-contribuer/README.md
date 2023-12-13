@@ -1,6 +1,6 @@
 ---
 description: >-
-  Contribuer aux actions proposées par votre communauté et participer à son
+  Contribuez aux actions proposées par votre communauté et participez à son
   développement grâce aux outils mis à disposition par la solution Meeds
 ---
 

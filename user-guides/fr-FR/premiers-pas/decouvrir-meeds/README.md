@@ -6,3 +6,4 @@ description: >-
 
 # 🚀 Découvrir Meeds
 
+Suivez ci-dessous nos conseils pratiques pour bien démarrer

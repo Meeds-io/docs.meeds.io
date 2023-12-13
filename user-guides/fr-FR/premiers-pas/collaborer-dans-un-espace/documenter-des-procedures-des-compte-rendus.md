@@ -1,10 +1,23 @@
+---
+description: >-
+  Consolidez vos connaissances avec la solution Meeds et centralisez les infos
+  pour un accès rapide et efficace.
+---
+
 # Documenter des procédures, des compte-rendus
 
-Consolidez vos connaissances avec la solution Meeds et **centralisez les infos pour un accès rapide et efficace**.\
-\
-👉 Depuis un espace créé pour le suivi d'un projet, documentez les comptes-rendu et les spécifications de votre projet\
-👉 Au sein d'une communauté d'échange, consolidez vos infos sur une thématique et organisez simplement les sujets\
-👉 Dans le cadre d'un forum, recensez les questions et formalisez des réponses vérifiées et mises à jour régulièrement
+### :question:De quoi parlons-nous ?
 
-\
+👉 Documentez les comptes-rendu et les spécifications de votre projet
+
+* Créez votre espace projet
+* Accédez à l'application Notes
+* Organisez vos notes en fonction de leur catégorie, d'une arborescence, de leur thématique
+
+👉 Si besoin, publiez votre note pour inciter à l'échange
+
+* Depuis votre note, alors que vous l'éditez
+* Demandez à la publier en plus de la sauvegarder
+* Votre note sera ainsi mise en avant dans le fil d'activités de votre espace
+
 ▶ Besoin d'en voir plus, visionnez cette vidéo :&#x20;

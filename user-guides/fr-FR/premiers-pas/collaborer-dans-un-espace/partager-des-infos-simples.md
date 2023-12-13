@@ -1,9 +1,17 @@
+---
+description: >-
+  Soutenir une discussion est la force de toute collaboration. Découvrez comment
+  Meeds peut vous aider.
+---
+
 # Partager des infos simples
 
-Grâce à la solution Meeds, **engagez simplement la conversation** et **incitez à l'échange.**\
-\
-👉 Publiez un message bref\
-👉 Partagez des liens, vidéos\
+### :question:Quelles sont les options d'échange en ligne ?
+
+👉 Publiez un message bref
+
+👉 Partagez des liens, vidéos
+
 👉 Proposez des sondages
 
 \
