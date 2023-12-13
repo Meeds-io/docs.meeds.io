@@ -1,4 +1,4 @@
-# Suivres les analytiques
+# 📊 Suivres les analytiques
 
 Votre solution Meeds vous propose des indicateurs clés pour comprendre
 
