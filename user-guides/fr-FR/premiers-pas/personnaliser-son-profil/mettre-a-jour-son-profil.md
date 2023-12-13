@@ -1,27 +1,26 @@
+---
+description: >-
+  La solution Meeds vous propose un annuaire des utilisateurs. Pour être visible
+  des autres utilisateurs, mettez à jour votre profil
+---
+
 # Mettre à jour son profil
 
-## Mettre à jour son profil
+## :question:Pourquoi mettre à jour mon profil ?
 
-La solution Meeds vous propose un annuaire des utilisateurs. Ainsi, vous pouvez vous-même **personnaliser votre profil**.\
-\
-Vous pourrez notamment :
+:point\_right: **Cela facilitera la recherche de votre profil depuis l'annuaire utilisateur**
 
-👉 Ajouter une photo de profil ainsi qu'une bannière
+* Ajoutez un avatar et rendez votre profil facilement reconnaissable
+* Précisez vos coordonnées et permettez aux autres utilisateurs de vous contacter
+* Ajoutez en complément un à-propos voire vos expériences professionnelles.&#x20;
 
-👉 Préciser vos coordonnées de contact\
-\
-En complément, nous vous suggérons d'ajouter des informations propres à votre profil :
+### :question: Comment accéder à mon profil ?
 
-👉 Un "à propos" pour vous présenter et indiquer votre état d'esprit du moment ou simplement vous présenter en quelques mots aux autres
+👉 **Depuis le menu de gauche, cliquez sur votre nom**
 
-👉 Vos expériences professionnelles ou personnelles pour valoriser votre histoire et vos compétences
+* Vous pourrez modifier les champs proposés à l'édition
+* D'autres informations sont affichées sur votre profil. Elles sont alimentées automatiquement en fonction de vos contributions et de votre activité
 
-\
-💡 A savoir
-
-* Indiquer ses coordonnées permettra aux autres membres de la communauté de vous retrouver
-
-\
 ▶ Besoin d'en voir plus, visionnez cette vidéo :
 
 {% embed url="https://youtu.be/fNCsNLClJ4M" %}
