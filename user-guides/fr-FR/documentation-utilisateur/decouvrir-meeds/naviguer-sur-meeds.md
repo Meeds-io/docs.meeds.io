@@ -13,7 +13,7 @@ description: >-
 * l'accueil de votre Hub
 * la [recherche unifiée](rechercher-du-contenu.md)
 * vos [notifications](gerer-ses-notifications.md)
-* vos [favoris](creer-ses-favoris.md)
+* vos [favoris](creer-sa-liste-de-favoris.md)
 * vos [applications](lister-ses-applications.md)
 
 ### :question:**Besoin de parcourir d'autres pages**&#x20;
@@ -21,7 +21,7 @@ description: >-
 **👉 Ouvrez le menu de gauche et naviguez dans la plateforme en toute simplicité pour :**
 
 * consulter, modifier votre [Profil](../personnaliser-son-profil/mettre-a-jour-son-profil.md)
-* parcourir les actions et produits disponibles dans le site [Contribuer](../participer-and-contribuer/decouvrir-les-actions-a-realiser.md)
+* parcourir les actions et produits disponibles dans le site [Contribuer](../contribuer/soumettre-ses-contributions.md)
 * afficher votre tableau de bord, vos contributions, votre portefeuile dans le site [Mon Activité](../contribuer/suivre-ses-contributions.md)
 * accéder au fil d'activités de vos [communautés](../collaborer-dans-un-espace/)
 * parcourir l'annuaire des membres et des espaces
