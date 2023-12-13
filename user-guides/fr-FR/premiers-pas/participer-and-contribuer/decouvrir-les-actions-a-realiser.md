@@ -39,11 +39,15 @@ Découvrez les critères attendus
 
 &#x20;:point\_right: Retrouvez les actions à la une
 
-Depuis le [tableau de bord](../contribuer/consulter-son-tableau-de-bord-en-cours.md), ou bien depuis le fil d'activités général ou d'un espace, découvrez les actions à la une
+Depuis le [tableau de bord](../contribuer/consulter-son-tableau-de-bord.md), ou bien depuis le fil d'activités général ou d'un espace, découvrez les actions à la une
 
 Affichez à votre convenance les actions auxquelles vous voulez participer
 
 ### :question:Comment soumettre sa contribution manuellement ?
+
+A partir d'une action, annoncez la réalisation de votre contribution et partagez les éléments selon les critères attendus.
+
+:bulb: **Annulez votre contribution simplement depuis le message d'annonce**
 
 A partir d'une action, annoncez la réalisation de votre contribution et partagez les éléments selon les critères attendus.
 
