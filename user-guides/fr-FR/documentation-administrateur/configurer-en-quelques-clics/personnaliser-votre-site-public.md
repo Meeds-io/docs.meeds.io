@@ -43,7 +43,7 @@ Publier votre site public vous permettra de :&#x20;
 
 :point\_right: **Déléguez la gestion de contenu**
 
-* Identifiez un utilisateur dans le groupe ['Web-contributors'](../gerer-vos-utilisateurs-et-groupes/gerer-les-droits-utilisateurs.md)
+* Identifiez un utilisateur dans le groupe ['Web-contributors'](../gerez-vos-utilisateurs-et-groupes/gerer-les-droits-utilisateurs.md)
 * Ajoutez-lui le rôle 'Publisher'
 * Il pourra accéder au site public même si pas visible&#x20;
 * Il pourra modifier le contenu (bannière, liens, texte)
