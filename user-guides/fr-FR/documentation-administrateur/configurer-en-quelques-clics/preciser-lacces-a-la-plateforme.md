@@ -53,5 +53,5 @@ description: >-
 * Selon le groupe utilisateur, chacun pourra être membre de droit de ces espaces obligatoires
 * Il ne sera pas possible pour eux de les quitter.
 
-Cf. [ici ](../gerez-vos-utilisateurs-et-groupes/gerer-les-espaces.md)pour plus d'informations
+Cf. ici pour plus d'informations
 

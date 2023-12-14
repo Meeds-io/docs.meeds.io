@@ -50,7 +50,6 @@
 * [👥 Gérer vos utilisateurs et groupes](administrer-un-hub/animez-des-communautes.md)
   * [Créer et gérer les utilisateurs](documentation-administrateur/gerez-vos-utilisateurs-et-groupes/creer-et-gerer-les-utilisateurs.md)
   * [Gérer les droits utilisateurs](documentation-administrateur/gerez-vos-utilisateurs-et-groupes/gerer-les-droits-utilisateurs.md)
-  * [Gérer les espaces](documentation-administrateur/gerez-vos-utilisateurs-et-groupes/gerer-les-espaces.md)
 * [🎁 Animer votre politique de reconnaissance](administrer-un-hub/proposer-des-actions-a-realiser.md)
   * [Configurer les paramètres de reconnaissance](documentation-administrateur/animer-votre-politique-de-reconnaissance/configurer-les-parametres-de-reconnaissance.md)
   * [Activer les connecteurs](documentation-administrateur/animer-votre-politique-de-reconnaissance/activer-les-connecteurs.md)
