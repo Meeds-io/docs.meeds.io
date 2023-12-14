@@ -48,7 +48,7 @@
   * [Préciser l'accès à la plateforme](documentation-administrateur/configurer-en-quelques-clics/preciser-lacces-a-la-plateforme.md)
   * [Personnaliser votre site public](documentation-administrateur/configurer-en-quelques-clics/personnaliser-votre-site-public.md)
 * [👥 Gérer vos utilisateurs et groupes](administrer-un-hub/animez-des-communautes.md)
-  * [Créer et gérer les utilisateurs (en cours)](documentation-administrateur/gerer-vos-utilisateurs-et-groupes/creer-et-gerer-les-utilisateurs-en-cours.md)
+  * [Créer et gérer les utilisateurs](documentation-administrateur/gerer-vos-utilisateurs-et-groupes/creer-et-gerer-les-utilisateurs.md)
   * [Gérer les droits utilisateurs](documentation-administrateur/gerez-vos-utilisateurs-et-groupes/gerer-les-droits-utilisateurs.md)
   * [Lier un espace à un groupe](documentation-administrateur/gerer-vos-utilisateurs-et-groupes/lier-un-espace-a-un-groupe.md)
   * [Ajouter un groupe utilisateur](documentation-administrateur/gerer-vos-utilisateurs-et-groupes/ajouter-un-groupe-utilisateur.md)
