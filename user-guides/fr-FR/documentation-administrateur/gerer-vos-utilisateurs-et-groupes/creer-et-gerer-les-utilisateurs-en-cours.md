@@ -47,7 +47,7 @@ description: Créer, inviter vos utilisateurs
 
 Voici un fichier type pour préparer l'import des utilisateurs :&#x20;
 
-
+{% file src="../../.gitbook/assets/import.csv" %}
 
 #### :point\_right: **Importer le fichier**
 
