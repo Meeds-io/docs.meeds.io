@@ -53,5 +53,5 @@ description: >-
 * Selon le groupe utilisateur, chacun pourra être membre de droit de ces espaces obligatoires
 * Il ne sera pas possible pour eux de les quitter.
 
-Cf. ici pour plus d'informations
+Cf. [ici](https://meeds.gitbook.io/meeds-guides/v/french/documentation-administrateur/gerer-vos-utilisateurs-et-groupes/gerer-les-droits-utilisateurs#gestion-des-communautes) pour plus d'informations
 
