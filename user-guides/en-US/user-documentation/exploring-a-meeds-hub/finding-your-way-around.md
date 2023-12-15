@@ -1,6 +1,20 @@
+---
+description: >-
+  Discover how the Meeds solution offers you an intuitive, tailored, and modern
+  navigation experience.
+---
+
 # Finding Your Way Around
 
-The Meeds Hub has a flexible, easy-to-use, and up-to-date interface to explore.
+### :question: Need quick access to tools, applications?
+
+:point\_right: **Use the top bar. It will allow you to quickly:**
+
+* The Home Page
+* Search
+* Notifications
+* Favorites
+* Applications
 
 Here's how to use the basic navigation:
 

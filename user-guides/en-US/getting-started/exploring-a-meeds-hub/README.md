@@ -1,2 +1,0 @@
-# 🚀 Exploring a Meeds Hub
-
