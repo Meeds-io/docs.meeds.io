@@ -1,35 +1,56 @@
+---
+description: Discover how to receive, organize, and sort your notifications
+---
+
 # Updating Your Notifications
 
-Meeds isn't just about helping you work together better. It also gives you apps that can help you plan a project, share and collect information and knowledge.
+Your Hub can support you in your daily work through various tools. Our notification system is also designed for this purpose.
 
 
 
-With so much happening, we have a way to help you sort out all the information. You can change your notifications to make them work best for you.
+### :question:How to be notified?
 
+You can be notified in three different ways:
 
+* By email, at the address registered in your profile.
+* From the notification center on the site.
+* From the left menu, for unread activities\*.
 
-You can choose how to get notifications:&#x20;
+_\*Only activity-type notifications can appear as a badge in the left menu._
 
-👉 Email notification: sent to the email linked to your account&#x20;
+### :question:What notifications can I receive?
 
-👉 On-site notification: shows up right on the site&#x20;
+Notifications are organized by theme:
 
-👉 Unread activity notification: shows up when there's something new in your groups
+* Spaces & Users: invitation to join a space, to connect, ...
+* Discussions: Interactions on the activity stream
+* Contributions: new available actions, new announcements, ...
+* Kudos: sending and receiving kudos
+* Tasks: task management and tracking
+* Wallet: request or receipt of funds, sending rewards
+* Shop: new product available, new order, ...
 
+### :question:How to modify your notifications?
 
+Access your settings to modify your notification preferences
 
-You can turn them off completely or turn off certain types of notifications. With the settings, you can make changes that fit how you use Meeds. For example:&#x20;
+* You can choose not to be notified at all through a specific channel
+* You can choose to detail the channel for each notification
 
-👉 You can choose not to get any email notifications.&#x20;
+### :question:Too many notifications? Here are our recommendations:
 
-👉 You can get notified on the site only for reward payments or when a new product is added.&#x20;
+* For any mention in a message, task assignment, receipt of kudos, or other solicitation,
 
-👉 You can choose to see notifications for activity only in the activity feed.
+:point\_right: Prioritize **on-site notifications** (or even via email).
 
+* For any new activity published on the activity stream,
 
+:point\_right: Simply identify them from **the left menu**
 
-**💡 Keep in Mind**: Your administrator may have turned off some notifications by default, so you won't be able to turn them on.
+* For any activity you want to observe for new comments or modifications,
 
+:point\_right: Choose to **watch this activity** from the options provided
 
+* For any space you don't want to follow,
 
-▶ Want to see more? Check out this video:
+:point\_right: **Mute it**. You will only be notified if mentioned or solicited otherwise.
