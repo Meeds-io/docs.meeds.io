@@ -7,6 +7,7 @@
 * [👨💻 Introduction](user-documentation/introduction.md)
 * [🚀 Exploring a Meeds Hub](user-documentation/exploring-a-meeds-hub/README.md)
   * [Finding Your Way Around](user-documentation/exploring-a-meeds-hub/finding-your-way-around.md)
+  * [Search for content](user-documentation/exploring-a-meeds-hub/search-for-content.md)
   * [Updating Your Profile](user-documentation/exploring-a-meeds-hub/updating-your-profile.md)
   * [Updating Your Notifications](user-documentation/exploring-a-meeds-hub/updating-your-notifications.md)
   * [Updating Your Password](user-documentation/exploring-a-meeds-hub/updating-your-password.md)
