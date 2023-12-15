@@ -52,7 +52,7 @@
   * [Préciser l'accès à la plateforme](documentation-administrateur/configurer-en-quelques-clics/preciser-lacces-a-la-plateforme.md)
   * [Personnaliser votre site public](documentation-administrateur/configurer-en-quelques-clics/personnaliser-votre-site-public.md)
   * [Configurer les notifications](documentation-administrateur/configurer-en-quelques-clics/configurer-les-notifications.md)
-  * [Ajouter des applications (en cours)](documentation-administrateur/configurer-en-quelques-clics/ajouter-des-applications-en-cours.md)
+  * [Ajouter des applications](documentation-administrateur/configurer-en-quelques-clics/ajouter-des-applications.md)
 * [👥 Gérer vos utilisateurs et groupes](administrer-un-hub/animez-des-communautes.md)
   * [Créer et gérer les utilisateurs](documentation-administrateur/gerer-vos-utilisateurs-et-groupes/creer-et-gerer-les-utilisateurs-en-cours.md)
   * [Gérer les droits utilisateurs](documentation-administrateur/gerez-vos-utilisateurs-et-groupes/gerer-les-droits-utilisateurs.md)
