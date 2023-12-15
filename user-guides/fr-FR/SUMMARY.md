@@ -61,7 +61,7 @@
   * [Ajouter un groupe utilisateur](documentation-administrateur/gerer-vos-utilisateurs-et-groupes/ajouter-un-groupe-utilisateur.md)
 * [🎁 Animer votre politique de reconnaissance](administrer-un-hub/proposer-des-actions-a-realiser.md)
   * [Configurer les paramètres de reconnaissance](documentation-administrateur/animer-votre-politique-de-reconnaissance/configurer-les-parametres-de-reconnaissance.md)
-  * [Activer les connecteurs](documentation-administrateur/animer-votre-politique-de-reconnaissance/activer-les-connecteurs.md)
+  * [Activer les connecteurs](documentation-administrateur/animer-votre-politique-de-reconnaissance/activer-les-connecteurs-en-cours.md)
   * [Administrer les portefeuilles](documentation-administrateur/animer-votre-politique-de-reconnaissance/administrer-les-portefeuilles.md)
   * [Récompenser](documentation-administrateur/animer-votre-politique-de-reconnaissance/recompenser.md)
   * [Gérer les badges](documentation-administrateur/animer-votre-politique-de-reconnaissance/gerer-les-badges.md)
