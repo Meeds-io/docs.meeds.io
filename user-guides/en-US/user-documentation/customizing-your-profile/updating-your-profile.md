@@ -22,3 +22,5 @@ description: >-
 
 * You can then edit the fields as needed.&#x20;
 * Additional information is displayed on your profile, automatically updated based on your contributions and activity.
+
+{% embed url="https://www.youtube.com/watch?v=ObGeXhxsZl4" %}
