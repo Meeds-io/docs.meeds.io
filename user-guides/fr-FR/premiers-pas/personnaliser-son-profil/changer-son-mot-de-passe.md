@@ -29,8 +29,6 @@ description: >-
 * Il faudra attendre un certain temps pour de nouveau réessayer.
 
 \
-▶ Besoin d'en voir plus, visionnez cette vidéo :
+▶ Besoin d'en voir plus, visionnez cette vidéo :&#x20;
 
-{% embed url="https://youtu.be/WUYraOcdZzw" %}
-Sécuriser votre mot de passe
-{% endembed %}
+{% embed url="https://www.youtube.com/watch?v=E2ju965tPvQ" %}

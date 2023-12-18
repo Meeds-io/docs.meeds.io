@@ -21,8 +21,6 @@ description: >-
 * Vous pourrez modifier les champs proposés à l'édition
 * D'autres informations sont affichées sur votre profil. Elles sont alimentées automatiquement en fonction de vos contributions et de votre activité
 
-▶ Besoin d'en voir plus, visionnez cette vidéo :
+▶ Besoin d'en voir plus, visionnez cette vidéo&#x20;
 
-{% embed url="https://youtu.be/fNCsNLClJ4M" %}
-Mettre à jour son profil pour être mieux connu
-{% endembed %}
+{% embed url="https://www.youtube.com/watch?v=PI4V9aCYkeU" %}
