@@ -22,4 +22,6 @@ description: From your wallet, access the history of your rewards and other tran
 * With a summary graph showing both your rewards and your activity in the store (expenses).
 * With access to your transactions and details.
 
+{% embed url="https://youtu.be/bCUlte_k3js" %}
+
 ​
