@@ -23,3 +23,5 @@ description: >-
 * Avec une courbe récapitulant autant vos récompenses que votre activité dans la boutique (dépenses)
 * Avec un accès à vos transactions et le détail
 
+{% embed url="https://youtu.be/LGkoQCkxkqw" %}
+
