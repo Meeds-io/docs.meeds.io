@@ -25,3 +25,5 @@ description: >-
 :warning: **Note: This is your wallet, and only you have access to this information. Keep this private key. It will be useful for accessing funds and managing your wallet**
 
 :bulb: _For your information, transactions are conducted on the Polygon network, and the gas used for fees is Matic_
+
+{% embed url="https://youtu.be/5LsKqlgYGsI" %}
