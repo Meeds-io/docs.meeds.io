@@ -25,3 +25,5 @@ description: >-
 :warning: **Attention, c'est votre portefeuille et seuls vous avez accès à ces informations. Conservez cette clé privée. Elle vous sera utile pour accéder aux fonds, gérer votre portefeuille.**
 
 :bulb: _Pour information, les transactions sont réalisées sur le réseau Polygon et le gas utilisé pour les frais est le Matic_
+
+{% embed url="https://youtu.be/-enbB-_7YgA" %}
