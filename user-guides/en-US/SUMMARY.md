@@ -16,6 +16,7 @@
   * [Updating Your Profile](user-documentation/customizing-your-profile/updating-your-profile.md)
   * [Updating Your Password](user-documentation/customizing-your-profile/updating-your-password.md)
   * [Initializing your wallet](user-documentation/customizing-your-profile/initializing-your-wallet.md)
+  * [Connecting third-party apps](user-documentation/customizing-your-profile/connecting-third-party-apps.md)
 * [🎯 Participating & Contributing](user-documentation/participating-and-contributing/README.md)
   * [Discovering Actions to Perform](user-documentation/participating-and-contributing/discovering-actions-to-perform.md)
   * [Accessing and Using an Engagement Program](user-documentation/participating-and-contributing/accessing-and-using-an-engagement-program.md)
