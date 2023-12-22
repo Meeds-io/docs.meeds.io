@@ -41,10 +41,14 @@
   * [Tracking Tasks](user-documentation/collaborating-in-spaces/tracking-tasks.md)
   * [Leading Your Community](user-documentation/collaborating-in-spaces/leading-your-community.md)
 
-## Hosting Communities
+## Administrator Documentation
 
-* [Setting up Your Hub](host-communities/set-up-your-hub.md)
-* [Managing Users](host-communities/manage-users.md)
-* [Managing Communities](host-communities/manage-communities.md)
-* [Adding Contributions](host-communities/propose-actions-to-achieve.md)
-* [Rewarding Contributors](host-communities/reward-contributors.md)
+* [👩💻 Introduction](administrator-documentation/introduction.md)
+* [⚙ Setting up Your Hub](administrator-documentation/set-up-your-hub/README.md)
+  * [Customizing the theme](administrator-documentation/set-up-your-hub/customizing-the-theme.md)
+  * [Specifying access to the platform](administrator-documentation/set-up-your-hub/specifying-access-to-the-platform.md)
+  * [Managing a Public Site](administrator-documentation/set-up-your-hub/managing-a-public-site.md)
+* [Managing Users](administrator-documentation/manage-users.md)
+* [Managing Communities](administrator-documentation/manage-communities.md)
+* [Adding Contributions](administrator-documentation/propose-actions-to-achieve.md)
+* [Rewarding Contributors](administrator-documentation/reward-contributors.md)
