@@ -1,31 +1,24 @@
-# Review and Track Your Achievements
+---
+description: >-
+  Your Hub provides you with a dashboard to track your progress and allows you
+  to contribute to the latest available actions.
+---
 
+# Consulting your Dashboard
 
+### :question:What are we talking about?
 
-Your Meeds solution supports the principle of transparency and for this purpose, it is possible to:
+Access your dashboard from the left menu, where you will find:
 
-👉 Review your achievements and track those that may have been rejected&#x20;
+* Ranking of top contributors for the current week.
+* Proposed contributions for you to complete.
+* Recently updated programs.
+* Weekly summary of your contributions.
+* Ongoing construction of your reputation.
+* Estimated earnings for the current period.\*
+* Current balance in your wallet.
+* Products available in the shop.
 
-👉 Cancel your own achievements if there's an error&#x20;
+\*This estimate is calculated based on your participation and the participation of other users during the period. It's normal to see the amount change over time.
 
-👉 Track your progress and the granting of your badges&#x20;
-
-👉 Review the achievements of other community members
-
-
-
-This way, you can:&#x20;
-
-1. Know which programs you favor the most&#x20;
-2. Understand how other members are acting&#x20;
-3. Discover other actions to take new initiatives and earn new badges
-
-
-
-**💡 Keep in mind**&#x20;
-
-Any canceled action (deleting a message, for example) will be considered canceled in your list of achievements.
-
-
-
-▶ Need to see more? Watch this video:&#x20;
+:bulb: **Each widget provides access to a sidebar listing additional options.**
