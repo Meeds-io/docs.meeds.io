@@ -58,4 +58,7 @@
 * [🎁 Adding Contributions](administrator-documentation/propose-actions-to-achieve.md)
   * [Set up Recognition Settings](administrator-documentation/propose-actions-to-achieve/set-up-recognition-settings.md)
   * [Enable Connectors](administrator-documentation/propose-actions-to-achieve/enable-connectors.md)
-* [Rewarding Contributors](administrator-documentation/reward-contributors.md)
+  * [Manage Wallet](administrator-documentation/propose-actions-to-achieve/manage-wallet.md)
+  * [Reward](administrator-documentation/propose-actions-to-achieve/reward.md)
+  * [Manage Badges](administrator-documentation/propose-actions-to-achieve/manage-badges.md)
+* [📊 Manage Analytics](administrator-documentation/reward-contributors.md)
