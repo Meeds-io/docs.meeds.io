@@ -50,5 +50,5 @@ description: >-
 * According to the user group, individuals can be members by default of these mandatory spaces.
 * They won't be able to leave these spaces.
 
-Refer to this [link ](../manage-users/)for more information.
+Refer to this [link ](../manage-users.md)for more information.
 
