@@ -1,15 +1,15 @@
-# Sharing and Interacting
+---
+description: >-
+  Supporting a discussion is the strength of any collaboration. Discover how
+  Meeds can assist you.
+---
 
-From an activity shared by your community, it's easy to start a conversation.
+# Sharing informations
 
+### :question: What are the online exchange options?
 
+👉 Post a brief message&#x20;
 
-👉 Comment on activities and add your thoughts to the discussion&#x20;
+👉 Share links, videos&#x20;
 
-👉 Like a message or a comment to show that you're interested in the topic&#x20;
-
-👉 Share an activity with a new audience and get another community's thoughts on it
-
-
-
-▶ Want to see more? Check out this video:
+👉 Propose polls

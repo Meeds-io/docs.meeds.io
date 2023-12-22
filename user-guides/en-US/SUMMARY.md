@@ -31,11 +31,14 @@
   * [Tracking Your Rewards](user-documentation/earning-rewards-and-perks/tracking-your-rewards.md)
   * [Claiming Your Perks](user-documentation/earning-rewards-and-perks/claiming-your-perks.md)
 * [⚙ Collaborating in Spaces](user-documentation/collaborating-in-spaces/README.md)
-  * [Working Well with Your Community](user-documentation/collaborating-in-spaces/working-well-with-your-community.md)
-  * [Sharing and Interacting](user-documentation/collaborating-in-spaces/sharing-and-interacting.md)
-  * [Capturing Knowledge](user-documentation/collaborating-in-spaces/documenting-procedures-and-reports.md)
+  * [Creating a space](user-documentation/collaborating-in-spaces/creating-a-space.md)
+  * [Joining a space](user-documentation/collaborating-in-spaces/joining-a-space.md)
+  * [Collaborating as a team or on a project](user-documentation/collaborating-in-spaces/working-well-with-your-community.md)
+  * [Sharing informations](user-documentation/collaborating-in-spaces/sharing-and-interacting.md)
+  * [Sharing and interacting](user-documentation/collaborating-in-spaces/documenting-procedures-and-reports.md)
+  * [Referencing content with #tags.](user-documentation/collaborating-in-spaces/referencing-content-with-tags..md)
+  * [Documenting procedures and reports](user-documentation/collaborating-in-spaces/documenting-procedures-and-reports-1.md)
   * [Tracking Tasks](user-documentation/collaborating-in-spaces/tracking-tasks.md)
-  * [Creating a Space for Building and Supporting a Community](user-documentation/collaborating-in-spaces/creating-a-space-for-building-and-supporting-a-community.md)
   * [Leading Your Community](user-documentation/collaborating-in-spaces/leading-your-community.md)
 
 ## Hosting Communities

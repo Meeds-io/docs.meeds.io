@@ -1,22 +1,22 @@
-# Working Well with Your Community
+---
+description: Meeds can support team collaboration or project implementation.
+---
 
-Meeds lets you connect in a secure, simple, and efficient environment.
+# Collaborating as a team or on a project
 
-In fact, you can:&#x20;
+### :question: How does Meeds enable collaboration?
 
-👉 Create a space for a dedicated, exclusive, or open audience&#x20;
+#### :point\_right: **Create a space in a few clicks:**
 
-👉 Encourage exchange or collaboration&#x20;
+* Experience the power of a secure, restricted, and centralized space.
+* Access practical applications to support your collaboration: exchanges, knowledge sharing, action tracking, space portfolio.
 
-* Share and discuss information on a topic to learn from each other&#x20;
-* Work together on a project, keep track of the notes and actions, and consolidate reports
+#### :point\_right: **Encourage exchange or collaboration:**
 
+* Exchange and share information on a theme.
+* Collaborate on a project, consolidate reports, and track actions.
 
+**💡 Note:**
 
-**💡 Keep in Mind**&#x20;
-
-The leader can let certain people write messages and notes. Only these people will be allowed to write. A space can be open to all users by default. If needed, reach out to your administrator.
-
-
-
-▶ Want to see more? Check out this video:
+* The drafting of messages and notes may be limited to certain individuals at the decision of the space host.
+* A space may be considered accessible to any user by default. If necessary, contact your administrator.
