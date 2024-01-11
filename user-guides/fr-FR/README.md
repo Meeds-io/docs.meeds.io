@@ -1,22 +1,26 @@
 ---
 description: >-
-  Retrouvez ici les informations clés pour utiliser la solution Meeds : Créez
-  votre communauté, organisez vos programmes de contribution et autres conseils
-  pratiques
+  Here are the key instructions for using the Meeds solution: Create your community, organize your contribution programs, and other practical tips.
 ---
 
-# Documentation Meeds
+# Meeds Documentation
 
-## A propos de Meeds
+## About Meeds
 
-Meeds ambitionne de révolutionner notre façon de travailler.
+Meeds wants to change the way we work.
 
-Lancé en 2020, par plusieurs sociétés de logiciels open-source, le projet Meeds s'est établi en Suisse en tant qu'association à but non lucratif.
+Started in 2020 by several open-source software companies, the Meeds project was set up in Switzerland as a nonprofit association.
 
-Après avoir publié sa vision dans un livre blanc, Meeds travaille maintenant à la réaliser à travers le web3 avec l'aide de la communauté des bâtisseurs de la Meeds DAO.
+After sharing its vision in a white paper, Meeds is now working to make it a reality on web3 with the help of the Meeds DAO builder community.
 
-Les différents comités de l'association Meeds supervisent le développement du logiciel open-source qui motorisent les Hubs et le WoM. Elle réglemente également l'émission et l'allocation du jeton Ɱeed, pour lequel elle a obtenu la reconnaissance légale de l'autorité suisse des marchés financiers (FINMA).
+The various committees of the Meeds DAO oversee the development of the open-source software that powers the Hubs and WoM.
 
-<figure><img src=".gitbook/assets/hero_image.webp" alt=""><figcaption><p>The Meeds DAO provides a software to help any organization to boost engagement</p></figcaption></figure>
+They also manage the issuing and giving out of the Ɱeed token, which has been officially recognized by the Swiss Financial Market Supervisory Authority (FINMA).
 
-**Envie d'en savoir plus ? Visitez notre** [**site**](https://www.meeds.io)&#x20;
+<figure>
+
+![](.gitbook/assets/hero_image.webp)<figcaption>
+
+The Meeds DAO offers software that helps any organization increase engagement.</figcaption></figure>
+
+**Want to learn more? Please, visit our** [**website**](https://www.meeds.io/)
