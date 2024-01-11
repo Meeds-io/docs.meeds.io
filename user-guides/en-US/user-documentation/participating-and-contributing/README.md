@@ -1,7 +1,5 @@
 ---
-description: >-
-  Contribute to the actions proposed by your community and participate in its
-  development using the tools provided by the Meeds solution.
+description: Contribute to the actions proposed by your community and participate in its development using the tools provided by the Meeds solution.
 ---
 
 # 🏆 Participating & Contributing

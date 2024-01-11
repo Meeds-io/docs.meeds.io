@@ -10,7 +10,7 @@ The Meeds solution is accessible from any browser and on any device.
 
 👉 Computer
 
-👉 Tablet&#x20;
+👉 Tablet\&#x20
 
 👉 Mobile
 

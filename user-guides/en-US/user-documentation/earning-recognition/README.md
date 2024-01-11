@@ -1,7 +1,5 @@
 ---
-description: >-
-  In addition to taking initiatives, build your reputation and gather
-  encouragement from your peers.
+description: In addition to taking initiatives, build your reputation and gather encouragement from your peers.
 ---
 
 # 🏅 Earning Recognition

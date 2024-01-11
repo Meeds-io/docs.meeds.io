@@ -8,9 +8,9 @@ description: From your wallet, access the history of your rewards and other tran
 
 #### ​👉Each time rewards are paid, eligible members receive a notification:
 
-* Specifying the calculation period.
-* Indicating the number of Meeds received.
-* Detailing the number of points earned.
+- Specifying the calculation period.
+- Indicating the number of Meeds received.
+- Detailing the number of points earned.
 
 <figure><img src="../../.gitbook/assets/reward notif EN.png" alt=""><figcaption></figcaption></figure>
 
@@ -18,10 +18,10 @@ description: From your wallet, access the history of your rewards and other tran
 
 #### ​👉 From your wallet, review all transactions:
 
-* By month, by year.
-* With a summary graph showing both your rewards and your activity in the store (expenses).
-* With access to your transactions and details.
+- By month, by year.
+- With a summary graph showing both your rewards and your activity in the store (expenses).
+- With access to your transactions and details.
 
-{% embed url="https://youtu.be/bCUlte_k3js" %}
+{% embed url="https\://youtu.be/bCUlte_k3js" %}
 
 ​
