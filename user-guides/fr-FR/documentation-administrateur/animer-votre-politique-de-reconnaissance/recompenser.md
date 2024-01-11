@@ -23,7 +23,7 @@ description: >-
 
 :white\_check\_mark: Définir le montant ou les modalités de calcul du montant à votre convenance.
 
-Cf. [ici](../../premiers-pas/gagner-des-recompenses-et-des-avantages/comprendre-les-regles-des-recompenses.md#quelles-sont-les-modalites-de-recompense) pour explication du calcul selon choix du montant
+Cf. [ici](../../documentation-utilisateur/gagner-des-recompenses-et-des-avantages/comprendre-les-regles-des-recompenses.md#quelles-sont-les-modalites-de-recompense) pour explication du calcul selon choix du montant
 
 :bulb: _Pas besoin d'utiliser les paramètres pour les kudos. Ceci sera prochainement supprimé_
 

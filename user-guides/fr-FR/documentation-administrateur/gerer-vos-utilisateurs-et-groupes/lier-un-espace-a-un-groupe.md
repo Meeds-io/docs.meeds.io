@@ -8,7 +8,7 @@ description: >-
 
 #### :point\_right: Gestion des espaces
 
-Déléguer cette gestion des espaces auprès de groupe utilisateur en suivant ce [mode opératoire](../gerez-vos-utilisateurs-et-groupes/gerer-les-droits-utilisateurs.md#droits-de-gestion-despace)
+Déléguer cette gestion des espaces auprès de groupe utilisateur en suivant ce [mode opératoire](gerer-les-droits-utilisateurs.md#droits-de-gestion-despace)
 
 #### :point\_right: Lier un espace à un groupe
 

@@ -30,4 +30,4 @@ Vous pouvez autoriser ou pas l'usage de notification selon le canal.&#x20;
 * Précisez par type de notification si l'utilisateur pourra activer ou pas tel ou tel canal de notification
 * Si vous ne souhaitez pas autoriser du tout les notifications pour un type, vous pouvez désactiver les canaux à disposition. Alors, cette notification ne sera pas proposée aux utilisateurs.
 
-:bulb: Tout comme les canaux de notification, [chaque utilisateur pourra ensuite désactiver](../../premiers-pas/decouvrir-meeds/gerer-ses-notifications.md) les notifications à sa convenance ou préciser le canal à utiliser
+:bulb: Tout comme les canaux de notification, [chaque utilisateur pourra ensuite désactiver](../../documentation-utilisateur/decouvrir-meeds/gerer-ses-notifications.md) les notifications à sa convenance ou préciser le canal à utiliser
