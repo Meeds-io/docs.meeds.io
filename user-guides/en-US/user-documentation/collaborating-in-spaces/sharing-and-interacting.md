@@ -10,6 +10,8 @@ description: >-
 
 👉 Post a brief message&#x20;
 
-👉 Share links, videos&#x20;
+👉 Share images, links, videos&#x20;
 
 👉 Propose polls
+
+:bulb: **Insert links into your content easily using the quick editor or by using keyboard shortcuts (CTRL + K)**
