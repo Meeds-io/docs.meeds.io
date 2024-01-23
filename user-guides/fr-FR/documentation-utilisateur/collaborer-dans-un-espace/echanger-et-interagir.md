@@ -14,4 +14,9 @@ description: >-
 * Appréciez un message, un commentaire pour démontrer de votre intérêt pour le sujet
 * Partagez une activité vers une nouvelle audience et sollicitez l'avis d'une autre communauté
 
-▶ Besoin d'en voir plus, visionnez cette vidéo :&#x20;
+:point\_right: **Sollicitez vos interlocuteurs simplement en les mentionnant**
+
+* Ajoutez un @&#x20;
+* Il vous sera proposé par défaut des mentions groupées : mentionner tout le monde, les animateurs de l'espace, et le cas échéant, les rédacteurs de l'espace
+* Tapez les lettres de votre interlocuteur et choisissez depuis les suggestions l'utilisateur que vous souhaitez mentionner.
+* Une fois le message publié, les utilisateurs mentionnées (individuel ou groupes) recevront une [notification](../decouvrir-meeds/gerer-ses-notifications.md#trop-de-notifications-voici-nos-recommandations)&#x20;
