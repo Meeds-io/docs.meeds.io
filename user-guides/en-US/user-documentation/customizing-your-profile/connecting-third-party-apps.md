@@ -22,3 +22,5 @@ description: >-
 By connecting external profiles, you enable Meeds to recognize and reward your contributions made on these external platforms.&#x20;
 
 Remember to follow the specific authorization steps for each platform to ensure a successful connection.
+
+:bulb: **Note: This connection is suggested to you when displaying actions page in case you haven't done it yet.**
