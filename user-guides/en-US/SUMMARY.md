@@ -4,7 +4,7 @@
 
 ## USER DOCUMENTATION
 
-* [👨💻 Introduction](user-documentation/introduction.md)
+* [👨‍💻 Introduction](user-documentation/introduction.md)
 * [🚀 Exploring a Meeds Hub](user-documentation/exploring-a-meeds-hub/README.md)
   * [Finding Your Way Around](user-documentation/exploring-a-meeds-hub/finding-your-way-around.md)
   * [Searching for content](user-documentation/exploring-a-meeds-hub/searching-for-content.md)
@@ -12,7 +12,7 @@
   * [Listing your applications](user-documentation/exploring-a-meeds-hub/listing-your-applications.md)
   * [Creating your Favorite list](user-documentation/exploring-a-meeds-hub/creating-your-favorite-list.md)
   * [Using Meeds on the Go](user-documentation/exploring-a-meeds-hub/using-meeds-on-the-go.md)
-* [🛠 Customizing your profile](user-documentation/customizing-your-profile/README.md)
+* [🛠️ Customizing your profile](user-documentation/customizing-your-profile/README.md)
   * [Updating Your Profile](user-documentation/customizing-your-profile/updating-your-profile.md)
   * [Updating Your Password](user-documentation/customizing-your-profile/updating-your-password.md)
   * [Initializing your wallet](user-documentation/customizing-your-profile/initializing-your-wallet.md)
@@ -30,7 +30,7 @@
   * [Understanding Reward Rules](user-documentation/earning-rewards-and-perks/understanding-reward-rules.md)
   * [Tracking Your Rewards](user-documentation/earning-rewards-and-perks/tracking-your-rewards.md)
   * [Claiming Your Perks](user-documentation/earning-rewards-and-perks/claiming-your-perks.md)
-* [⚙ Collaborating in Spaces](user-documentation/collaborating-in-spaces/README.md)
+* [⚙️ Collaborating in Spaces](user-documentation/collaborating-in-spaces/README.md)
   * [Creating a space](user-documentation/collaborating-in-spaces/creating-a-space.md)
   * [Joining a space](user-documentation/collaborating-in-spaces/joining-a-space.md)
   * [Collaborating as a team or on a project](user-documentation/collaborating-in-spaces/working-well-with-your-community.md)
@@ -43,8 +43,8 @@
 
 ## Administrator Documentation
 
-* [👩💻 Introduction](administrator-documentation/introduction.md)
-* [⚙ Setting up Your Hub](administrator-documentation/set-up-your-hub/README.md)
+* [👩‍💻 Introduction](administrator-documentation/introduction.md)
+* [⚙️ Setting up Your Hub](administrator-documentation/set-up-your-hub/README.md)
   * [Customizing the theme](administrator-documentation/set-up-your-hub/customizing-the-theme.md)
   * [Specifying access to the platform](administrator-documentation/set-up-your-hub/specifying-access-to-the-platform.md)
   * [Managing a Public Site](administrator-documentation/set-up-your-hub/managing-a-public-site.md)

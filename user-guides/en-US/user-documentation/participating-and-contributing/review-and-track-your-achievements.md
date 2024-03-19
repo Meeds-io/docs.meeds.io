@@ -13,7 +13,7 @@ Access your dashboard from the left menu, where you will find:
 * Ranking of top contributors for the current week.
 * Proposed contributions for you to complete.
 * Recently updated programs.
-* Weekly summary of your contributions.
+* Weekly summary of your **accepted** contributions
 * Ongoing construction of your reputation.
 * Estimated earnings for the current period.\*
 * Current balance in your wallet.

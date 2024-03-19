@@ -16,6 +16,8 @@ Your contributions can be submitted in two ways:
 * You can share your contribution by attaching an image of that event.&#x20;
 * The contribution is thus submitted manually, and a comment can be added.
 
+:warning: _Any manual contribution is considered "pending". That means program owners need to review it to consider it in the leaderboard and the rewards computing_
+
 #### 👉 **Automatically**
 
 * If you perform actions using Meeds or another integrated tool (GitHub, Twitter, etc.),&#x20;

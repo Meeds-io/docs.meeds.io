@@ -40,3 +40,5 @@ description: >-
 * Out of 120 contributors, only 100 have a minimum of 50 points and are eligible.
 * Among these 100 eligible contributors, you have participated with a total of 350 points.
 * You will receive 350 Meeds for your contribution.
+
+:information\_source: **Only accepted contributions are considered in the Rewards Computing**
