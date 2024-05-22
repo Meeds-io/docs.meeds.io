@@ -61,6 +61,8 @@
   * [💰 Wallet](administrator-documentation/propose-actions-to-achieve/wallet.md)
   * [💖 Rewards](administrator-documentation/propose-actions-to-achieve/rewards.md)
   * [🎖️ Badges](administrator-documentation/propose-actions-to-achieve/badges.md)
+  * [Managing Engagement Programs](administrator-documentation/propose-actions-to-achieve/managing-engagement-programs/README.md)
+    * [🌐 Translation Incentives](administrator-documentation/propose-actions-to-achieve/managing-engagement-programs/translation-incentives.md)
 * [🧩 Integrations](administrator-documentation/integrations/README.md)
   * [🐙 GitHub](administrator-documentation/integrations/github.md)
   * [🐦 Twitter / X](administrator-documentation/integrations/twitter-x.md)

@@ -32,15 +32,6 @@ Click the Crowdin card to start configuring the connector :
 
 <figure><img src="../../.gitbook/assets/crowdin-admin-events.png" alt=""><figcaption></figcaption></figure>
 
-Events that can be captured include:
-
-* Suggest a translation
-* Approve a translation (for proofreader)
-* Your translation is approved (for the translator)
-* Comment or report an issue on a String
-
-
-
 
 
 :point\_right: **Allow users to connect their Crowdin account**
