@@ -50,5 +50,5 @@ _💡Cancel your contribution easily from the announcement message._
 ### ❓**How to participate with third-party tools?** <a href="#comment-participer-avec-des-outils-tiers" id="comment-participer-avec-des-outils-tiers"></a>
 
 * Access your user settings,&#x20;
-* Verify that you have access to third-party tools, and [connect your profile ](../customizing-your-profile/connecting-third-party-apps.md)if necessary.&#x20;
+* Verify that you have access to third-party tools, and [connect your profile ](../customizing-your-profile/connecting-third-party-accounts.md)if necessary.&#x20;
 * Once you are a member of the program, each of your contributions will be **automatically captured**.
