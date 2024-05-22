@@ -1,4 +1,4 @@
-# Twitter
+# 🐦 Twitter / X
 
 ### **Configure the Twitter Connector**
 

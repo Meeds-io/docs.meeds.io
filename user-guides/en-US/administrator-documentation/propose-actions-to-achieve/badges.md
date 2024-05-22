@@ -2,7 +2,7 @@
 description: Enable Contributors to earn badges based on Program Contributions
 ---
 
-# Manage Badges
+# 🎖️ Badges
 
 ### **List and Modify Accessible Badges**
 

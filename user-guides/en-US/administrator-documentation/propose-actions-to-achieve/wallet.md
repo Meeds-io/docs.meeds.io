@@ -2,7 +2,7 @@
 description: List the initialized wallets and adjust if necessary
 ---
 
-# Manage Wallet
+# 💰 Wallet
 
 ### **Top Up Your Administrator Wallet**
 

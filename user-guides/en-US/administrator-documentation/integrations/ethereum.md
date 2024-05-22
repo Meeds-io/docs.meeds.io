@@ -1,2 +1,2 @@
-# Ethereum
+# 💎 Ethereum
 

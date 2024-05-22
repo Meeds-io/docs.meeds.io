@@ -2,7 +2,7 @@
 description: Understand how to configure reward payments and transmit them
 ---
 
-# Reward
+# 💖 Rewards
 
 ### **Configure Reward Payments**
 
@@ -21,7 +21,7 @@ description: Understand how to configure reward payments and transmit them
 
 :white\_check\_mark: Define the amount or calculation method at your discretion.
 
-Cf. [Here ](reward.md#calculate-rewards)for computing explainations
+Cf. [Here ](rewards.md#calculate-rewards)for computing explainations
 
 :bulb: _Parameters for kudos are not necessary and will be removed soon._
 

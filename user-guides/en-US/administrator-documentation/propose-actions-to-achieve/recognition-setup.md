@@ -4,7 +4,7 @@ description: >-
   policy
 ---
 
-# Set up Recognition Settings
+# 🛠️ Recognition Setup
 
 ### **Set the Number of Available Kudos**
 

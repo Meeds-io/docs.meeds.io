@@ -2,7 +2,7 @@
 description: how to configure the Crowdin Connector for Meeds
 ---
 
-# Crowdin
+# 🌐 Crowdin
 
 ### **Configure the Crowdin Connector**
 

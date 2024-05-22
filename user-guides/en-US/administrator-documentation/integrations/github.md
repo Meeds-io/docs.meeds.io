@@ -1,4 +1,4 @@
-# GitHub
+# 🐙 GitHub
 
 ### **Configure the GitHub Connector**
 
