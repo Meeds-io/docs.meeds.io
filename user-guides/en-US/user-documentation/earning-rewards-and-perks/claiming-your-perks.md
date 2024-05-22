@@ -15,7 +15,7 @@ description: Contribute, be rewarded, and use your Meeds in the online shop
 
 #### :point\_right: From the left menu, go to the 'Contribute' site and then to the shop.
 
-* You must have [initialized your wallet](../customizing-your-profile/initializing-your-wallet.md) to fully use the shop.&#x20;
+* You must have [initialized your wallet](../setting-up-your-account/initializing-your-wallet.md) to fully use the shop.&#x20;
 * Once in the shop, browse the products and confirm your orders if necessary.&#x20;
 * Track your orders in the dedicated tab.
 
