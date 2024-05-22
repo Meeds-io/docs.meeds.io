@@ -30,4 +30,4 @@ You can allow or disallow the use of notifications for each channel.&#x20;
 * Specify for each notification type whether the user can activate or deactivate a particular notification channel&#x20;
 * If you do not want to allow notifications at all for a type, you can disable the available channels. Then, this notification will not be offered to users.&#x20;
 
-:bulb: Just like notification channels, each user can then [disable notifications at their convenience](../../user-documentation/exploring-a-meeds-hub/updating-your-notifications.md) or specify the channel to use.
+:bulb: Just like notification channels, each user can then [disable notifications at their convenience](../../user-guide/exploring-a-meeds-hub/updating-your-notifications.md) or specify the channel to use.
