@@ -14,6 +14,6 @@ description: Start participating easily in the actions proposed in various progr
 #### ​👉 If actions are listed:
 
 * Click on the action you're interested in to participate.
-* If it's an automatically captured contribution, follow the instructions to [connect your profile](../customizing-your-profile/connecting-third-party-accounts.md).
+* If it's an automatically captured contribution, follow the instructions to [connect your profile](../connecting-third-party-accounts/).
 
 ​💡You can contribute even if you're not a member of the audience. These are known as _public_ actions. By participating, you automatically join the space.
