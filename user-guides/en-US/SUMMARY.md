@@ -55,7 +55,7 @@
   * [Manage User Rights](administrator-documentation/manage-users/manage-user-rights.md)
   * [Bind a space to a group of users](administrator-documentation/manage-users/bind-a-space-to-a-group-of-users.md)
   * [Add a user group](administrator-documentation/manage-users/add-a-user-group.md)
-* [🎁 Adding Contributions](administrator-documentation/propose-actions-to-achieve/README.md)
+* [🎁 Managing Contributions](administrator-documentation/propose-actions-to-achieve/README.md)
   * [Set up Recognition Settings](administrator-documentation/propose-actions-to-achieve/set-up-recognition-settings.md)
   * [Enable Connectors](administrator-documentation/propose-actions-to-achieve/enable-connectors/README.md)
     * [Crowdin](administrator-documentation/propose-actions-to-achieve/enable-connectors/crowdin.md)
