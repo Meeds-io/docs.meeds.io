@@ -2,7 +2,7 @@
 description: Meeds provides connectors that facilitate integration with your tools
 ---
 
-# Enable Connectors
+# 🧩 Enable Connectors
 
 ### **List Connectors**
 
