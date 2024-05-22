@@ -1,14 +1,14 @@
-# 🌐 Translation Incentives
+# 🌐 Translations
 
 Thanks to the Crowdin Connector for Meeds, you can incentivize your community to participate in your [Crowdin](https://crowdin.com) translation projects.
 
-✋ Before designing translation incentives, configure the [Crowdin Connector](../../integrations/crowdin.md) on your Hub.
+✋ Before designing translation incentives, configure the [Crowdin Connector](../integrations/crowdin.md) on your Hub.
 
 {% embed url="https://youtu.be/N5Wuj0y0iV0?si=m2oWOQ6YUKCL2AAd&t=141" %}
 
 Once done, your program owners can select "_Crowdin"_ from the _Applications_ pulldown when creating automatic actions.
 
-<figure><img src="../../../.gitbook/assets/add-action-crowdin.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-action-crowdin.png" alt=""><figcaption></figcaption></figure>
 
 Four events Events are available :
 
@@ -19,7 +19,7 @@ Four events Events are available :
 
 Additional criteria are available to refine further when to accept a contribution or not :&#x20;
 
-<figure><img src="../../../.gitbook/assets/crowdin-action-criteria.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/crowdin-action-criteria.png" alt=""><figcaption></figcaption></figure>
 
 * **Project**: select the Crowdin projects to track
 * **Directory**: restrict to specific folders within the Crowdin project
@@ -30,7 +30,7 @@ Additional criteria are available to refine further when to accept a contributio
 
 
 
-<figure><img src="../../../.gitbook/assets/translation-program-sample.png" alt=""><figcaption><p>Sample translation program in Meeds</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/translation-program-sample.png" alt=""><figcaption><p>Sample translation program in Meeds</p></figcaption></figure>
 
 For example, in Meeds, translators could earn 2 points for every translation they made + 1 extra point if their translation was chosen, and 1 point for the proofreader.&#x20;
 
