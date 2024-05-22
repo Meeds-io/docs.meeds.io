@@ -14,6 +14,8 @@ You can activate it to allow contributors to earn points based on their particip
 
 
 
+{% embed url="https://youtu.be/N5Wuj0y0iV0" %}
+
 :bulb: **Note:**&#x20;
 
 _The Crowdin integration requires your account to have high privileges on the Crowdin projects you want to integrate with Meeds. However, you don't need to own a Crowdin Enterprise subscription._
