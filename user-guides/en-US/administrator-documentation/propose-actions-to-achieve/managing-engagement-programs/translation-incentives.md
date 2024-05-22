@@ -4,6 +4,8 @@ Thanks to the Crowdin Connector for Meeds, you can incentivize your community to
 
 ✋ Before designing translation incentives, configure the [Crowdin Connector](../../integrations/crowdin.md) on your Hub.
 
+{% embed url="https://youtu.be/N5Wuj0y0iV0?si=m2oWOQ6YUKCL2AAd&t=141" %}
+
 Once done, your program owners can select "_Crowdin"_ from the _Applications_ pulldown when creating automatic actions.
 
 <figure><img src="../../../.gitbook/assets/add-action-crowdin.png" alt=""><figcaption></figcaption></figure>
