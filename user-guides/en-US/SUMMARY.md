@@ -65,4 +65,4 @@
   * [🐦 Twitter / X](administrator-documentation/integrations/twitter-x.md)
   * [🌐 Crowdin](administrator-documentation/integrations/crowdin.md)
   * [💎 Ethereum](administrator-documentation/integrations/ethereum.md)
-* [📊 Manage Analytics](administrator-documentation/reward-contributors.md)
+* [📊 Analytics](administrator-documentation/reward-contributors.md)
