@@ -4,7 +4,7 @@ description: >-
   your external profiles.
 ---
 
-# 🔌 Connecting Third-party Accounts
+# 🔌 Connecting your Apps
 
 ### :question: To connect a third-party account to your Meeds profile:
 

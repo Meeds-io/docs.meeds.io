@@ -21,7 +21,7 @@ Your contributions can be submitted in two ways:
 #### 👉 **Automatically**
 
 * If you perform actions using Meeds or another integrated tool (GitHub, Twitter, etc.),&#x20;
-* Provided your account is connected (see [connecting-3rd-party-accounts](../connecting-3rd-party-accounts/ "mention")),  your contribution is automatically captured and identified in the participation.
+* Provided your account is connected (see [connecting-your-apps](../connecting-your-apps/ "mention")),  your contribution is automatically captured and identified in the participation.
 
 ### ​❓How to contribute? <a href="#comment-contribuer" id="comment-contribuer"></a>
 
@@ -50,5 +50,5 @@ _💡Cancel your contribution easily from the announcement message._
 ### ❓**How to participate with third-party tools?** <a href="#comment-participer-avec-des-outils-tiers" id="comment-participer-avec-des-outils-tiers"></a>
 
 * Access your user settings,&#x20;
-* Verify that you can access third-party tools and [connect your profile ](../connecting-3rd-party-accounts/)if necessary.&#x20;
+* Verify that you can access third-party tools and [connect your profile ](../connecting-your-apps/)if necessary.&#x20;
 * Once you are a program member, your contributions will be **automatically captured**.
