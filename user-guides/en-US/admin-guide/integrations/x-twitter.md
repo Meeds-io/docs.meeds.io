@@ -14,49 +14,49 @@ Events that the X connector can capture include:
 * Mentions
 * Reposts
 
-:bulb: **Note:**&#x20;
 
-_Twitter does not allow the free capture of events. You need to acquire at least a Basic plan to have the possibility of registering your application. See_ [_https://developer.x.com/_](https://developer.x.com/)
 
-To start configuring the X connector for Meeds go to _Administration > Recognition > Connectors > Twitter_
+Go to _Administration > Recognition > Connectors > Twitter_
 
-<figure><img src="../../.gitbook/assets/Twitter-Connector-home.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Twitter-Connector-home.png" alt="" width="563"><figcaption><p>List of events supported by the X connector</p></figcaption></figure>
 
-Next, Click Configure&#x20;
+Next, click _Configure_&#x20;
 
-<figure><img src="../../.gitbook/assets/Twitter-connector-configure.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Twitter-connector-configure.png" alt="" width="563"><figcaption><p>X connector ready to be configured</p></figcaption></figure>
 
-## :point\_right: **Allow users to connect their X account in Meeds**
+## :point\_right: **Allow users to connect their X account**
 
 Click on _'Allow connection' and_ follow the instructions in the form to activate this connection
 
+<figure><img src="../../.gitbook/assets/Twitter-connector-profile-step1.png" alt="" width="375"><figcaption><p>Enable Twitter profile (1/3)</p></figcaption></figure>
 
+**Step 1:** Create or Connect to your X [Developer portal](https://x.developer.com)
 
-**Step 1:** Create or Connect to your X Developer portal
+<figure><img src="../../.gitbook/assets/Twitter-developer-portal.png" alt="" width="563"><figcaption><p>Twitter Developer portal</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Twitter-connector-profile-step1.png" alt="" width="375"><figcaption></figcaption></figure>
+Create a project with _X API v2_ access
 
-**Step 2:** Create a custom App and edit the _User authentication settings_
+:bulb: **Note:** _X requires a subscription to access its API, which does not come free of charge. Hence, you need to acquire at least a Basic plan to use the connector._&#x20;
 
-
+**Step 2:** Create a custom App and edit the _User authentication settings:_
 
 <figure><img src="../../.gitbook/assets/Twitter-app-permissions.png" alt="" width="375"><figcaption><p>Set Read permission</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Twitter-app-type.png" alt="" width="375"><figcaption><p>Choose Web App type</p></figcaption></figure>
 
-Fill in the _App info's_ _Callback URL_ and _Website URL_ fields by copy-pasting the information from Meeds
+Fill in the _App info's_ _Callback URL_ and _Website URL_ fields by copy-pasting the information from Meeds:
 
-<figure><img src="../../.gitbook/assets/Twitter-connector-profile-step2.png" alt="" width="375"><figcaption><p>Copy Callback URI and Website URL in Meeds</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Twitter-connector-profile-step2.png" alt="" width="375"><figcaption><p>Copy Callback URI and Website URL in Meeds (2/3)</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Twitter-app-info.png" alt="" width="375"><figcaption><p>Paste Callback URI and Website URL in X</p></figcaption></figure>
 
 **Step 3:** Copy/paste the _Client ID_ and _Client Secret and Save_
 
-<figure><img src="../../.gitbook/assets/Twitter-connector-profile-step3.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Twitter-connector-profile-step3.png" alt="" width="375"><figcaption><p>Enter Client credentials in Meeds (3/3)</p></figcaption></figure>
 
 Once done, users can [connect their X account](../../user-guide/connecting-your-apps/twitter.md) from their user settings.
 
-<figure><img src="../../.gitbook/assets/Twitter-connector-profile-ok.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Twitter-connector-profile-ok.png" alt="" width="563"><figcaption><p>Connect  Twitter profile configured</p></figcaption></figure>
 
 You can click on the <img src="../../.gitbook/assets/toggle.png" alt="" data-size="line">toggle button to temporarily disable profile connections, or you can ✏️ _Edit_ or 🗑️ _Delete_ the configuration to start over.
 
@@ -66,30 +66,30 @@ You can click on the <img src="../../.gitbook/assets/toggle.png" alt="" data-siz
 
 Next, tell Meeds which X account to watch for your organization. Click _Add token_
 
-<figure><img src="../../.gitbook/assets/Twitter-connector-org.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Twitter-connector-org.png" alt="" width="375"><figcaption><p>Add token field in Meeds</p></figcaption></figure>
 
 Go back to your App in the X Developer portal and click _Keys and tokens_
 
-<figure><img src="../../.gitbook/assets/Twitter-app-tokens.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Twitter-app-tokens.png" alt="" width="375"><figcaption><p>Keys and tokens in X</p></figcaption></figure>
 
-In Authentication Tokens > Bearer Token click Regenerate and confirm
+In _Authentication Tokens > Bearer Token_ click Regenerate and confirm
 
-<figure><img src="../../.gitbook/assets/Twitter-app-bearer.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Twitter-app-bearer.png" alt="" width="375"><figcaption><p>Copy the bearer token in X </p></figcaption></figure>
 
 Click _Copy_, then paste it into Meeds. Then, click on the  ✔️ green checkmark and _Save_
 
 &#x20;Click on _Add account_ and enter the X username of the organization to watch and _Save_
 
-<figure><img src="../../.gitbook/assets/Twitter-connector-addorg.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Twitter-connector-addorg.png" alt="" width="375"><figcaption><p>Enter the X account name</p></figcaption></figure>
 
 Meeds is now ready to watch the organization's account.&#x20;
 
-<figure><img src="../../.gitbook/assets/Twitter-connector-meedsorg.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Twitter-connector-meedsorg.png" alt="" width="563"><figcaption><p>List of X accounts to watch</p></figcaption></figure>
 
 Click on ➕ to add more accounts to watch and 🔑 to update your bearer token.
 
 Optionally, you can click on the organization name and disable some events to watch specifically for that organization.
 
-<figure><img src="../../.gitbook/assets/Twitter-connector-org-events.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Twitter-connector-org-events.png" alt="" width="563"><figcaption><p>List of events enabled for the X account</p></figcaption></figure>
 
-🎉 Congratulations! Your Meeds Hub is now ready to boost your organization on X! Your program owner can now start designing incentives to[ **Grow your audience on X (Twitter)**](../designing-incentives/growing-your-audience-on-x.md)**.**
+_**🎉 Congratulations! Your Meeds Hub is ready to boost your organization on X! Your program owner can now start designing incentives to**_[ _**Grow your audience on X (Twitter)**_](../designing-incentives/growing-your-audience-on-x.md)_**.**_
