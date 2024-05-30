@@ -66,6 +66,7 @@
 * [💝 Designing Incentives](admin-guide/designing-incentives/README.md)
   * [🌐 Building a translation program](admin-guide/designing-incentives/building-a-translation-program.md)
   * [🐦 Growing your audience on X](admin-guide/designing-incentives/growing-your-audience-on-x.md)
+  * [🐙 Fostering open collaboration on GitHub](admin-guide/designing-incentives/fostering-open-collaboration-on-github.md)
 * [🧩 Integrations](admin-guide/integrations/README.md)
   * [🐙 GitHub](admin-guide/integrations/github.md)
   * [🐦 X (Twitter)](admin-guide/integrations/x-twitter.md)
