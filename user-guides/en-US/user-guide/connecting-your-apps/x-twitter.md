@@ -2,7 +2,7 @@
 description: How to connect your X (Twitter) account in your Meeds account
 ---
 
-# 𝕏  (Twitter)
+# 🐦 X (Twitter)
 
 If you Hit an X (Twitter) action and your account is not yet connected, it will look like this. To connect your X account, click _Connect your account._
 

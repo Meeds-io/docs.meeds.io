@@ -18,7 +18,7 @@ From the  _Hamburger_ menu,  click your _User Setting_s > _Other Apps_
 
 Each 3rd party app supported by Meeds has its particular steps to connect :&#x20;
 
-* [X (Twitter)](twitter.md)
+* [X (Twitter)](x-twitter.md)
 * [GitHub](github.md)
 * [Crowdin](crowdin.md)
 
