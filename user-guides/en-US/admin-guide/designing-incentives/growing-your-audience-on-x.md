@@ -10,7 +10,7 @@ Thanks to the X (Twitter) connector for Meeds, you can incentivize your communit
 
 
 
-**👉 Choose the right Incentives**
+## **👉 Choose the right Incentives**
 
 Once done, your program owners can select "_Twitter"_ from the _Applications_ pulldown when creating automatic actions.
 
@@ -24,7 +24,7 @@ Three events are available :
 
 
 
-**👉 Boost your reach**
+## **👉 Boost your reach**
 
 You can ask your users to show some ❤️ love to your posts by liking and resharing them.
 
@@ -52,15 +52,15 @@ Once saved, the user will be able to directly preview the tweet to engage with i
 
 
 
-**👉 Get more people to tag you**
+## **👉 Get more people to tag you**
 
 For Mentions, if you have multiple X accounts configured to be watched (see [Connector configuration](../integrations/x-twitter.md)), you may be requested to choose which account the users must mention to complete the action.
 
 <figure><img src="../../.gitbook/assets/Twitter-mention-choice.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**👉 Validate Participants**
+## **👉 Validate Participants**
 
-While the capture of participation is automatic, you may not want anyone to participate in your X boosts programs. For instance, verifying that accounts you wish to incentivize should not be bots or throw-away accounts is common.
+While participation is automatically captured, you may not want anyone to participate in your X boosts programs. For instance, verifying that accounts you wish to incentivize are not bots or throw-away accounts is common.
 
 To do this, you may want to add an account verification action as a prerequisite to all of your X-related incentives:
 
