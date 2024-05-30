@@ -1,5 +1,5 @@
 ---
-description: How to connect your X (Twitter) account in your Meeds account
+description: How to connect your Crowdin account in your Meeds account
 ---
 
 # 🌐 Crowdin
