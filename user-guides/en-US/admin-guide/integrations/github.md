@@ -14,8 +14,6 @@ Events that the GitHub connector can capture include:
 * Pull Requests
 * Code
 
-
-
 To start configuring the GitHub connector for Meeds go to _Administration > Recognition > Connectors > GitHub_
 
 <figure><img src="../../.gitbook/assets/GitHub-connectors-list.png" alt="" width="563"><figcaption><p>GitHub connector card</p></figcaption></figure>
@@ -28,15 +26,15 @@ Next, Click _Configure_&#x20;
 
 ## :point\_right: **Allow users to connect their X account in Meeds**
 
-Click on _'Allow connection' and_ follow the instructions in the form&#x20;
+Click on _'Allow connection' and_ follow the instructions in the form:&#x20;
 
-<figure><img src="../../.gitbook/assets/GitHub-connector-profile1.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GitHub-connector-profile1.png" alt="" width="375"><figcaption><p>Connect GitHub profile config 1/3</p></figcaption></figure>
 
 **Step 1:** Go to your [Developer Settings](https://github.com/settings/apps) in your GitHub account
 
 Click on _OAuthApps > Register new application_
 
-<figure><img src="../../.gitbook/assets/GitHub-oauth-new-app.png" alt="" width="563"><figcaption><p>OAuth Apps tab in DGitHub's Developer Settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GitHub-oauth-new-app.png" alt="" width="563"><figcaption><p>OAuth Apps tab in GitHub's Developer Settings</p></figcaption></figure>
 
 Fill the _Application name_ and _description_,
 
@@ -64,15 +62,19 @@ Head back to Meeds
 
 Click _Save_
 
-<figure><img src="../../.gitbook/assets/GitHub-connector-profile4.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GitHub-connector-profile4.png" alt="" width="563"><figcaption><p>Connect GitHub profile configured in Meeds</p></figcaption></figure>
 
 You can click on the <img src="../../.gitbook/assets/toggle.png" alt="" data-size="line">toggle button to temporarily disable profile connections, or you can ✏️ _Edit_ or 🗑️ _Delete_ the configuration to start over.
+
+At this stage, your users will be able to [connect their GitHub profile](../../user-guide/connecting-your-apps/github.md).
+
+
 
 ## :point\_right: **Add a GitHub organization to watch**
 
 Now, you must add one or more organizations that Meeds will watch to track events your contributors perform.
 
-<figure><img src="../../.gitbook/assets/GitHub-connector-organization1.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GitHub-connector-organization1.png" alt="" width="563"><figcaption><p>Connect GitHub organizations to watch</p></figcaption></figure>
 
 Click on _Add Organization_
 
@@ -82,44 +84,42 @@ On GitHub head back to your [Developer Settings ](https://github.com/settings/de
 
 <figure><img src="../../.gitbook/assets/GitHub-personal-access-token.png" alt="" width="563"><figcaption><p>Personal acess tokens in GitHub</p></figcaption></figure>
 
-
-
 Click _Generate new token > Personal access token (classic)_&#x20;
 
-<figure><img src="../../.gitbook/assets/GitHub-personal-access-token-form.png" alt="" width="563"><figcaption><p>Personal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GitHub-personal-access-token-form.png" alt="" width="563"><figcaption><p>Personal access token form in GitHub</p></figcaption></figure>
 
 Fill out the form by selecting scopes :
 
-* repo
-* admin:org\_hook
+* `repo`
+* `admin:org_hook`
 
 Then click the _Generate token_ button
 
-<figure><img src="../../.gitbook/assets/GitHub-personal-access-token-copy (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GitHub-personal-access-token-copy (1).png" alt="" width="563"><figcaption><p>Copy the personal access token in GitHub</p></figcaption></figure>
 
 Copy the token and head back to Meeds to paste it, then click the ✅ checkmark to validate.
 
-<figure><img src="../../.gitbook/assets/GitHub-connector-organization3.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GitHub-connector-organization3.png" alt="" width="375"><figcaption><p>Paste the personal access token in Meeds</p></figcaption></figure>
 
 Click _Next_ and enter your GitHub organization name.
 
-<figure><img src="../../.gitbook/assets/GitHub-connector-organization4.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GitHub-connector-organization4.png" alt="" width="375"><figcaption><p>Enter GitHub organization name</p></figcaption></figure>
 
 Click _Save,_ and the organization should be listed:
 
 <figure><img src="../../.gitbook/assets/GitHub-connector-organizations-list.png" alt="" width="563"><figcaption></figcaption></figure>
 
-You may add  ➕  more organizations to watch , ✏️ Edit  or 🗑️ Delete to start over
+You may add  ➕  more organizations to watch, ✏️ Edit, or 🗑️ Delete to start over
 
 Click on the organization's name
 
-<figure><img src="../../.gitbook/assets/GitHub)connector-org-events.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GitHub)connector-org-events.png" alt="" width="563"><figcaption><p>List of events enabled for an organizaton</p></figcaption></figure>
 
 From there, you may restrict what events to watch for that particular organization.
 
 Click on _Repositories_&#x20;
 
-<figure><img src="../../.gitbook/assets/GitHub-connector-org-repos.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GitHub-connector-org-repos.png" alt="" width="563"><figcaption><p>List of repositories to watch</p></figcaption></figure>
 
 From there, you can restrict which repositories to watch on that particular organization.
 
