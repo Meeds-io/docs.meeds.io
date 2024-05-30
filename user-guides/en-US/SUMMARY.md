@@ -64,7 +64,7 @@
   * [💖 Rewards](admin-guide/propose-actions-to-achieve/rewards.md)
   * [🎖️ Badges](admin-guide/propose-actions-to-achieve/badges.md)
 * [💝 Designing Incentives](admin-guide/designing-incentives/README.md)
-  * [🌐 Translations](admin-guide/designing-incentives/translations.md)
+  * [🌐 Building a translation program](admin-guide/designing-incentives/building-a-translation-program.md)
   * [🐦 Growing your audience on X](admin-guide/designing-incentives/growing-your-audience-on-x.md)
 * [🧩 Integrations](admin-guide/integrations/README.md)
   * [🐙 GitHub](admin-guide/integrations/github.md)

@@ -1,4 +1,8 @@
-# 🌐 Translations
+---
+description: How to build a translation program with Crowdin
+---
+
+# 🌐 Building a translation program
 
 Thanks to the Crowdin Connector for Meeds, you can incentivize your community to participate in your [Crowdin](https://crowdin.com) translation projects.
 
