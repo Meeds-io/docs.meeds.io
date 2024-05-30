@@ -24,7 +24,7 @@ Next, Click _Configure_&#x20;
 
 <figure><img src="../../.gitbook/assets/GitHub-connector-config.png" alt="" width="563"><figcaption><p>GitHub configuration</p></figcaption></figure>
 
-## :point\_right: **Allow users to connect their X account in Meeds**
+## :point\_right: **Allow users to connect their GitHub account**
 
 Click on _'Allow connection' and_ follow the instructions in the form:&#x20;
 
