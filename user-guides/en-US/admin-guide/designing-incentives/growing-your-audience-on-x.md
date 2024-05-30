@@ -8,6 +8,10 @@ Thanks to the X (Twitter) connector for Meeds, you can incentivize your communit
 
 ✋ Before designing X incentives, configure the [X Connector](../integrations/x-twitter.md) on your Hub.
 
+
+
+**👉 Choose the right Incentives**
+
 Once done, your program owners can select "_Twitter"_ from the _Applications_ pulldown when creating automatic actions.
 
 <figure><img src="../../.gitbook/assets/Twitter-add-action.png" alt="" width="375"><figcaption></figcaption></figure>
@@ -42,6 +46,10 @@ Paste it into the _Tweet_ field :&#x20;
 
 ⚠️ if you see an error that says "_Please enter a TWitter link"_ after pasting the link try to replace 'x' with 'twitter' in the URL.
 
+Once saved, the user will be able to directly preview the tweet to engage with in the action's drawer :&#x20;
+
+<figure><img src="../../.gitbook/assets/Twitter-action-embed.png" alt="" width="375"><figcaption></figcaption></figure>
+
 
 
 **👉 Get more people to tag you**
@@ -50,16 +58,20 @@ For Mentions, if you have multiple X accounts configured to be watched (see [Con
 
 <figure><img src="../../.gitbook/assets/Twitter-mention-choice.png" alt="" width="375"><figcaption></figcaption></figure>
 
+**👉 Validate Participants**
 
+While the capture of participation is automatic, you may not want anyone to participate in your X boosts programs. For instance, it's quite common to verify that accounts that you want to incentivize should not be bots or throw-away accounts.
 
+To do this you may want to add an account verification action as a prerequisite to all of your X-related incentives
 
+<figure><img src="../../.gitbook/assets/Twitter-verify.png" alt="" width="375"><figcaption><p>Only Verified X acocunts can participate</p></figcaption></figure>
 
-💡 By combining these events you can design incentives for your community to engage with your X account
+To set up such a verification action, create a new automatic action in the same program where your X actions are. Then select _Application > Meeds > Apps : Connect Twitter account_
 
+<figure><img src="../../.gitbook/assets/Twitter-verify-action.png" alt="" width="375"><figcaption></figcaption></figure>
 
+With it as a condition to your X boost actions, each time a user connects a new pending contribution will need to be manually approved before the user can take part in your X engagement program :&#x20;
 
-<figure><img src="../../.gitbook/assets/translation-program-sample.png" alt=""><figcaption><p>Sample translation program in Meeds</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Twitter-verify-review.png" alt="" width="375"><figcaption><p>Twitter/ X Account connection requires manual verification</p></figcaption></figure>
 
-For example, in Meeds, translators could earn 2 points for every translation they made + 1 extra point if their translation was chosen, and 1 point for the proofreader.&#x20;
-
-In parallel, users helping translate our Whitepaper specifically would earn 3 points per translation.
+<figure><img src="../../.gitbook/assets/Twitter-verification-required.png" alt="" width="375"><figcaption><p>Account verification required to participate</p></figcaption></figure>

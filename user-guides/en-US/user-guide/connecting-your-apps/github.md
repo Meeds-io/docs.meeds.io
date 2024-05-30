@@ -8,7 +8,7 @@ If you Hit a GitHub action and your account is not yet connected, it will look l
 
 
 
-<figure><img src="../../.gitbook/assets/GitHub-connect-prompt (1).png" alt="" width="284"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GitHub-connect-prompt (1) (1).png" alt="" width="284"><figcaption></figcaption></figure>
 
 Alternatively, you can open the _Hamburger_ menu,  access your _User Setting_s, then scroll down to _Other Apps :_
 
