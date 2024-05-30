@@ -60,9 +60,9 @@ For Mentions, if you have multiple X accounts configured to be watched (see [Con
 
 **👉 Validate Participants**
 
-While the capture of participation is automatic, you may not want anyone to participate in your X boosts programs. For instance, it's quite common to verify that accounts that you want to incentivize should not be bots or throw-away accounts.
+While the capture of participation is automatic, you may not want anyone to participate in your X boosts programs. For instance, verifying that accounts you wish to incentivize should not be bots or throw-away accounts is common.
 
-To do this you may want to add an account verification action as a prerequisite to all of your X-related incentives
+To do this, you may want to add an account verification action as a prerequisite to all of your X-related incentives:
 
 <figure><img src="../../.gitbook/assets/Twitter-verify.png" alt="" width="375"><figcaption><p>Only Verified X acocunts can participate</p></figcaption></figure>
 
