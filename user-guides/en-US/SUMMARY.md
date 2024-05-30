@@ -19,6 +19,7 @@
 * [🔌 Connecting your Apps](user-guide/connecting-your-apps/README.md)
   * [🌐 Crowdin](user-guide/connecting-your-apps/crowdin.md)
   * [🐙 GitHub](user-guide/connecting-your-apps/github.md)
+  * [𝕏  (Twitter)](user-guide/connecting-your-apps/twitter.md)
 * [🏆 Participating & Contributing](user-guide/participating-and-contributing/README.md)
   * [Participating](user-guide/participating-and-contributing/participating.md)
   * [Submitting your contributions](user-guide/participating-and-contributing/discovering-actions-to-perform.md)
