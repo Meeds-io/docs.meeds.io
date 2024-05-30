@@ -18,6 +18,7 @@
   * [Initializing your wallet](user-guide/setting-up-your-account/initializing-your-wallet.md)
 * [🔌 Connecting your Apps](user-guide/connecting-your-apps/README.md)
   * [🌐 Crowdin](user-guide/connecting-your-apps/crowdin.md)
+  * [🐙 GitHub](user-guide/connecting-your-apps/github.md)
 * [🏆 Participating & Contributing](user-guide/participating-and-contributing/README.md)
   * [Participating](user-guide/participating-and-contributing/participating.md)
   * [Submitting your contributions](user-guide/participating-and-contributing/discovering-actions-to-perform.md)
