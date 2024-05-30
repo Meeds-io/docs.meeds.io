@@ -54,17 +54,21 @@ Fill in the _App info's_ _Callback URL_ and _Website URL_ fields by copy-pasting
 
 <figure><img src="../../.gitbook/assets/Twitter-app-info.png" alt="" width="375"><figcaption><p>Paste Callback URI and Website URL in X</p></figcaption></figure>
 
-**Step 3:** Copy/paste the _Client ID_ and _Client Secret_
+**Step 3:** Copy/paste the _Client ID_ and _Client Secret and Save_
 
 <figure><img src="../../.gitbook/assets/Twitter-connector-profile-step3.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Once done, users can [connect their X account](../../user-guide/connecting-your-apps/twitter.md) from their user settings.
 
+<figure><img src="../../.gitbook/assets/Twitter-connector-profile-ok.png" alt="" width="563"><figcaption></figcaption></figure>
+
+You can click on the ![](../../.gitbook/assets/toggle.png)toggle button to temporarily disable profile connections, or you can ✏️ _Edit_ or 🗑️ _Delete_ the configuration to start over.
 
 
-:point\_right: **Add a Twitter organization**
 
-Next, you need to tell Meeds which Twitter account to watch for your organization. Click _Add token_
+:point\_right: **Add an X account to watch**
+
+Next, tell Meeds which X account to watch for your organization. Click _Add token_
 
 <figure><img src="../../.gitbook/assets/Twitter-connector-org.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -76,20 +80,20 @@ In Authentication Tokens > Bearer Token click Regenerate and confirm
 
 <figure><img src="../../.gitbook/assets/Twitter-app-bearer.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Click Copy then paste it in Meeds, Click on ✔️ and save
+Click _Copy_, then paste it into Meeds. Then, click on the  ✔️ green checkmark and _Save_
 
 &#x20;Click on _Add account_ and enter the X username of the organization to watch and _Save_
 
 <figure><img src="../../.gitbook/assets/Twitter-connector-addorg.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Meeds is now ready to watch the organization.&#x20;
+Meeds is now ready to watch the organization's account.&#x20;
 
 <figure><img src="../../.gitbook/assets/Twitter-connector-meedsorg.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Click on ➕ to add more and 🔑 to update your bearer token.
+Click on ➕ to add more accounts to watch and 🔑 to update your bearer token.
 
 Optionally, you can click on the organization name and disable some events to watch specifically for that organization.
 
 <figure><img src="../../.gitbook/assets/Twitter-connector-org-events.png" alt="" width="563"><figcaption></figcaption></figure>
 
-🎉 Congratulations! Your Meeds Hub is now ready to boost your organization on X!  Refer to Designing Incentives >[ Growing your audience on X (Twitter)](../designing-incentives/growing-your-audience-on-x.md)
+🎉 Congratulations! Your Meeds Hub is now ready to boost your organization on X!  Now your program owner can start designing incentives to[ Growing your audience on X (Twitter)](../designing-incentives/growing-your-audience-on-x.md)
