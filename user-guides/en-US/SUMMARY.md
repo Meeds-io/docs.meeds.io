@@ -17,7 +17,7 @@
   * [Updating Your Password](user-guide/setting-up-your-account/updating-your-password.md)
   * [Initializing your wallet](user-guide/setting-up-your-account/initializing-your-wallet.md)
 * [🔌 Connecting your Apps](user-guide/connecting-your-apps/README.md)
-  * [🐦 X (Twitter)](user-guide/connecting-your-apps/x-twitter.md)
+  * [🐦 X (Twitter)](user-guide/connecting-your-apps/twitter.md)
   * [🐙 GitHub](user-guide/connecting-your-apps/github.md)
   * [🌐 Crowdin](user-guide/connecting-your-apps/crowdin.md)
 * [🏆 Participating & Contributing](user-guide/participating-and-contributing/README.md)
