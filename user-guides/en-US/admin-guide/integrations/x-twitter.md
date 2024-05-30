@@ -4,15 +4,11 @@ description: How to configure the X connector for Meeds as an administrator
 
 # 🐦 X (Twitter)
 
-### **Configure the X (Twitter) Connector**
+If your organization uses X for general communication and wants to boost your audience's engagement, the X connector for Meeds is for you.
 
-If your organization uses Twitter for project communication, events, etc.,&#x20;
+You can activate it to allow contributors to earn points by interacting with your accounts on X.
 
-:point\_right: **This connector is for you!**
-
-You can activate it to allow contributors to earn points based on their participation in your communication.
-
-Events that can be captured by the X Connector include:
+Events that the X connector can capture include:
 
 * Likes
 * Mentions
@@ -22,7 +18,7 @@ Events that can be captured by the X Connector include:
 
 _Twitter does not allow the free capture of events. You need to acquire at least a Basic plan to have the possibility of registering your application. See_ [_https://developer.x.com/_](https://developer.x.com/)
 
-To start configuring the X Connector for Meeds go to _Administration > Recognition > Connectors > Twitter_
+To start configuring the X connector for Meeds go to _Administration > Recognition > Connectors > Twitter_
 
 <figure><img src="../../.gitbook/assets/Twitter-Connector-home.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -30,7 +26,7 @@ Next, Click Configure&#x20;
 
 <figure><img src="../../.gitbook/assets/Twitter-connector-configure.png" alt="" width="563"><figcaption></figcaption></figure>
 
-:point\_right: **Allow users to connect their Twitter account in Meeds.**
+## :point\_right: **Allow users to connect their X account in Meeds**
 
 Click on _'Allow connection' and_ follow the instructions in the form to activate this connection
 
@@ -62,11 +58,11 @@ Once done, users can [connect their X account](../../user-guide/connecting-your-
 
 <figure><img src="../../.gitbook/assets/Twitter-connector-profile-ok.png" alt="" width="563"><figcaption></figcaption></figure>
 
-You can click on the ![](../../.gitbook/assets/toggle.png)toggle button to temporarily disable profile connections, or you can ✏️ _Edit_ or 🗑️ _Delete_ the configuration to start over.
+You can click on the <img src="../../.gitbook/assets/toggle.png" alt="" data-size="line">toggle button to temporarily disable profile connections, or you can ✏️ _Edit_ or 🗑️ _Delete_ the configuration to start over.
 
 
 
-:point\_right: **Add an X account to watch**
+## :point\_right: **Add an X account to watch**
 
 Next, tell Meeds which X account to watch for your organization. Click _Add token_
 
@@ -96,4 +92,4 @@ Optionally, you can click on the organization name and disable some events to wa
 
 <figure><img src="../../.gitbook/assets/Twitter-connector-org-events.png" alt="" width="563"><figcaption></figcaption></figure>
 
-🎉 Congratulations! Your Meeds Hub is now ready to boost your organization on X!  Now your program owner can start designing incentives to[ Growing your audience on X (Twitter)](../designing-incentives/growing-your-audience-on-x.md)
+🎉 Congratulations! Your Meeds Hub is now ready to boost your organization on X! Your program owner can now start designing incentives to[ **Grow your audience on X (Twitter)**](../designing-incentives/growing-your-audience-on-x.md)**.**
