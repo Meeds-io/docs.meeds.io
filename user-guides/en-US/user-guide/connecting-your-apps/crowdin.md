@@ -8,7 +8,7 @@ description: How to connect your Crowdin account in your Meeds account
 Quick video walkthrough to connect your Crwdin account
 {% endembed %}
 
-If you Hit a Crowdin action and your account is not yet connected, it will look like this. To connect your Crowdin account click _Connect your account_
+If you Hit a Crowdin action and your account is not yet connected, it will look like this. To connect your Crowdin account, click `Connect your account`
 
 <figure><img src="../../.gitbook/assets/crowdin-action-prompt.png" alt=""><figcaption></figcaption></figure>
 
@@ -16,18 +16,18 @@ Alternatively, you can open the _Hamburger_ menu,  access your _User Setting_s, 
 
 <figure><img src="../../.gitbook/assets/other-apps-ok.png" alt=""><figcaption></figcaption></figure>
 
-1. Click the "Connect" button in front of _Crowdin_
-2. A popup will open, follow the prompts to _Log In_ with your Crowdin account if requested
+1. Click the `Connect` button in front of _Crowdin_
+2. A popup will open. Follow the prompts to log in with your Crowdin account if requested
 
 <figure><img src="../../.gitbook/assets/crowdin-authenticate1.png" alt=""><figcaption><p>Crowdin Authentication prompt</p></figcaption></figure>
 
-3. Click _Authorize_ button to let Meeds capture your Crowdin username
+3. Click the `Authorize` button to let Meeds capture your Crowdin username
 
 
 
 <figure><img src="../../.gitbook/assets/crowdin-authorize.png" alt=""><figcaption><p>Authorization screen for Crowdin</p></figcaption></figure>
 
-4. your Crowdin username is now displayed and you can Disconnect if you want to start over or connect another account
+4. your Crowdin username is now displayed, and you can `Disconnect` if you want to start over or connect to another account
 
 <figure><img src="../../.gitbook/assets/otherr-apps-connected.png" alt=""><figcaption></figcaption></figure>
 
