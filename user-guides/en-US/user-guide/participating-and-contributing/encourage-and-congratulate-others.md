@@ -2,7 +2,7 @@
 description: After contributing, find the list of your participations on a dedicated page.
 ---
 
-# Tracking your contributions
+# ✅ Tracking your contributions
 
 ### :question: How to find your previous contributions on the Meeds platform?
 
@@ -22,3 +22,7 @@ description: After contributing, find the list of your participations on a dedic
 
 * Any action canceled by you (manually or automatically) will be considered canceled in the list of achievements.
 * An action rejected by the program animator will also be reflected as such in your tracking table.
+
+
+
+{% embed url="https://www.loom.com/share/70127af8e37c42f5b01ebf8b2e9edf39?sid=aa3117c0-e6ef-4e35-b8dd-a56aecac65cd" %}

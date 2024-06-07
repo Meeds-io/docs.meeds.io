@@ -4,7 +4,7 @@ description: >-
   topics and limit contributions according to the desired audience.
 ---
 
-# Viewing contributions programs
+# 👀 Viewing contributions programs
 
 ### :question:What are we talking about?
 
@@ -40,3 +40,9 @@ description: >-
 * If your program is open to all members, reward administrators are responsible.
 
 :bulb: Additional **program owners** can be appointed if needed to delegate the hosting of contributions.
+
+
+
+
+
+{% embed url="https://www.loom.com/share/eb69fe743f6e4773ac8d7500616e4a67?sid=4632bb7b-34a4-4df4-bf03-b5aaca8ab26b" %}

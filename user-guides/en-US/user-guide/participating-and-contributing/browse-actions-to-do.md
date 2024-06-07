@@ -2,7 +2,7 @@
 description: Start participating easily in the actions proposed in various programs.
 ---
 
-# Participating
+# 🔎 Browse actions to do
 
 ### :question: How to participate? <a href="#comment-participer" id="comment-participer"></a>
 
@@ -17,3 +17,28 @@ description: Start participating easily in the actions proposed in various progr
 * If it's an automatically captured contribution, follow the instructions to [connect your profile](../connecting-your-apps/).
 
 ​💡You can contribute even if you're not a member of the audience. These are known as _public_ actions. By participating, you automatically join the space.
+
+### ​❓Where to start contributing? <a href="#comment-contribuer" id="comment-contribuer"></a>
+
+#### 👉 **Access the 'Actions' page:**
+
+Discover recently proposed actions, actions no longer available soon, or upcoming actions.&#x20;
+
+You can list actions by program for a thematic view.
+
+#### 👉 **Access the program of your choice:**
+
+Explore a contribution program, list the actions, and choose the action you want to participate in. Learn about the expected criteria.
+
+#### 👉 Find featured actions
+
+Discover featured actions from the dashboard or the general activity feed of a space.&#x20;
+
+Display the actions you want to participate in as you prefer.
+
+
+
+{% embed url="https://www.loom.com/share/af2d838152ce4e9ba89a1748b5fd96bc?sid=ddceb5ff-c270-4ecd-90df-480ee24881b2" %}
+
+
+
