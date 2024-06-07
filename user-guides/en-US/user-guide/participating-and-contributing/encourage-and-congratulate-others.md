@@ -21,7 +21,9 @@ description: After contributing, find the list of your participations on a dedic
 #### 💡 Note
 
 * Any action canceled by you (manually or automatically) will be considered canceled in the list of achievements.
-* An action rejected by the program animator will also be reflected as such in your tracking table.
+* An action rejected by the program owner will also be reflected as such in your tracking table.
+* Actions that are pending are not considered in the leaderboard nor in the rewarding
+* Accepted contributions will be considered for the rewarding period during it has been accepted
 
 
 
