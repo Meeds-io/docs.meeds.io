@@ -1,2 +1,2 @@
-# ⚙ Communicate & Collaborate using Meeds
+# 👥 Collaborating in Spaces
 

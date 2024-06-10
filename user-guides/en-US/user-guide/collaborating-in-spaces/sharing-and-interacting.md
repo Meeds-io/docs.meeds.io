@@ -4,7 +4,7 @@ description: >-
   Meeds can assist you.
 ---
 
-# Sharing informations
+# 📣 Sharing informations
 
 ### :question: What are the online exchange options?
 

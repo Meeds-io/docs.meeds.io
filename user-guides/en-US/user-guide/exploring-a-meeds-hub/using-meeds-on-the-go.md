@@ -2,7 +2,7 @@
 description: Accessing your Meeds solution from a tablet or mobile device
 ---
 
-# Using Meeds on the Go
+# 📳 Using Meeds on the Go
 
 ### :question:If you need to access the Hub from a mobile or tablet
 

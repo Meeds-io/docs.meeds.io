@@ -4,7 +4,7 @@ description: >-
   badges
 ---
 
-# Building your reputation
+# ☑️ Building your reputation
 
 In addition to enabling you to contribute, your Meeds solution allows you to build your reputation.
 

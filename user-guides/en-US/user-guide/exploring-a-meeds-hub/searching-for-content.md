@@ -2,7 +2,7 @@
 description: Découvrez comment rechercher tous vos contenus partagés dans votre Hub
 ---
 
-# Search for content
+# 🔍 Searching for content
 
 ### &#x20;:question: Are you looking for information, an action, or a profile?
 

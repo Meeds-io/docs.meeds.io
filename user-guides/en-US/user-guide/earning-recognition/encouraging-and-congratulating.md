@@ -1,4 +1,4 @@
-# Encouraging and congratulating
+# 🙏 Encouraging and congratulating
 
 ### :bulb: Meeds promotes mutual recognition and encouragement
 

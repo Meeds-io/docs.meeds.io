@@ -2,7 +2,7 @@
 description: Contribute, be rewarded, and use your Meeds in the online shop
 ---
 
-# Claiming Your Perks
+# 🛒 Claiming Your Perks
 
 ### :question:Who can propose products in the shop?
 

@@ -4,7 +4,7 @@ description: >-
   rewards. Discover how these rewards can be calculated.
 ---
 
-# Understanding Reward Rules
+# 🧑‍🏫 Understanding Reward Rules
 
 ### :question:What are the reward terms? <a href="#quelles-sont-les-modalites-de-recompense" id="quelles-sont-les-modalites-de-recompense"></a>
 

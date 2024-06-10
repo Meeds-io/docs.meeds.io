@@ -4,7 +4,7 @@ description: >-
   provided by Meeds
 ---
 
-# Tracking Tasks
+# 📑 Tracking Tasks
 
 ### :question: How to organize your project using Meeds?
 

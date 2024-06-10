@@ -21,4 +21,4 @@ More information [discovering-actions-to-perform.md](discovering-actions-to-perf
 * If you perform actions using Meeds or another integrated tool (GitHub, Twitter, etc.),&#x20;
 * Provided your account is connected (see [connecting-your-apps](../connecting-your-apps/ "mention")),  your contribution is automatically captured and identified in the participation.
 
-More information [use-our-automatic-actions.md](use-our-automatic-actions.md "mention")
+More information [using-our-automatic-actions.md](using-our-automatic-actions.md "mention")

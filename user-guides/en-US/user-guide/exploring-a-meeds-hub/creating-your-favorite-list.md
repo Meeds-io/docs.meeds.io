@@ -2,7 +2,7 @@
 description: Discover how Meeds helps you save time in finding your content
 ---
 
-# Creating your Favorite list
+# ⭐ Creating your Favorite list
 
 ### :question:Want to bookmark a space or read a message later?
 

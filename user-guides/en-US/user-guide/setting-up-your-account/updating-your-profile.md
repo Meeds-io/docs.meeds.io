@@ -4,11 +4,9 @@ description: >-
   update your profile
 ---
 
-# Updating Your Profile
+# 👤 Updating Your Profile
 
 ## :question:Why update my profile?
-
-
 
 :point\_right: **Updating your profile makes it easier for others to find you in the user directory**
 

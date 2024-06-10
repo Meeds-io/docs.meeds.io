@@ -2,7 +2,7 @@
 description: Meeds can support team collaboration or project implementation.
 ---
 
-# Collaborating as a team or on a project
+# 🤝 Collaborating as a team or on a project
 
 ### :question: How does Meeds enable collaboration?
 

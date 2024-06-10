@@ -4,7 +4,7 @@ description: >-
   options.
 ---
 
-# Sharing and interacting
+# 👍 Sharing and interacting
 
 ### :question: How to react to a message, a post?&#x20;
 

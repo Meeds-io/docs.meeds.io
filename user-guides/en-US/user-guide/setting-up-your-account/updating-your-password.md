@@ -4,7 +4,7 @@ description: >-
   these guidelines
 ---
 
-# Updating Your Password
+# 🔏 Updating Your Password
 
 ### :question:To change your password
 

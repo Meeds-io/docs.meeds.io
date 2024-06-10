@@ -2,7 +2,7 @@
 description: From your wallet, access the history of your rewards and other transactions.
 ---
 
-# Tracking Your Rewards
+# 📈 Tracking Your Rewards
 
 ### :question:How am I informed about the payment?
 

@@ -4,7 +4,7 @@ description: >-
   and share knowledge
 ---
 
-# Creating a space
+# ➕ Creating a space
 
 ### :question: Why create a space?
 

@@ -4,7 +4,7 @@ description: >-
   navigation experience.
 ---
 
-# Finding Your Way Around
+# 🧐 Finding Your Way Around
 
 ### :question: Need quick access to tools, applications?
 

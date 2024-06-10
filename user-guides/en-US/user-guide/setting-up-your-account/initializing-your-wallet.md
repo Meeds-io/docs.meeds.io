@@ -4,7 +4,7 @@ description: >-
   your contribution
 ---
 
-# Initializing your wallet
+# 💰 Initializing your wallet
 
 ### :question:What are we talking about?
 

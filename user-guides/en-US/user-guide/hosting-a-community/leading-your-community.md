@@ -2,7 +2,7 @@
 description: Boost collaboration using Meeds solution
 ---
 
-# Leading Your Community
+# 🏤 Leading Your Community
 
 ### :question: What are the key principles of an active community?&#x20;
 

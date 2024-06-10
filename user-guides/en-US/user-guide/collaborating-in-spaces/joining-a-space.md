@@ -4,7 +4,7 @@ description: >-
   community.
 ---
 
-# Joining a space
+# 👋 Joining a space
 
 ### :question: How to join a space?
 

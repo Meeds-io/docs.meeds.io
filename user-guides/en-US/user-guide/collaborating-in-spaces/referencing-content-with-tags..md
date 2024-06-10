@@ -2,7 +2,7 @@
 description: Make your content visible and simplify its access.
 ---
 
-# Referencing content with #tags.
+# ⭐ Referencing content with #tags.
 
 ### :question: What is the benefit of adding # tags?
 

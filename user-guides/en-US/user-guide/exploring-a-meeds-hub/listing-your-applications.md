@@ -2,7 +2,7 @@
 description: Discover how to customize your application center
 ---
 
-# Listing your applications
+# 📌 Listing your applications
 
 Use Meeds as a true unifying hub and facilitate access to your applications.
 
