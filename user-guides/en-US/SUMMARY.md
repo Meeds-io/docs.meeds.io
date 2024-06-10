@@ -21,7 +21,7 @@
   * [🐙 GitHub](user-guide/connecting-your-apps/github.md)
   * [🌐 Crowdin](user-guide/connecting-your-apps/crowdin.md)
 * [🏆 Participating & Contributing](user-guide/participating-and-contributing/README.md)
-  * [🧐 Two action types](user-guide/participating-and-contributing/two-action-types.md)
+  * [🧐 Two action types](user-guide/participating-and-contributing/two-action-type.md)
   * [🔎 Browse actions to do](user-guide/participating-and-contributing/browse-actions-to-do.md)
   * [📣 Submit your contribution](user-guide/participating-and-contributing/discovering-actions-to-perform.md)
   * [🔌 Use our automatic actions](user-guide/participating-and-contributing/use-our-automatic-actions.md)

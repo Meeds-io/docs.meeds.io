@@ -1,8 +1,8 @@
 ---
-description: Meeds suggests 2 action type
+description: Meeds suggests 2 action types
 ---
 
-# 🧐 Two action type
+# 🧐 Two action types
 
 ### :question: What are we talking about? <a href="#de-quoi-parlons-nous" id="de-quoi-parlons-nous"></a>
 
