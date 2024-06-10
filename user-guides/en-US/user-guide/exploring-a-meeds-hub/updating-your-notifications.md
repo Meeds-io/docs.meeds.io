@@ -31,3 +31,7 @@ Notifications are organized by theme:
 * Shop: new product available, new order, ...
 
 :bulb: Note: We suggest you to setting your personal notifications from [there](../setting-up-your-account/updating-your-profile.md)
+
+
+
+{% embed url="https://www.loom.com/share/bfa37b55acba44b9942807f31a028969?sid=25942141-c8bb-4df8-ace2-5902af466d99" %}

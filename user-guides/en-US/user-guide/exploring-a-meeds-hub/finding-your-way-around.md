@@ -31,3 +31,7 @@ description: >-
 
 * Pin the left menu as per your preference and keep it open
 * Personalize your homepage from the left menu
+
+
+
+{% embed url="https://www.loom.com/share/57a9537ea5ff4575a7c979c5575a7b5c?sid=09cd4bc3-7d40-4983-ab80-66f446cc21a9" %}

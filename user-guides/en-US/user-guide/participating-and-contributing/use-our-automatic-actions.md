@@ -2,7 +2,7 @@
 description: Meeds provides integration to automatically capture your contribution
 ---
 
-# 🔌 Use our automatic actions
+# 🔌 Using our automatic actions
 
 ### ❓**How to participate with third-party tools?** <a href="#comment-participer-avec-des-outils-tiers" id="comment-participer-avec-des-outils-tiers"></a>
 

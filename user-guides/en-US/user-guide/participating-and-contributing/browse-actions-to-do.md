@@ -2,7 +2,7 @@
 description: Start participating easily in the actions proposed in various programs.
 ---
 
-# 🔎 Browse actions to do
+# 🔎 Browsing actions to do
 
 ### :question: How to participate? <a href="#comment-participer" id="comment-participer"></a>
 
