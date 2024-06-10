@@ -28,3 +28,7 @@ Access your settings to modify your notification preferences
 * For any space you don't want to follow,
 
 :point\_right: **Mute it**. You will only be notified if mentioned or solicited otherwise.
+
+
+
+{% embed url="https://www.loom.com/share/64c5d309fdbf4bf9aa4c6218ad2ca3ca?sid=cfb829f5-5b50-4624-ac48-72cff1647c13" %}
