@@ -104,4 +104,4 @@ By clicking on a project you can even fine-tune which events you want to enable 
 
 
 
-**🎉  You're now done with the connector configuration! Your translation program owners can now start** [**designing incentives for your localization program**](../designing-incentives/building-a-translation-program.md)**.**
+**🎉  You're now done with the connector configuration! Your translation program owners can now start** [**designing incentives for your localization program**](../designing-incentives/building-a-translation-program-on-crowdin.md)**.**
