@@ -12,7 +12,7 @@
   * [🔔 Getting notified](user-guide/exploring-a-meeds-hub/updating-your-notifications.md)
   * [📌 Listing your applications](user-guide/exploring-a-meeds-hub/listing-your-applications.md)
   * [⭐ Creating your Favorite list](user-guide/exploring-a-meeds-hub/creating-your-favorite-list.md)
-  * [📳 Using Meeds on the Go](user-guide/exploring-a-meeds-hub/using-meeds-on-the-go.md)
+  * [📳 Getting the App](user-guide/exploring-a-meeds-hub/using-meeds-on-the-go.md)
 * [🛠️ Setting Up your Account](user-guide/setting-up-your-account/README.md)
   * [👤 Updating Your Profile](user-guide/setting-up-your-account/updating-your-profile.md)
   * [🔏 Updating Your Password](user-guide/setting-up-your-account/updating-your-password.md)

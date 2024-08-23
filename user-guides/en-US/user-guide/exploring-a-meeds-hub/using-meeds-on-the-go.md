@@ -1,19 +1,78 @@
 ---
-description: Accessing your Meeds solution from a tablet or mobile device
+description: >-
+  Install the Meeds app to keep your favorite communities on your mobile device
+  or computer.
 ---
 
-# 📳 Using Meeds on the Go
+# 📳 Getting the App
 
-### :question:If you need to access the Hub from a mobile or tablet
+Meeds can be used on the web with most browsers but also as an app on your mobile device (phone or tablet) or your computer. The main advantage is that you have a **dedicated and branded app for each of your communities** and access to system **notifications**.
 
-The Meeds solution is accessible from any browser and on any device.
+## Quick steps
 
-👉 Computer
+### Installing the App
 
-👉 Tablet&#x20;
+On all platforms, the principle to install the app remains the same :&#x20;
 
-👉 Mobile
+1. On your device, start  the Chrome browser&#x20;
+2. Log in to your favorite Meeds Hub
+3. After 15 seconds, a snack bar will invite you to install the app. ![](../../.gitbook/assets/snackbar-install.png)
+4. Alternatively, you can install it from `User Settings > Mobile App > Install` or `User Settings > Desktop App > Install`
 
-#### **💡 Note**
+<figure><img src="../../.gitbook/assets/install-app-popup.png" alt="" width="346"><figcaption><p>Install the app when prompted</p></figcaption></figure>
 
-The display is adapted based on the device used. Some actions may be unavailable on mobile (editing a note, accessing administration).
+☝️ The icon's look and the app's name may vary depending on how the administrators have [branded their Hub](../../admin-guide/set-up-your-hub/customizing-the-theme.md).
+
+### Enabling Notifications
+
+1. (optional)  Another snack bar should prompt you to enable notifications. ![](../../.gitbook/assets/snackbar-notifications.png)
+2. Alternatively, click `User Settings > Mobile App > Choose` or `User Settings > Desktop App > Choose`
+3. Then grant permissions when prompted
+
+<figure><img src="../../.gitbook/assets/notification-prompt.png" alt="" width="248"><figcaption><p>Allow the Meeds app to show Notifications</p></figcaption></figure>
+
+Below, we provide quick video tutorials and specific instructions to install the Meeds app on:&#x20;
+
+👉 [Android](using-meeds-on-the-go.md#android)
+
+👉 [iOS](using-meeds-on-the-go.md#ios)&#x20;
+
+👉 [Windows](using-meeds-on-the-go.md#windows)&#x20;
+
+👉 [Mac](using-meeds-on-the-go.md#mac)&#x20;
+
+
+
+**💡 Note:**  The Meeds app uses  [PWA technology](https://web.dev/explore/progressive-web-apps), which requires both browser and operating system vendors to implement open web standards. When we wrote this guide, PWA support and interoperability were good but not universal. Hence, although the Meeds app may work well through browsers like Firefox and Brave, we have mainly tested them using Chrome.
+
+## Android
+
+{% embed url="https://www.youtube.com/watch?v=RV-X8xrpVVo" %}
+Quick tutorial to install a Meeds app on Android
+{% endembed %}
+
+
+
+## iOS
+
+{% embed url="https://youtu.be/1xdXqIeI7Gk" %}
+Quick tutorial to install a Meeds app on Android
+{% endembed %}
+
+
+
+## Windows
+
+coming soon
+
+## Mac
+
+{% embed url="https://youtu.be/4841TvmmEZY" %}
+Quick tutorial toninstall a Meeds app on a Mac
+{% endembed %}
+
+Alternatively, on Chrome for Mac, you can install the App using a dedicated icon displayed in the address bar ![](../../.gitbook/assets/chrome-install-icon.png)
+
+To receive notifications on your Mac, make sure you have allowed notifications for `System Preferences > Notifications > Google Chrome Helper (Alerts)`&#x20;
+
+<figure><img src="../../.gitbook/assets/Mac-notification-settings.png" alt=""><figcaption></figcaption></figure>
