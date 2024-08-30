@@ -79,3 +79,7 @@
   * [🌐 Crowdin](admin-guide/integrations/crowdin.md)
   * [💎 Ethereum](admin-guide/integrations/ethereum.md)
 * [📊 Analytics](admin-guide/reward-contributors.md)
+* [Customizing your Platform](admin-guide/customizing-your-platform/README.md)
+  * [Edit Navigation](admin-guide/customizing-your-platform/edit-navigation.md)
+  * [Add a page](admin-guide/customizing-your-platform/add-a-page.md)
+  * [Edit Page Layout](admin-guide/customizing-your-platform/edit-page-layout.md)
