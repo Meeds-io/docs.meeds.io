@@ -12,24 +12,24 @@ description: To help you communicate to the outside world, you can enable a publ
 
 ### Customizing Your Public Site:
 
-:point\_right: **Before publishing, customize your site by adding:**
+#### :one: We have set a default Public Site with default contents. Feel free to update it at your convenience:
 
-* An illustrative banner,&#x20;
-* Useful links to external resources,&#x20;
-* And a descriptive text about your community.
+* Illustrative banner
+* Simple text
+* Useful Links
 
-:point\_right: **If your platform is** [**open**](specifying-access-to-the-platform.md)**, any 'public' program will be listed on your public site**
+#### :two: **If your platform is** [**open**](specifying-access-to-the-platform.md)**, any 'public' program will be listed on your public site**
 
 * A 'public' program is one with an open audience
 * Either no identified space&#x20;
 * Or a visible and open space
 
-:point\_right: **Preview Your Public Site:**
+#### :three: **Preview Your Public Site:**
 
 * Use the preview option to see how your site will look to visitors.&#x20;
 * Incomplete content will not be displayed to visitors.
 
-:point\_right: **Making Your Site Public**
+:four: **Making Your Site Public**
 
 * Click on the eye icon to preview your site.
 * Click on the lock icon; it will change to a globe, indicating that your site is now public and visible to everyone.
