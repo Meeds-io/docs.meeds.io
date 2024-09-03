@@ -6,7 +6,6 @@
 
 * [👨‍💻 Introduction](user-guide/introduction.md)
 * [🚀 Exploring a Meeds Hub](user-guide/exploring-a-meeds-hub/README.md)
-  * [Page](user-guide/exploring-a-meeds-hub/page.md)
   * [🧐 Finding Your Way Around](user-guide/exploring-a-meeds-hub/finding-your-way-around.md)
   * [🔍 Searching for content](user-guide/exploring-a-meeds-hub/searching-for-content.md)
   * [📣 Sharing to your network](user-guide/exploring-a-meeds-hub/sharing-to-your-network.md)

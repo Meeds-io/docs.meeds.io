@@ -15,3 +15,11 @@ description: >-
 👉 Propose polls
 
 :bulb: **Insert links into your content easily using the quick editor or by using keyboard shortcuts (CTRL + K)**
+
+#### :one: **Post a message**
+
+{% embed url="https://youtu.be/TULQc7p9300" %}
+
+#### :two: Write more than a message (kudos, poll, article)
+
+{% embed url="https://youtu.be/PqO0jYxoowM" %}
