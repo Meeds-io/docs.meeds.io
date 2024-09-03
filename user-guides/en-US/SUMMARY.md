@@ -53,7 +53,7 @@
 
 ## Admin Guide
 
-* [👩‍💻 Introduction](admin-guide/introduction/README.md)
+* [👩‍💻 Introduction](admin-guide/introduction.md)
   * [Onboarding users with actions](admin-guide/introduction/onboarding-users-with-actions.md)
 * [⚙️ Setting up Your Hub](admin-guide/set-up-your-hub/README.md)
   * [Customizing the theme](admin-guide/set-up-your-hub/customizing-the-theme.md)

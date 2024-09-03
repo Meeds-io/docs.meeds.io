@@ -1,4 +1,4 @@
-# 👩💻 Introduction
+# 👩‍💻 Introduction
 
 ### About this documentation
 

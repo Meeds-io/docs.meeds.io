@@ -23,6 +23,6 @@ You can decide to customize items to list there.
 * Display of Pie-Chart and Leaderboard
 * Periodicity of pie-chart, leaderboard, kudos
 
-
+#### :point\_down: Watch this video to understand how to customize this Overview Page
 
 {% embed url="https://youtu.be/mkfwPbsN1bg" %}
