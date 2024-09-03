@@ -71,7 +71,7 @@
   * [💖 Rewards](admin-guide/propose-actions-to-achieve/rewards.md)
   * [🎖️ Badges](admin-guide/propose-actions-to-achieve/badges.md)
 * [💝 Designing Incentives](admin-guide/designing-incentives/README.md)
-  * [☺️ Quick Steps to Start](admin-guide/designing-incentives/quick-steps-to-start.md)
+  * [☺️ Quick Steps to Design Programs](admin-guide/designing-incentives/quick-steps-to-design-programs.md)
   * [🌐 Building a translation program on Crowdin](admin-guide/designing-incentives/building-a-translation-program-on-crowdin.md)
   * [🐦 Growing your audience on X](admin-guide/designing-incentives/growing-your-audience-on-x.md)
   * [🐙 Fostering open collaboration on GitHub](admin-guide/designing-incentives/fostering-open-collaboration-on-github.md)
