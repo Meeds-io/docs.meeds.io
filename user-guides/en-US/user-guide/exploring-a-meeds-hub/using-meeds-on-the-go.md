@@ -23,6 +23,23 @@ On all platforms, the principle to install the app remains the same :&#x20;
 
 ☝️ The icon's look and the app's name may vary depending on how the administrators have [branded their Hub](../../admin-guide/set-up-your-hub/customizing-the-theme.md).
 
+### Enabling Multi-Tabs (Desktop App)
+
+When using the app as a desktop app, you might want to open multiple tabs for editing notes, news, or for accessing the platform settings.
+
+To do so, you need to enable an experimental flag proposed by Chromium-based browser (chrome, brave, for example).
+
+:warning:  _Warning: Experimental features ahead! By enabling these features, you could lose browser data or compromise your security or privacy._
+
+1. From your browser (chromium-based ones)
+2. Access flags [chrome://flags](chrome://flags/)
+3. Search for this flag: Desktop PWA tab strips
+4. Enable it
+5. Start again the browser
+6. Install the app (or install it again)
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Enabling Notifications
 
 1. (optional)  Another snack bar should prompt you to enable notifications. ![](../../.gitbook/assets/snackbar-notifications.png)
