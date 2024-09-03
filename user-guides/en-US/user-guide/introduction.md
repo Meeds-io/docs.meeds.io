@@ -1,4 +1,4 @@
-# 👨💻 Introduction
+# 👨‍💻 Introduction
 
 ## About this Guide
 
@@ -6,7 +6,7 @@ Onboard the  Meeds solution with confidence and tranquility with this user docum
 
 Designed to assist you in your initial steps, it also introduces advanced cases.&#x20;
 
-⚙️ If you're looking for administrator documentation, visit here &#x20;
+⚙️ If you're looking for administrator documentation, visit [here](broken-reference) &#x20;
 
 :question:**Have a question?**&#x20;
 
