@@ -2,7 +2,7 @@
 description: Discover how Meeds helps you to onboard users and encourage them to do actions
 ---
 
-# Onboarding users with actions
+# Contribute Site: Helping you to engage users
 
 #### :map: Where?
 
@@ -11,6 +11,8 @@ Once they log in, users access the Contribute Site.
 #### :question: What?
 
 From there, they will be able to access an overview page, then detailed pages like programs, actions and wallet.
+
+Programs, actions and wallet are useful pages so your users can easily browse items in dedicated applications.
 
 The Overview Page aims to give a quick look at what to do.
 
