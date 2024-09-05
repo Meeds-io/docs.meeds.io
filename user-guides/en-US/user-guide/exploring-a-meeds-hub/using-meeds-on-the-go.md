@@ -80,7 +80,11 @@ Quick tutorial to install a Meeds app on Android
 
 ## Windows
 
-coming soon
+
+
+{% embed url="https://www.loom.com/share/d98387e083f64e83b41bcf75e2ae663b?sid=16156fe0-9da0-405e-b134-c4e2d97d46dd" %}
+Quick tutorial to install the App using Windows
+{% endembed %}
 
 ## Mac
 
