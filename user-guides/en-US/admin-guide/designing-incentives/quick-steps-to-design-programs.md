@@ -4,22 +4,18 @@ description: >-
   onboarding your users
 ---
 
-# ☺️ Quick Steps to Start
+# ☺️ Quick Steps to Design Programs
 
-#### Two default programs are provided by default
+Two default programs are provided by default: `Getting Started` and `Community Empowerment`
 
-* These programs aim to help you onboarding new users to your platform
-* Both are designed to help you understand how it works
-* Automatic actions with conditions are listed for each program
-* You don't need to check contributions once achieved by contributors
+<figure><img src="../../.gitbook/assets/default-programs.png" alt=""><figcaption></figcaption></figure>
 
-#### Feel free to check which actions are listed
+These programs aim to help you **onboard new users** to your hub. Both are designed to help you understand how things work. Each program lists automatic actions with conditions that will let users smoothly familiarize themselves with Meeds.&#x20;
 
-* You can customize it
-* You can disable or delete it
+These programs do not require you to verify manually: actions are captured, and points are distributed automatically based on what your members do on the Hub.
 
-#### :bulb: Watch this video for an overview of it and to understand how to quickly create a program
+Feel free to review which actions are listed in these programs and customize them by disabling/editing/deleting or adding more actions to **design your own member onboarding experience**.
 
-
+:bulb: Watch this video for an overview of it and to understand how to quickly create a program:
 
 {% embed url="https://youtu.be/46qtp9Graiw" %}
