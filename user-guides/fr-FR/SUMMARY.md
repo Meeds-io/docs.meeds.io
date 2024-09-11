@@ -4,7 +4,7 @@
 
 ## Documentation Utilisateur
 
-* [👨💻 Introduction](documentation-utilisateur/introduction.md)
+* [👨‍💻 Introduction](documentation-utilisateur/introduction.md)
 * [🚀 Découvrir Meeds](documentation-utilisateur/decouvrir-meeds/README.md)
   * [Naviguer sur Meeds](documentation-utilisateur/decouvrir-meeds/naviguer-sur-meeds.md)
   * [Rechercher du contenu](documentation-utilisateur/decouvrir-meeds/rechercher-du-contenu.md)
@@ -12,7 +12,7 @@
   * [Lister ses applications](documentation-utilisateur/decouvrir-meeds/lister-ses-applications.md)
   * [Créer sa liste de favoris](documentation-utilisateur/decouvrir-meeds/creer-sa-liste-de-favoris.md)
   * [Utiliser Meeds en mobilité](documentation-utilisateur/decouvrir-meeds/utiliser-meeds-en-mobilite.md)
-* [🛠 Personnaliser son profil](documentation-utilisateur/personnaliser-son-profil/README.md)
+* [🛠️ Personnaliser son profil](documentation-utilisateur/personnaliser-son-profil/README.md)
   * [Mettre à jour son profil](documentation-utilisateur/personnaliser-son-profil/mettre-a-jour-son-profil.md)
   * [Changer son mot de passe](documentation-utilisateur/personnaliser-son-profil/changer-son-mot-de-passe.md)
   * [Initialiser son portefeuille](documentation-utilisateur/personnaliser-son-profil/initialiser-son-portefeuille.md)
@@ -34,7 +34,7 @@
   * [Ajouter un programme](documentation-utilisateur/animer-vos-programmes/ajouter-un-programme.md)
   * [Ajouter des actions](documentation-utilisateur/animer-vos-programmes/ajouter-des-actions.md)
   * [Suivre les contributions](documentation-utilisateur/animer-vos-programmes/suivre-les-contributions.md)
-* [⚙ Collaborer dans un espace](documentation-utilisateur/collaborer-dans-un-espace/README.md)
+* [⚙️ Collaborer dans un espace](documentation-utilisateur/collaborer-dans-un-espace/README.md)
   * [Créer un espace](documentation-utilisateur/collaborer-dans-un-espace/creer-un-espace.md)
   * [Rejoindre un espace](documentation-utilisateur/collaborer-dans-un-espace/rejoindre-un-espace.md)
   * [Collaborer en équipe ou sur un projet](documentation-utilisateur/collaborer-dans-un-espace/collaborer-en-equipe-ou-sur-un-projet.md)
@@ -47,8 +47,8 @@
 
 ## Documentation Administrateur
 
-* [👩💻 Introduction](documentation-administrateur/introduction.md)
-* [⚙ Configurer en quelques clics](documentation-administrateur/configurer-en-quelques-clics/README.md)
+* [👩‍💻 Introduction](documentation-administrateur/introduction.md)
+* [⚙️ Configurer en quelques clics](documentation-administrateur/configurer-en-quelques-clics/README.md)
   * [Personnaliser le thème](documentation-administrateur/configurer-en-quelques-clics/personnaliser-le-theme.md)
   * [Préciser l'accès à la plateforme](documentation-administrateur/configurer-en-quelques-clics/preciser-lacces-a-la-plateforme.md)
   * [Personnaliser votre site public](documentation-administrateur/configurer-en-quelques-clics/personnaliser-votre-site-public.md)

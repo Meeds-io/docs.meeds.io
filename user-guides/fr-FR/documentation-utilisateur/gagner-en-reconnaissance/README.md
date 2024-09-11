@@ -2,6 +2,7 @@
 description: >-
   En plus de prendre des initiatives, construisez votre réputation et recueillez
   des encouragements de la part de vos pairs
+hidden: true
 ---
 
 # 🏅 Gagner en reconnaissance

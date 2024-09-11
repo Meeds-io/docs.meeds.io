@@ -1,2 +1,6 @@
-# ⚙ Collaborer dans un espace
+---
+hidden: true
+---
+
+# ⚙️ Collaborer dans un espace
 

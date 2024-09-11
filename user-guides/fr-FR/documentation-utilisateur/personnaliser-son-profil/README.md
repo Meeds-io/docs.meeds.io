@@ -1,2 +1,6 @@
-# 🛠 Personnaliser son profil
+---
+hidden: true
+---
+
+# 🛠️ Personnaliser son profil
 

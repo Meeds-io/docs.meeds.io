@@ -1,4 +1,8 @@
-# 👨💻 Introduction
+---
+hidden: true
+---
+
+# 👨‍💻 Introduction
 
 ## A propos de cette documentation
 
