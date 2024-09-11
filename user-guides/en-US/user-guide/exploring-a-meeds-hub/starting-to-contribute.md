@@ -26,3 +26,9 @@ In addition to this home page, the Contribute Site gives you direct access to Pr
 
 #### :point\_down: Watch this video to see more
 
+
+
+{% embed url="https://www.loom.com/share/9bdf4129f0cc403cb19e43b14fdb9e17" %}
+Discovering the Contribute Site
+{% endembed %}
+
