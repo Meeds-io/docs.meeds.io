@@ -8,9 +8,17 @@ The instructions below demonstrate how to enter a community hub with an open pol
 
 ## Signing Up
 
+{% embed url="https://youtu.be/YFAGAHRFcE4?si=z4MREJG52tzNHd2p" %}
+
+When you're on a Hub's public page, you can always find two buttons ont the the top right corner of the page to either  `Login` or `Sign Up`
+
+<figure><img src="../../.gitbook/assets/Sign-up-login.png" alt="" width="237"><figcaption></figcaption></figure>
+
+Click Sign Up to start creating an account on the Hub.
+
 <figure><img src="../../.gitbook/assets/login-page.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Once you land on the Hub's login page, click on `Create a Free Account`
+Alternatively, once you land on the Hub's login page, click on `Create a Free Account`
 
 ### Sign up with Metamask
 
@@ -28,7 +36,7 @@ You'll receive an email  to confirm your  address
 
 Click on `Join` in the email
 
-### Finalize your account creation&#x20;
+### Finalize your account
 
 You should see a form like this one :&#x20;
 
