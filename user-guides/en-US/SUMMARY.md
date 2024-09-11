@@ -6,7 +6,7 @@
 
 * [👨‍💻 Getting Started](user-guide/introduction/README.md)
   * [🌐 Exploring Community Hubs](user-guide/introduction/exploring-community-hubs.md)
-  * [🚪 Entering a Hub](user-guide/introduction/entering-a-hub.md)
+  * [🚪 Joining a Hub](user-guide/introduction/joining-a-hub.md)
   * [📳 Installing the App](user-guide/introduction/using-meeds-on-the-go.md)
 * [🚀 Exploring a Meeds Hub](user-guide/exploring-a-meeds-hub/README.md)
   * [🧐 Finding Your Way Around](user-guide/exploring-a-meeds-hub/finding-your-way-around.md)

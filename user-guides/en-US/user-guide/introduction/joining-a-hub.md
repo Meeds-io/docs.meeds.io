@@ -1,4 +1,4 @@
-# 🚪 Entering a Hub
+# 🚪 Joining a Hub
 
 Once you've found your dream community and are ready to participate, you can sign up for the Hub.
 
@@ -26,7 +26,7 @@ This is recommended if you already have the [Metamask](https://metamask.io/) bro
 
 1. Click `Sign Up with Metamask`,&#x20;
 2. A Metamask popup will invite you to pick the wallet address you want to connect to the hub, review the permissions, and sign an authorization request.
-3. Once done, [finalize your account creation](entering-a-hub.md#finalize-your-account-creation).
+3. Once done, [finalize your account creation](joining-a-hub.md#finalize-your-account-creation).
 
 ### Sign up by Email
 
@@ -53,6 +53,8 @@ You now have a personal account on the hub!  You should be directly redirected i
 ## Signing In
 
 In Meeds, you have a dedicated account on each community Hub, and you must sign in to each one separately.
+
+{% embed url="https://youtu.be/o4CjPD8Hch8" %}
 
 You can always log in with your email and password; if you use Metamask, you can use it to sign in instead.
 
