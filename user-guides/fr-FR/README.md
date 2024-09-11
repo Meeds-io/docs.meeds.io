@@ -3,6 +3,7 @@ description: >-
   Retrouvez ici les informations clés pour utiliser la solution Meeds : Créez
   votre communauté, organisez vos programmes de contribution et autres conseils
   pratiques
+hidden: true
 ---
 
 # Documentation Meeds
