@@ -40,7 +40,7 @@ You now have a personal account on the hub!  You should be directly redirected i
 
 1. [Install the app](using-meeds-on-the-go.md)
 2. [Explore the community](../exploring-a-meeds-hub/) hub
-3. [Setup your account](../exploring-a-meeds-hub/setting-up-your-account/)
+3. [Setup your account](../setting-up-your-account/)
 
 ## Signing In
 

@@ -30,7 +30,7 @@ Notifications are organized by theme:
 * Wallet: request or receipt of funds, sending rewards
 * Shop: new product available, new order, ...
 
-:bulb: Note: We suggest you to setting your personal notifications from [there](setting-up-your-account/updating-your-profile.md)
+:bulb: Note: We suggest you to setting your personal notifications from [there](../setting-up-your-account/updating-your-profile.md)
 
 
 

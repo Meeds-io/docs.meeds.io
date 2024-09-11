@@ -19,4 +19,4 @@ description: >-
 * By using the @ symbol
 * Then, by default, group mentions are suggested, including mentioning everyone, Space Hosts, and if applicable, Space Redactors
 * Type the letters of your contact and choose the user from the suggestions
-* Once the message is posted, the mentioned users (individuals or groups) will receive a [notification](../exploring-a-meeds-hub/updating-your-notifications.md#too-many-notifications-here-are-our-recommendations)
+* Once the message is posted, the mentioned users (individuals or groups) will receive a [notification](../discovering-helpful-features/updating-your-notifications.md#too-many-notifications-here-are-our-recommendations)

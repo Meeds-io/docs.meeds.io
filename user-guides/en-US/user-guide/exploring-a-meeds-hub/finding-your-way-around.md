@@ -1,7 +1,5 @@
 ---
-description: >-
-  Discover how the Meeds solution offers you an intuitive, tailored, and modern
-  navigation experience.
+description: Discover in few steps how to browse the Meeds Platform
 ---
 
 # 🧐 Finding Your Way Around
@@ -11,27 +9,24 @@ description: >-
 :point\_right: **Use the top bar. It will allow you to quickly:**
 
 * The Home Page
-* Search
-* Notifications
-* Favorites
-* Applications
+* [Search](../discovering-helpful-features/searching-for-content.md)
+* [Notifications](../discovering-helpful-features/updating-your-notifications.md)
+* [Favorites](../discovering-helpful-features/creating-your-favorite-list.md)
+* [Applications](../discovering-helpful-features/listing-your-applications.md)
 
 ### :question:Need to navigate to other pages
 
 **👉 Open the left menu and navigate the platform with ease to:**
 
 * View and edit your Profile
-* Explore actions and products available on the Contribute site
-* Display your dashboard, contributions, and portfolio on the My Activity site
-* Access the activity feed of your communities
-* Browse the directory of members and spaces
-* Modify your user settings
+* Explore actions available on the [Contribute site](starting-to-contribute.md)
+* Enter your [Workspace ](entering-your-workspace.md)(activity feed, tasks, content)
+* Browse the [directory of members and spaces](browsing-profiles-and-communities.md)
+* Modify your [User Settings](../setting-up-your-account/updating-personal-notifications.md)
 
 ### 💡 Note
 
 * Pin the left menu as per your preference and keep it open
 * Personalize your homepage from the left menu
 
-
-
-{% embed url="https://www.loom.com/share/57a9537ea5ff4575a7c979c5575a7b5c?sid=09cd4bc3-7d40-4983-ab80-66f446cc21a9" %}
+#### :point\_down: Watch this video to see more
