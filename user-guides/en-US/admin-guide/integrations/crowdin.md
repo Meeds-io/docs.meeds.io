@@ -54,7 +54,7 @@ Paste the _Client ID_ and _Client secret_ in Step 3 on the Meeds tab
 
 <figure><img src="../../.gitbook/assets/crowin-admin-step3.png" alt="" width="214"><figcaption><p>Connect Crowdin Profile Config 3/3</p></figcaption></figure>
 
-`Save`. Your users can now [bind their Crowdin and Meeds accounts](../../user-guide/connecting-your-apps/crowdin.md) from their user settings.
+`Save`. Your users can now [bind their Crowdin and Meeds accounts](../../user-guide/setting-up-your-account/connecting-your-apps/crowdin.md) from their user settings.
 
 You can temporarily <img src="../../.gitbook/assets/toggle.png" alt="" data-size="line"> disable the ability for users to connect, ✏️ edit, or 🗑️ remove the credentials.
 

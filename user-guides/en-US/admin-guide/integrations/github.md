@@ -66,7 +66,7 @@ Click `Save`
 
 You can click on the <img src="../../.gitbook/assets/toggle.png" alt="" data-size="line">toggle button to temporarily disable profile connections, or you can ✏️ _Edit_ or 🗑️ _Delete_ the configuration to start over.
 
-At this stage, your users can [connect their GitHub profile](../../user-guide/connecting-your-apps/github.md).
+At this stage, your users can [connect their GitHub profile](../../user-guide/setting-up-your-account/connecting-your-apps/github.md).
 
 
 

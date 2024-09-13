@@ -6,7 +6,7 @@ description: Meeds provides integration to automatically capture your contributi
 
 ### ❓**How to participate with third-party tools?** <a href="#comment-participer-avec-des-outils-tiers" id="comment-participer-avec-des-outils-tiers"></a>
 
-* Access your user settings and start [connecting-your-apps](../connecting-your-apps/ "mention")depending on the activated connector&#x20;
+* Access your user settings and start [connecting-your-apps](../setting-up-your-account/connecting-your-apps/ "mention")depending on the activated connector&#x20;
 * Once done, you will be able to participate to any action of that type
 
 **💡Note**

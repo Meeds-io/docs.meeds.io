@@ -54,7 +54,7 @@ Fill in the _App info's_ _Callback URL_ and _Website URL_ fields by copy-pasting
 
 <figure><img src="../../.gitbook/assets/Twitter-connector-profile-step3.png" alt="" width="375"><figcaption><p>Enter Client credentials in Meeds (3/3)</p></figcaption></figure>
 
-Once done, users can [connect their X account](../../user-guide/connecting-your-apps/twitter.md) from their user settings.
+Once done, users can [connect their X account](../../user-guide/setting-up-your-account/connecting-your-apps/x-twitter.md) from their user settings.
 
 <figure><img src="../../.gitbook/assets/Twitter-connector-profile-ok.png" alt="" width="563"><figcaption><p>Connect  Twitter profile configured</p></figcaption></figure>
 

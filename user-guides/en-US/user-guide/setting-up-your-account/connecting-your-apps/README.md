@@ -14,11 +14,11 @@ By connecting third-party accounts, you enable Meeds to detect the contributions
 
 From the  _Hamburger_ menu,  click your _User Setting_s > _Other Apps_
 
-<figure><img src="../../.gitbook/assets/open-other-apps.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/open-other-apps.gif" alt=""><figcaption></figcaption></figure>
 
 Each 3rd party app supported by Meeds has its particular steps to connect :&#x20;
 
-* [X (Twitter)](twitter.md)
+* [X (Twitter)](x-twitter.md)
 * [GitHub](github.md)
 * [Crowdin](crowdin.md)
 
