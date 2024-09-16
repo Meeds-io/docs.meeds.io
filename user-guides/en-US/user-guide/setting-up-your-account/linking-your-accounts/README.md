@@ -1,14 +1,14 @@
 ---
 description: >-
-  With Meeds, be rewarded for your actions in other tools. To do this, connect
-  your external profiles.
+  With Meeds, be rewarded for your actions in other tools. To do this, link your
+  accounts to your Meeds account.
 ---
 
-# 🔌 Connecting your Apps
+# 🔌 Linking your Accounts
 
-### :question: To connect a third-party account to your Meeds profile:
+### :question: To link a third-party account to your Meeds profile:
 
-By connecting third-party accounts, you enable Meeds to detect the contributions you make on these external platforms.&#x20;
+By linking third-party accounts, you enable Meeds to detect the contributions you make on these external platforms.&#x20;
 
 
 
