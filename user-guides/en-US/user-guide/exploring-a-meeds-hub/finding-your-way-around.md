@@ -31,8 +31,10 @@ description: Discover in few steps how to browse the Meeds Platform
 
 #### :point\_down: Watch this video to see more
 
-
-
 {% embed url="https://www.loom.com/share/b364089bd15a48cb899464950ddc88d6?sid=e0d31fc8-f22d-47a2-8bd0-d752b48a507d" %}
 How to browse the Meeds Hub
+{% endembed %}
+
+{% embed url="https://youtu.be/Otz4ZXRuXlU" %}
+How to browse a Meeds Hub ( on mobile)
 {% endembed %}
