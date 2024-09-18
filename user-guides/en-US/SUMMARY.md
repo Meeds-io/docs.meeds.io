@@ -57,13 +57,13 @@
 ## Admin Guide
 
 * [👩‍💻 Introduction](admin-guide/introduction.md)
-  * [Contribute Site: Helping you to engage users](admin-guide/introduction/contribute-site-helping-you-to-engage-users.md)
 * [⚙️ Setting up Your Hub](admin-guide/set-up-your-hub/README.md)
   * [Customizing the theme](admin-guide/set-up-your-hub/customizing-the-theme.md)
   * [Specifying access to the platform](admin-guide/set-up-your-hub/specifying-access-to-the-platform.md)
   * [Managing a Public Site](admin-guide/set-up-your-hub/managing-a-public-site.md)
   * [Setting up Notifications](admin-guide/set-up-your-hub/setting-up-notifications.md)
   * [Adding Applications](admin-guide/set-up-your-hub/adding-applications.md)
+  * [Customizing the Overview](admin-guide/set-up-your-hub/customizing-the-overview.md)
 * [👥 Managing Users](admin-guide/manage-users/README.md)
   * [Create and Manage Users](admin-guide/manage-users/create-and-manage-users.md)
   * [Manage User Rights](admin-guide/manage-users/manage-user-rights.md)

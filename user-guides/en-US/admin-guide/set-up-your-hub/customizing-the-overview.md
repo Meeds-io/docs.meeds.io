@@ -2,11 +2,11 @@
 description: Discover how Meeds helps you to onboard users and encourage them to do actions
 ---
 
-# Contribute Site: Helping you to engage users
+# Customizing the Overview
 
 #### :map: Where?
 
-Once they log in, users access the Contribute Site.
+Once they log in, users access the Contribute section.
 
 #### :question: What?
 
