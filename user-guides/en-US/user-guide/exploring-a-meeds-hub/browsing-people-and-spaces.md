@@ -4,7 +4,7 @@ description: >-
   in various spaces called communities. Learn how to discover them.
 ---
 
-# 👤 Browsing profiles and communities
+# 👤 Browsing People & Spaces
 
 ### :question:What are we talking about?
 
@@ -24,18 +24,20 @@ Each page gives you different options.
 
 #### :people\_holding\_hands: Spaces Page
 
-* Search for communities you are member of
+* Search for communities you are a member of
 * List Communities you can join or request to join
 * List of spaces you manage, of spaces you have requested to join
 * Suggestions to join spaces
 * Popular spaces based on the most active ones
 
-:bulb: **Spaces can be hidden. That means you cannot see it if not member of it**
+:bulb: **Spaces can be hidden. That means you cannot see it if you are not a member of it**
 
 #### :point\_down: Watch this video to see more
 
-
-
 {% embed url="https://www.loom.com/share/132d8a6e0bb44c1aba53c655b8305e95?sid=96af612c-c7cb-4f63-9e35-ee8af59893d3" %}
-Browsing People and Spaces List
+Browsing People and Spaces&#x20;
+{% endembed %}
+
+{% embed url="https://youtu.be/WGoVeSTZepQ" %}
+Browsing People & Spaces on Mobile
 {% endembed %}

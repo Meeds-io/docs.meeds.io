@@ -21,7 +21,7 @@ description: Discover in few steps how to browse the Meeds Platform
 * View and edit your Profile
 * Explore actions available on the [Contribute site](starting-to-contribute.md)
 * Enter your [Workspace ](entering-your-workspace.md)(activity feed, tasks, content)
-* Browse the [directory of members and spaces](browsing-profiles-and-communities.md)
+* Browse the [directory of members and spaces](browsing-people-and-spaces.md)
 * Modify your [User Settings](../setting-up-your-account/updating-personal-notifications.md)
 
 ### 💡 Note

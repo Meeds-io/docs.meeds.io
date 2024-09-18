@@ -12,7 +12,7 @@
   * [🧐 Finding Your Way Around](user-guide/exploring-a-meeds-hub/finding-your-way-around.md)
   * [🏆 Starting to contribute](user-guide/exploring-a-meeds-hub/starting-to-contribute.md)
   * [💼 Entering your Workspace](user-guide/exploring-a-meeds-hub/entering-your-workspace.md)
-  * [👤 Browsing profiles and communities](user-guide/exploring-a-meeds-hub/browsing-profiles-and-communities.md)
+  * [👤 Browsing People & Spaces](user-guide/exploring-a-meeds-hub/browsing-people-and-spaces.md)
 * [🛠️ Setting Up your Account](user-guide/setting-up-your-account/README.md)
   * [👤 Updating Your Profile](user-guide/setting-up-your-account/updating-your-profile.md)
   * [🔏 Updating Your Password](user-guide/setting-up-your-account/updating-your-password.md)
