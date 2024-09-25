@@ -38,7 +38,7 @@ Decide whether your space is open to any user thanks to these options:
 * Listed in the space directory to any user
 * Unlisted: Hidden from non members
 
-:point\_down: More details in the video
+:point\_down: More details in the video below
 
 
 
