@@ -10,20 +10,20 @@ description: >-
 
 As a Space Admin, you can access the Space Settings. From there, you will have three options:
 
-* Update General settings of the space
+* Update Idendity & Appearance of the space
 * [Manage roles & members](managing-space-roles.md)
-* Update Access & Visibility rules of the space
+* Update Access Control
 
-### &#x20;:tools: Update General Settings
+### &#x20;:tools: Update Identity & Appearance
 
-The Overview Settings gives you access to general settings
+From there, you can
 
 * Update the Name of the Space
 * Add/Update the Description
 * Update the logo of your space, defaultly set with initials of your space name
 * Update the banner of the space, displayed in the Spaces Directory
 
-### :door: Update Access & Visibility
+### :door: Update Access Control
 
 Decide whether your space is open to any user thanks to these options:
 

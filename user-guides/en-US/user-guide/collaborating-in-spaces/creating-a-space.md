@@ -12,7 +12,7 @@ description: >-
 * Support remote work and facilitate the sharing of thematic information.&#x20;
 * Organize or track a project with a small circle of users.
 
-### :question:How to create a space?
+### &#x20;:tools: How to create a space?
 
 :point\_right: **Go to your space directory to create your community.**
 
