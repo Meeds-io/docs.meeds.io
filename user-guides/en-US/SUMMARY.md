@@ -43,7 +43,7 @@
   * [🛒 Claiming Your Perks](user-guide/earning-rewards-and-perks/claiming-your-perks.md)
 * [⚙️ Hosting a community](user-guide/hosting-a-community/README.md)
   * [➕ Creating a space](user-guide/collaborating-in-spaces/creating-a-space.md)
-  * [✨ Updating Space Characteristics](user-guide/hosting-a-community/customizing-your-site.md)
+  * [✨ Updating Identity & Appearance](user-guide/hosting-a-community/updating-identity-and-appearance.md)
   * [👥 Inviting Users & Guests](user-guide/hosting-a-community/inviting-users-and-guests.md)
   * [🛡️ Managing Space Roles](user-guide/hosting-a-community/managing-space-roles.md)
   * [🏤 Leading Your Community](user-guide/collaborating-in-spaces/leading-your-community.md)
