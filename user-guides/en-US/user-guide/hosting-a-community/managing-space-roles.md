@@ -1,7 +1,7 @@
 ---
 description: >-
-  In addition to add members, Space Admins can promote other user as admin,
-  publisher and redactor
+  In addition to add members, Space Admins can promote other member as admin,
+  publisher and content writer
 ---
 
 # 🛡️ Managing Space Roles
@@ -14,15 +14,15 @@ Here are the different roles available for Spaces Management
 
 * Admin: Full control over space settings, customization, apps, members, and content.
 * Publisher: Edit and publish space content such as articles, notes, text blocks, images and links.
-* Redactor: Creates written posts, articles, and notes for the space.
+* Content Writer: Creates written posts, articles, and notes for the space.
 * Member: Engages in space activities.
 
 ### :bulb: Good to know
 
-* In Restricted Content Creation mode, only Redactors can add posts, articles, and notes.
+* In Restricted Content Creation mode, only Content Writers can add posts, articles, and notes.
 * That means members cannot anymore write contents.
 * Of course, admins and publishers can still add contents.
-* If needed, you can remove the redactor role to publishers.&#x20;
+* If needed, you can remove the content writer role to publishers.&#x20;
 * You cannot leave a space where you are the only admin.
 
 ### &#x20;:tools: How to promote users to roles / How to revoke them from roles?
@@ -30,7 +30,7 @@ Here are the different roles available for Spaces Management
 From the Space Settings, access the roles page.
 
 * Admins, Publishers and Members are defaultly listed.
-* You can switch on the Restrited Content Creation mode to add redactors.
+* You can switch on the Restrited Content Creation mode to add Content Writers.
 
 For each role, find listed users. Click to one of them to understand more the role and to manage users:
 
