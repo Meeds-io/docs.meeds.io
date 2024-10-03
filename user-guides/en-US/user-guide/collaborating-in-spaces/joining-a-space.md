@@ -10,6 +10,8 @@ description: >-
 
 * Access the space directory from the left menu.
 * Find open communities that are freely accessible.
-* Request to join communities. The animators can then respond to your request.
-* Some spaces do not allow access and are simply listed for information.
-* Some spaces are hidden and therefore not visible in the directory if you are not a member.
+* When the space public site is enabled, feel free to browse it before joining the community
+* Spaces can be restricted to only members. Thus, those communities are only listed for information.
+* Others are hidden and therefore not visible in the directory if you are not a member.
+
+More information [in this documentation](../exploring-a-meeds-hub/browsing-people-and-spaces.md)

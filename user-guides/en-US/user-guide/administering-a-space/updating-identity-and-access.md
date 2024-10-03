@@ -4,7 +4,7 @@ description: >-
   your space (logo, banner, description)
 ---
 
-# ✨ Updating Space Characteristics
+# ✨ Updating Identity & Access
 
 ### :question: What are my options?
 
@@ -42,4 +42,4 @@ Decide whether your space is open to any user thanks to these options:
 
 
 
-{% embed url="https://www.loom.com/share/68645e1cab4145bc8312640db980fb8a?sid=06812334-419e-4a2a-82c5-fa79181a9267" %}
+{% embed url="https://www.loom.com/share/24bcad8746274ba1b2fc0006eba9b3ec?sid=084c9b4a-151b-4ae2-8b76-68e3adc500ef" %}

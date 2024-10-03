@@ -16,7 +16,7 @@ description: >-
 
 :point\_right: **Go to your space directory to create your community.**
 
-Vous pourrez :
+You will be able to :
 
 * Name your community.
 * Describe its purpose.
@@ -25,6 +25,6 @@ Vous pourrez :
 * Customize applications and illustrations.
 * Invite members and promote them as animators if necessary.
 
-### 💡 A savoir
+### 💡 Note
 
 * Space creation may be restricted. Contact your administrator if needed.
