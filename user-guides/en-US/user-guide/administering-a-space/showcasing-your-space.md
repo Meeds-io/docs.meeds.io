@@ -20,11 +20,10 @@ Enable a public site for your space and customize the featured content. From the
 
 FYI, we have set a default layout for you so you can start showcasing your community in few seconds. Thus, following items are inheritated from your own settings
 
-* Space Banner
 * Description of your space
 * Admin list
 * Member list
-* Update the Name of the Space
+* Space Name
 
 ### :eye: How to manage visibility and access of the site?&#x20;
 
@@ -39,3 +38,7 @@ First, decide which user type can access your website. Depending on your choice,
 | Anyone (non-registered visitors) | Using a link                                      |
 
 :point\_down: More details in the video below
+
+
+
+{% embed url="https://www.loom.com/share/34af4cd88e71470a818a2c48527dcbec?sid=e169f38e-2f89-46e1-bf51-64dce4665796" %}
