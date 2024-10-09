@@ -20,6 +20,7 @@ Enable a public site for your space and customize the featured content. From the
 
 FYI, we have set a default layout for you so you can start showcasing your community in few seconds. Thus, following items are inheritated from your own settings
 
+* Space banner
 * Description of your space
 * Admin list
 * Member list
