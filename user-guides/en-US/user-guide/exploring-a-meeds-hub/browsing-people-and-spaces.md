@@ -34,8 +34,10 @@ Each page gives you different options.
 
 #### :point\_down: Watch this video to see more
 
-{% embed url="https://www.loom.com/share/132d8a6e0bb44c1aba53c655b8305e95?sid=96af612c-c7cb-4f63-9e35-ee8af59893d3" %}
-Browsing People and Spaces&#x20;
+
+
+{% embed url="https://www.loom.com/share/4aae6cb16e954cf893eac796d0607bf2?sid=42fb76d3-6cd1-4807-b7bf-3f16c77c0565" %}
+Browsing the Spaces Directory
 {% endembed %}
 
 {% embed url="https://youtu.be/WGoVeSTZepQ" %}
