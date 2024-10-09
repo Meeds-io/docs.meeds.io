@@ -25,10 +25,8 @@ Each page gives you different options.
 #### :people\_holding\_hands: Spaces Page
 
 * Search for communities you are a member of
-* List Communities you can join or request to join
-* List of spaces you manage, of spaces you have requested to join
-* Suggestions to join spaces
-* Popular spaces based on the most active ones
+* Filter the list by spaces you have requested to join, or you have been invited to join
+* Access options for each space: [bookmark ](../discovering-helpful-features/creating-your-favorite-list.md)it, [send a kudos](../earning-recognition/encouraging-and-congratulating.md) to the team, copy link, visit public site
 
 :bulb: **Spaces can be hidden. That means you cannot see it if you are not a member of it**
 
