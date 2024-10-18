@@ -36,7 +36,7 @@ Space cards let you check the space name, logo, description, and total members.&
 
 Depending on its `Access` settings, you may see a `Join` or `Request Access` button on it.  You may also see an `Answer` button if it's a space where you've been invited and you need to accept or decline the invitation
 
-Quick actions are available on cards to  [bookmark ](../discovering-helpful-features/creating-your-favorite-list.md)it, [send a kudos](../earning-recognition/encouraging-and-congratulating.md) to the whole space :&#x20;
+Quick actions are available on cards to  [bookmark ](../discovering-helpful-features/creating-your-favorite-list.md)it, [send a kudos](../earning-recognition/praising-others-with-kudos.md) to the whole space :&#x20;
 
 <figure><img src="../../.gitbook/assets/space-card-3-dots-menu.png" alt="" width="210"><figcaption></figcaption></figure>
 
