@@ -36,7 +36,7 @@
   * [✅ Tracking your contributions](user-guide/participating-and-contributing/encourage-and-congratulate-others.md)
 * [🏅 Earning Recognition](user-guide/earning-recognition/README.md)
   * [🙏 Praising Others with Kudos](user-guide/earning-recognition/praising-others-with-kudos.md)
-  * [☑️ Building your reputation](user-guide/earning-recognition/building-your-reputation.md)
+  * [☑️ Building your Reputation](user-guide/earning-recognition/building-your-reputation.md)
 * [💝 Earning Rewards & Perks](user-guide/earning-rewards-and-perks/README.md)
   * [🧑‍🏫 Understanding Reward Rules](user-guide/earning-rewards-and-perks/understanding-reward-rules.md)
   * [📈 Tracking Your Rewards](user-guide/earning-rewards-and-perks/tracking-your-rewards.md)
