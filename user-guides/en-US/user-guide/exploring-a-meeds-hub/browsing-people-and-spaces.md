@@ -38,6 +38,6 @@ Each page gives you different options.
 Browsing the Spaces Directory
 {% endembed %}
 
-{% embed url="https://youtu.be/WGoVeSTZepQ" %}
-Browsing People & Spaces on Mobile
-{% endembed %}
+
+
+{% embed url="https://www.loom.com/share/a92b36bfe680453b8583a26393e6e20a?sid=d1fcc1c5-c24d-4244-8060-d5eeeded56ab" %}
