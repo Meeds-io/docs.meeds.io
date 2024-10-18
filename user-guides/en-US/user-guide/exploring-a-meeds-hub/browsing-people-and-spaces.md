@@ -15,26 +15,32 @@ From the left menu, access 2 key pages:
 
 Each page gives you different options.
 
-### :busts\_in\_silhouette: People Directory
+## :busts\_in\_silhouette: People Directory
 
 * Search for people using text filter or advanced filters
 * Access to their profile
 * Suggestions to invite people to join your network
 * Leaderboard
 
-### :people\_holding\_hands: Spaces Directory
+## :people\_holding\_hands: Spaces Directory
 
-The spaces director lets you browse your hub's communities, teams, and other channels.
+The spaces directory lets you browse your hub's communities, teams, and other channels.
 
 <figure><img src="../../.gitbook/assets/spaces-directory.png" alt=""><figcaption></figcaption></figure>
 
 #### 📽️ No time to read? What our quick video tours : [desktop](browsing-people-and-spaces.md#quick-video-tour-desktop) / [mobile](browsing-people-and-spaces.md#quick-video-tour-mobile)
 
-#### Space Cards and Quick actions
+### Space cards
 
-Space cards let you check the space name, logo, description, and total members.&#x20;
+Space cards let you check the space name, logo, description, and total members.  They may also display a red badge icon to indicate you have unread activities in the Feed.
 
-Depending on its `Access` settings, you may see a `Join` or `Request Access` button on it.  You may also see an `Answer` button if it's a space where you've been invited and you need to accept or decline the invitation
+<figure><img src="../../.gitbook/assets/clearer.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Depending on the space's `Access` settings, you may see a `Join` or `Request Access` button on the card.  You may also see an `Answer` button if it's a space where you've been invited and you need to accept or decline the invitation
+
+<figure><img src="../../.gitbook/assets/spaces-card-buttons.png" alt="" width="375"><figcaption></figcaption></figure>
+
+### Quick actions
 
 Quick actions are available on cards to  [bookmark ](../discovering-helpful-features/creating-your-favorite-list.md)it, [send a kudos](../earning-recognition/praising-others-with-kudos.md) to the whole space :&#x20;
 
@@ -48,7 +54,7 @@ Additionally, a dropdown menu provides more contextual actions depending on your
 * **Open settings** to administrate the space
 * **Remove** to remove the space and all of its content permanently
 
-#### Searching in the directory
+### Searching in the directory
 
 The directory can be browsed and filtered easily by name and description.&#x20;
 
@@ -57,6 +63,16 @@ The directory can be browsed and filtered easily by name and description.&#x20;
 Click on the `Filter` button for more filtering options&#x20;
 
 <figure><img src="../../.gitbook/assets/filter-spaces.png" alt="" width="239"><figcaption></figcaption></figure>
+
+In addition, at the top of the directory, you may see quick filters for the invitations you received and the requests you sent.
+
+<figure><img src="../../.gitbook/assets/indicators.png" alt="" width="375"><figcaption></figcaption></figure>
+
+If you're a space admin yourself, you can also quickly review all requests to join your spaces
+
+<figure><img src="../../.gitbook/assets/pending-requests.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 :bulb: **Hidden spaces can't be found in the spaces directory except if you're already a member.**
 
