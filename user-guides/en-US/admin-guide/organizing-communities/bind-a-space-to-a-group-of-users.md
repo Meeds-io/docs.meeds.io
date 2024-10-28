@@ -2,13 +2,14 @@
 description: >-
   Simplify space management and enable the automatic linking of a user group to
   a space
+icon: arrow-up-from-arc
 ---
 
 # Bind a space to a group of users
 
 #### :point\_right: Space Management&#x20;
 
-Delegate space management to a user group by following [this procedure](manage-user-rights.md).
+Delegate space management to a user group by following [this procedure](../manage-users/manage-user-rights.md).
 
 #### :point\_right: Link a Space to a User Group&#x20;
 
