@@ -10,5 +10,4 @@ description: >-
 Discover how to streamline your community structure for improved collaboration and accessibility:
 
 * [Adding / Editing Space Templates](managing-space-templates.md)
-* [Managing Spaces](managing-spaces.md)
-* [Providing Categories](providing-space-categories.md)
+* [Importing group members to a space](bind-a-space-to-a-group-of-users.md)
