@@ -1,8 +1,8 @@
 ---
+icon: browsers
 description: >-
   Create your templates to ease the process of creating a space. Decide for each
   what is mandatory, which app, who can create, edit or delete related spaces.
-icon: browsers
 ---
 
 # Managing Space Templates
@@ -27,13 +27,19 @@ When creating / editing a template, you will be able to:
 3. Provide the default configuration (banner, access control, editorial space)
 4. Identify who can create, who can edit navigation, who can delete spaces
 
+:bulb: **In case you like a template without overwriting it, you can duplicate it to create another one**
+
+{% hint style="info" %}
+Soon available: Editing space template layout
+
 In addition, we let you update the default navigation and layout of the space template:
 
 * You can organize the navigation at your convenience
 * You can edit each page layout for customized experience
 
 :bulb: **Data and preferences of apps (links, newslist, block of content will be saved so space creators can automatically get the space up and running)**
+{% endhint %}
 
 #### Watch the video below for more information :point\_down:
 
-####
+{% embed url="https://www.loom.com/share/bfdb2d09c5dc4a5f8106896f6736e176?sid=501c3768-b706-49f8-acfd-45d69c260438" %}
