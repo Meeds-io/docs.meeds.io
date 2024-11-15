@@ -2,7 +2,7 @@
 description: Program Owners can review contributions, even those marked as approved
 ---
 
-# Reviewing Contributions
+# ✅ Reviewing Contributions
 
 ## ❓ Why reviewing contributions? <a href="#how-to-find-your-previous-contributions-on-the-meeds-platform" id="how-to-find-your-previous-contributions-on-the-meeds-platform"></a>
 

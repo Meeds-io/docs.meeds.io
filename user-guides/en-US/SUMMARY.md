@@ -81,7 +81,7 @@
   * [💰 Wallet](admin-guide/propose-actions-to-achieve/wallet.md)
   * [💖 Rewards](admin-guide/propose-actions-to-achieve/rewards.md)
   * [🎖️ Badges](admin-guide/propose-actions-to-achieve/badges.md)
-  * [Reviewing Contributions](admin-guide/propose-actions-to-achieve/reviewing-contributions.md)
+  * [✅ Reviewing Contributions](admin-guide/propose-actions-to-achieve/reviewing-contributions.md)
 * [🏘️ Organizing Communities](admin-guide/organizing-communities/README.md)
   * [Managing Space Templates](admin-guide/organizing-communities/managing-space-templates.md)
   * [Managing Spaces](admin-guide/organizing-communities/managing-spaces.md)
