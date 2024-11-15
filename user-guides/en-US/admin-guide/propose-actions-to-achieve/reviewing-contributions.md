@@ -1,63 +1,70 @@
 ---
-description: Program Owners can review contributions, even those marked as approved
+description: >-
+  Program Owners can review contributions, including those that have already
+  been marked as approved.
 ---
 
 # ✅ Reviewing Contributions
 
-## ❓ Why reviewing contributions? <a href="#how-to-find-your-previous-contributions-on-the-meeds-platform" id="how-to-find-your-previous-contributions-on-the-meeds-platform"></a>
+## ❓ Why Review Contributions? <a href="#how-to-find-your-previous-contributions-on-the-meeds-platform" id="how-to-find-your-previous-contributions-on-the-meeds-platform"></a>
 
-When suggesting an action to your contributors, you can decide the default status of the contribution:
+When suggesting an action to contributors, you can define the default status of the contribution:
 
-* Pending: Points on hold until validation
-* Accepted: Points awarded immediately
+* **Pending**: Points are on hold until validation.
+* **Accepted**: Points are awarded immediately.
 
-Indeed, in case an action needs to be reviewed before allocating points, badges, you can automatically identify it as pending. In fine, you will need to review it so it is considered for leaderboard & rewarding.
+If an action requires review before allocating points or badges, you can set it as "Pending." Once reviewed, it will be considered for the leaderboard and rewards.
 
-Furthermore, as a program owner, reviewing contributions can help you detect errors, or fraud. In that case, you can decide to reject previously accepted ones.
+As a Program Owner, reviewing contributions helps to:
+
+* Detect errors or fraud.
+* Reject previously accepted contributions if necessary.
 
 #### **💡**Good to know <a href="#how-to-find-your-previous-contributions-on-the-meeds-platform" id="how-to-find-your-previous-contributions-on-the-meeds-platform"></a>
 
-Once the rewards are sent, _**accepted**_ or _**rejected**_ contributions cannot be reviewed. Only _**pending**_ ones can be updated as it has not been considered for payment.
+* Once rewards are sent, **Accepted** or **Rejected** contributions cannot be reviewed.
+* Only **Pending** contributions can be updated since they have not been considered for payment yet.
 
-## :map: Where is the App to review Contributions? <a href="#how-to-find-your-previous-contributions-on-the-meeds-platform" id="how-to-find-your-previous-contributions-on-the-meeds-platform"></a>
-
-**👉 Access your Appcenter**
-
-* From there, you will find the Contributions Review App
-* As a program owner, you will have access to all programs you manage
-
-## :tools: How to review Contributions?
+## :map: Where to Review Contributions? <a href="#how-to-find-your-previous-contributions-on-the-meeds-platform" id="how-to-find-your-previous-contributions-on-the-meeds-platform"></a>
 
 #### **👉 From the 'Contribution Comment' itself**
 
-For each contribution the user has manually submitted, you can:
+For each manually submitted contribution, you can:
 
-* Access the 3-dots option
-* Approve / Reject / Put on Hold (pending) the contribution
+1. Access the **3-dots menu**.
+2. Approve / Reject / Put the contribution **On Hold (Pending)**.
 
-However, we suggest you to access the Contributions Review App to list any contribution type (automatic, manual).
+**Tip:** Use the **Contributions Review App** to review all contributions (manual and automatic).
+
+**👉 Access your Appcenter**
+
+* From there, you can find the **Contributions Review App**.
+* As a Program Owner, you will have access to all the programs you manage.
+
+## :tools: How to Review Contributions?
 
 #### **👉 From the 'Reviews' Tab, in the Contributions Review App**
 
 For each contribution, you can:
 
-* Access the contribution or the program by clicking to it&#x20;
-* See the participant, the date&#x20;
-* See the status:
-  * In case the action has been canceled, a "-" is displayed. Hover it to check the status
-  * In case it already has been reviewed, you can see who has reviewed it
-* Update the current status
-  * Each time you reject/approve a contribution the user has submitted, a notification is sent to the user to let them know
-  * When rejecting, we hilghly suggest you to comment the contribution when possible
+* Click to access the contribution or program.
+* View participant details and submission date.
+* Check the current status:
+  * If an action is canceled, a "-" is displayed. Hover over it to see more details.
+  * For already reviewed actions, you can see who reviewed them.
+* Update the current status.
 
-#### **👉** If needed, filter the list
+Each time you approve or reject a contribution, the contributor is notified.\
+**Tip:** When rejecting a contribution, include a comment whenever possible.
 
-* Hover an action, a participant, a program and click to the "search icon" suggested to filter by the item
-* Access the advanced filters of the app and choose what to filter
+#### **👉 If Needed, Apply Filters**
 
-**💡 Note**
+* Hover over an action, participant, or program, and click the **search icon** to filter by the item.
+* Use the advanced filters in the app to refine your search.
 
-* Actions that are pending are not considered in the leaderboard nor in the rewarding
-* Accepted contributions will be considered for the rewarding period during it has been accepted
+**💡 Additional Notes**
+
+* **Pending actions** are not considered in the leaderboard or rewards.
+* **Accepted contributions** will be included in the rewarding period during which they were accepted.
 
 \
