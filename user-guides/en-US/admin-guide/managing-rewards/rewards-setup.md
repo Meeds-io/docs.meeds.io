@@ -1,19 +1,8 @@
 ---
-description: >-
-  In a few clicks, establish the foundations for managing your recognition
-  policy
+description: In a few clicks, establish the foundations for managing your rewarding policy
 ---
 
-# 🛠️ Recognition Setup
-
-### **Set the Number of Available Kudos**
-
-* From the administration site, access the general configuration settings for recognition
-* Edit the settings for Kudos
-* By default, we recommend 3 kudos per week
-* If necessary, modify the number and frequency
-
-:bulb: **Reset to default values with a single click if needed**
+# 🛠️ Rewards Setup
 
 ### **Define the Initial Amount of Meeds for New Wallets**
 

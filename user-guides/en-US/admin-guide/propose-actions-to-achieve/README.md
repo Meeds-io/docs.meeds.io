@@ -1,7 +1,7 @@
 ---
 description: >-
-  Organize the incentives to contribute, and reviews, rewards, and manage
-  programs and other associated tools in just a few clicks
+  In just a few clicks, decide how contributions can be organized: kudos, badges
+  and contributions review.
 ---
 
 # 🎁 Managing Contributions

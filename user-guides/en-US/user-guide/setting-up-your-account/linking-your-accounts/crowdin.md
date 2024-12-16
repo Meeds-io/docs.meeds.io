@@ -12,7 +12,7 @@ If you Hit a Crowdin action and your account is not yet connected, it will look 
 
 <figure><img src="../../../.gitbook/assets/crowdin-action-prompt.png" alt=""><figcaption></figcaption></figure>
 
-Alternatively, you can open the _Hamburger_ menu,  access your _User Setting_s, then scroll down to _Other Apps :_
+Alternatively, you can open the _Hamburger_ menu,  access your _User Settin&#x67;_&#x73;, then scroll down to _Other Apps :_
 
 <figure><img src="../../../.gitbook/assets/other-apps-ok.png" alt=""><figcaption></figcaption></figure>
 

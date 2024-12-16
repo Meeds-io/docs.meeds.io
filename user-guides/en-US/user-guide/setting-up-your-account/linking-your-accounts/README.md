@@ -12,7 +12,7 @@ By linking third-party accounts, you enable Meeds to detect the contributions yo
 
 
 
-From the  _Hamburger_ menu,  click your _User Setting_s > _Other Apps_
+From the  _Hamburger_ menu,  click your _User Settin&#x67;_&#x73; > _Other Apps_
 
 <figure><img src="../../../.gitbook/assets/open-other-apps.gif" alt=""><figcaption></figcaption></figure>
 
