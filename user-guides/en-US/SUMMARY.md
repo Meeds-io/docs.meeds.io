@@ -81,7 +81,7 @@
   * [🎖️ Badges Management](admin-guide/propose-actions-to-achieve/badges-management.md)
   * [✅ Contributions Review](admin-guide/propose-actions-to-achieve/contributions-review.md)
 * [💲 Managing Rewards](admin-guide/managing-rewards/README.md)
-  * [🛠️ Rewards Setup](admin-guide/managing-rewards/rewards-setup.md)
+  * [🛠️ Setup](admin-guide/managing-rewards/setup.md)
   * [💰 Wallets Management](admin-guide/managing-rewards/wallets-management.md)
   * [💖 Rewards Management](admin-guide/managing-rewards/rewards-management.md)
   * [💲 Meeds Rewards Program](admin-guide/managing-rewards/meeds-rewards-program.md)

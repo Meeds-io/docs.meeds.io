@@ -29,7 +29,7 @@ Depending on your rules, a preview of the reward distribution is updated to let 
 
 #### Watch the video below for more info :point\_down:
 
-####
+{% embed url="https://www.loom.com/share/dd13d0c5ea844e5fa3c3a3d5c32562d5?sid=b24676cf-6365-4489-85ef-c0be041a2bdc" %}
 
 ### :coin: How to send rewards?
 
@@ -61,6 +61,8 @@ For each contributor, it is possible to see details:
 
 
 
+{% embed url="https://www.loom.com/share/b2a01e82975a43169ef91ed4ec627084?sid=cb182037-3b9e-47fb-a32c-21a2791b7c1f" %}
+
 #### :money\_with\_wings: Send Rewards
 
 Once you list a period detail, if not already sent, you can send rewards thanks to the CTA suggested in the top of the page.
@@ -71,3 +73,5 @@ Once you list a period detail, if not already sent, you can send rewards thanks 
 2. A minimum of the configured budget is needed to send rewards
 
 #### Watch the video below for more info :point\_down:
+
+{% embed url="https://www.loom.com/share/1365b3dbbaa349b89be151a54269db8e?sid=883aee38-569f-4d0d-b47e-e1b24f072781" %}
