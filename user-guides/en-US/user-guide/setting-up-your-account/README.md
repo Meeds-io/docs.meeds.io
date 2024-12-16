@@ -1,2 +1,2 @@
-# 🛠 Customizing your profile
+# ⚒️ Setting Up your Account
 
