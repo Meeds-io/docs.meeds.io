@@ -42,3 +42,5 @@ _In case you have no DEED NFT, you will be suggested to get one from the_ [_Meed
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Invitation to claim your rewards</p></figcaption></figure>
 
 #### Watch the video below for more info :point\_down:
+
+{% embed url="https://www.loom.com/share/2f48851303934ceb92f0418dad718546?sid=4113510b-7140-40c9-9d41-8b3f0ae3f686" %}
