@@ -9,35 +9,32 @@ description: >-
 
 ### :bulb: Good to Know
 
-This customization is only applied for navigation topbar and sidebar provided while using the meta site. This is not applied to standalone sites like administration settings or public site.
+Customization applies only to the navigation topbar and sidebar in the meta site. It does not affect standalone sites like Administration Settings or Public Sites.
 
-In addition, default configuration for any platform is:
+**Default Platform Configuration:**
 
-**Topbar**
+* **Topbar**:
+  * **Platform Identity**:
+    * Desktop: Logo and name displayed.
+    * Mobile: Logo displayed.
+  * **Space/Site Identity**: Name displayed.
+  * **Options**: All options except settings are accessible on mobile.
+* **Sidebar**:
+  * **Personal Home**: Users can set their personal home.
+  * **Display Options**: All available.
+  * **Default Display**: Icon View by default.
+  * **Items List**:
+    * Contribute
+    * My Workspace
+    * Meeds Page (People)
+    * Templates (varies by user space membership):
+      * Announcement
+      * Community
+      * Project
+      * Circles
+    * Spaces: Access to spaces the user belongs to.
 
-* **Platform identity:**&#x20;
-  * Desktop view: Logo and name are displayed
-  * Mobile view: Logo is displayed
-* **Space / Site Identity:** Name is displayed
-* **Options:** All excepted settings are available using mobile
-
-**Sidebar**
-
-* **Personal Home**: User can set their personal home
-* **Display options**: Any option can be used
-* **Default Display**: Icon View is provided by default
-* **Items list:**
-  * Contribute
-  * My Workspace
-  * Meeds page (people)
-  * **Templates** (depending on the membership of the user to spaces):
-    * Announcement
-    * Community
-    * Project
-    * Circles
-  * **Spaces:** Access to spaces the user is member of
-
-#### Watch following video to understand how users can use it :point\_down:
+#### Watch the video to learn how users interact with these features :point\_down:
 
 {% embed url="https://www.loom.com/share/990bfb6867f54316ad4928488d3f43f3?sid=c415208c-fecc-4548-96b3-d73808326135" %}
 Topbar and Sidebar default display
@@ -45,24 +42,24 @@ Topbar and Sidebar default display
 
 ### :question: **Why Update the Topbar & Sidebar Display?**
 
-* Select which option to list in the topbar
-* Identify which site you want to list in the sidebar
-* Customize the experience for your users to find their favorite, recently visited communities
+* Select which options appear in the topbar.
+* Choose which sites to list in the sidebar.
+* Customize user experience by highlighting favorite or recently visited communities.
 
 ### :tools: How to Change these displays?
 
 1. Go to the **Administration Panel**.
 2. Navigate to **Topbar & Sidebar Settings**
-3. Adjust whatever you need&#x20;
+3. Make necessary adjustments
 4. Save your changes
 
-### :eyes: Options for advanced use:
+### :eyes: Advanced Options
 
-* Access a mobile preview of the topbar or the sidebar before applying
-* Add separators to rearrange your sidebar list
-* Add links to access external links or to suggest users to send emails
+* Preview mobile versions of the topbar and sidebar before applying changes.
+* Add separators to rearrange the sidebar list.
+* Add links to external resources or email suggestions.
 
-#### Watch following video to understand what and how to use these options :point\_down:
+#### Watch the video below to learn about these options and how to use them effectively :point\_down:
 
 {% embed url="https://www.loom.com/share/a5c2f7a834e441188fd3e57f121db47c?sid=d47b29d2-037e-4a3e-8bbb-bc6a2fb91f2c" %}
 Customize topbar & sidebar configuration
