@@ -21,7 +21,7 @@ On all platforms, the principle to install the app remains the same :&#x20;
 
 <figure><img src="../../.gitbook/assets/install-app-popup.png" alt="" width="346"><figcaption><p>Install the app when prompted</p></figcaption></figure>
 
-☝️ The icon's look and the app's name may vary depending on how the administrators have [branded their Hub](../../admin-guide/set-up-your-hub/branding-customization.md).
+☝️ The icon's look and the app's name may vary depending on how the administrators have [branded their Hub](../../admin-guide/set-up-your-hub/customizing-the-theme.md).
 
 ### Enabling Multi-Tabs (Desktop App)
 

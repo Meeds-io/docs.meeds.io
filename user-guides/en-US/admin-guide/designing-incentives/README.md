@@ -20,7 +20,7 @@ In step 2, you need to choose an audience and owners.&#x20;
 
 💡 If you're just getting started, the easiest is to select `All`
 
-This means that all the actions you create will be immediately accessible to all the members of your hub and even visible to non-members (if you have enabled the[ public site](../advanced-setup/public-site-management.md) feature).
+This means that all the actions you create will be immediately accessible to all the members of your hub and even visible to non-members (if you have enabled the[ public site](../set-up-your-hub/managing-a-public-site.md) feature).
 
 **Owners**&#x20;
 

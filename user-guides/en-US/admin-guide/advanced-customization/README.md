@@ -7,7 +7,7 @@ description: >-
 
 # 🎨 Advanced Customization
 
-In addition to [Theme Customization](../set-up-your-hub/branding-customization.md), Administrators & Space Administrators can indeed:
+In addition to [Theme Customization](../set-up-your-hub/customizing-the-theme.md), Administrators & Space Administrators can indeed:
 
 * [Edit Navigation](edit-navigation.md)
 * [Add Pages](add-a-page.md)

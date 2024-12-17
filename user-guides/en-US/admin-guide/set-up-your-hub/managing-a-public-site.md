@@ -19,7 +19,7 @@ icon: globe
 * Simple text
 * Useful Links
 
-#### :two: **If your platform is** [**open**](platform-access.md)**, any 'public' program will be listed on your public site**
+#### :two: **If your platform is** [**open**](specifying-access-to-the-platform.md)**, any 'public' program will be listed on your public site**
 
 * A 'public' program is one with an open audience
 * Either no identified space&#x20;
