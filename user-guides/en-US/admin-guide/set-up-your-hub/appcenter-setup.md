@@ -1,8 +1,9 @@
 ---
 description: Add and organize the applications you want to make available to users
+icon: grid
 ---
 
-# Adding Applications
+# Appcenter Setup
 
 ### List the available applications
 

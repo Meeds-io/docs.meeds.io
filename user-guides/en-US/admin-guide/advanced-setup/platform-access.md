@@ -2,9 +2,10 @@
 description: >-
   Depending on your context, you can either invite everyone to join your
   platform or restrict access.
+icon: arrow-right-to-bracket
 ---
 
-# Specifying access to the platform
+# Platform Access
 
 * From the Administration Site, access General Settings
 * Access Platform Access options

@@ -4,7 +4,7 @@ description: >-
   or computer.
 ---
 
-# 📳 Getting the App
+# 📳 Installing the App
 
 Meeds can be used on the web with most browsers but also as an app on your mobile device (phone or tablet) or your computer. The main advantage is that you have a **dedicated and branded app for each of your communities** and access to system **notifications**.
 
@@ -21,7 +21,7 @@ On all platforms, the principle to install the app remains the same :&#x20;
 
 <figure><img src="../../.gitbook/assets/install-app-popup.png" alt="" width="346"><figcaption><p>Install the app when prompted</p></figcaption></figure>
 
-☝️ The icon's look and the app's name may vary depending on how the administrators have [branded their Hub](../../admin-guide/set-up-your-hub/customizing-the-theme.md).
+☝️ The icon's look and the app's name may vary depending on how the administrators have [branded their Hub](../../admin-guide/set-up-your-hub/branding-customization.md).
 
 ### Enabling Multi-Tabs (Desktop App)
 

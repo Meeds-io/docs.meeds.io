@@ -1,5 +1,6 @@
 ---
 description: Discover how Meeds helps you to onboard users and encourage them to do actions
+icon: gear
 ---
 
 # Customizing the Overview

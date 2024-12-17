@@ -1,3 +1,3 @@
-# ⚙ Setting up Your Hub
+# 🚀 Quick setup
 
-Follow these practical tips below to get started with your Hub
+Follow these practical tips below to get started with your Hub&#x20;

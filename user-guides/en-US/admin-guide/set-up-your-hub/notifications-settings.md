@@ -2,9 +2,10 @@
 description: >-
   As an administrator, you can authorize the use of notifications as well as the
   available channels
+icon: bell
 ---
 
-# Setting up Notifications
+# Notifications Settings
 
 ### Specify the sender of notifications&#x20;
 

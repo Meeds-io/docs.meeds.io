@@ -1,13 +1,13 @@
 ---
+icon: palette
 description: >-
   Meeds aims to give the best experience for its users. As a leader /
   administrator, feel free to customize your platform
-icon: palette
 ---
 
-# Customizing your Platform
+# 🎨 Advanced Customization
 
-In addition to [Theme Customization](../set-up-your-hub/customizing-the-theme.md), Administrators & Space Administrators can indeed:
+In addition to [Theme Customization](../set-up-your-hub/branding-customization.md), Administrators & Space Administrators can indeed:
 
 * [Edit Navigation](edit-navigation.md)
 * [Add Pages](add-a-page.md)

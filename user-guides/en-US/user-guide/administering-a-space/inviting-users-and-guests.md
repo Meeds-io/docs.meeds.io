@@ -6,7 +6,7 @@ description: Discover how space admins can invite people to join the space
 
 ### :question: What are my options?
 
-The way space admins can invite users depends on the global hub Access settings on the[ hub Access settings](../../admin-guide/set-up-your-hub/specifying-access-to-the-platform.md)  :&#x20;
+The way space admins can invite users depends on the global hub Access settings on the[ hub Access settings](../../admin-guide/advanced-setup/platform-access.md)  :&#x20;
 
 <figure><img src="../../.gitbook/assets/platform-access.png" alt="" width="375"><figcaption></figcaption></figure>
 

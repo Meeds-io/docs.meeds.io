@@ -20,7 +20,7 @@ In step 2, you need to choose an audience and owners.&#x20;
 
 💡 If you're just getting started, the easiest is to select `All`
 
-This means that all the actions you create will be immediately accessible to all the members of your hub and even visible to non-members (if you have enabled the[ public site](../set-up-your-hub/managing-a-public-site.md) feature).
+This means that all the actions you create will be immediately accessible to all the members of your hub and even visible to non-members (if you have enabled the[ public site](../advanced-setup/public-site-management.md) feature).
 
 **Owners**&#x20;
 
@@ -49,7 +49,7 @@ The scenario you pick will determine which integration and detailed criteria are
 * [**Reward Translators & Proofreaders**](building-a-translation-program-on-crowdin.md): will let you design a Translation program with Crowdin
 * **Let them submit their contribution:** This will allow you to design any other incentive in which participants submit proofs of contribution that reviewers can validate manually.
 
-If you do not see your use case on the list, let us know by [filing a request](https://github.com/Meeds-io/meeds/issues/new?assignees=\&labels=\&projects=\&template=feature\_request.md\&title=).
+If you do not see your use case on the list, let us know by [filing a request](https://github.com/Meeds-io/meeds/issues/new?assignees=\&labels=\&projects=\&template=feature_request.md\&title=).
 
 Now, you can complete the design of your incentives in 4 steps:&#x20;
 

@@ -1,8 +1,9 @@
 ---
 description: To help you communicate to the outside world, you can enable a public website.
+icon: globe
 ---
 
-# Managing a Public Site
+# Public Site Management
 
 ### **Publishing Your Public Site:**
 
@@ -18,7 +19,7 @@ description: To help you communicate to the outside world, you can enable a publ
 * Simple text
 * Useful Links
 
-#### :two: **If your platform is** [**open**](specifying-access-to-the-platform.md)**, any 'public' program will be listed on your public site**
+#### :two: **If your platform is** [**open**](platform-access.md)**, any 'public' program will be listed on your public site**
 
 * A 'public' program is one with an open audience
 * Either no identified space&#x20;

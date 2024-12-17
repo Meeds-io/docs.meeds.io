@@ -3,9 +3,10 @@ description: >-
   Customizing the theme of your Meeds Hub allows you to create a unique and
   branded environment for your community. Here's how you can personalize the
   theme
+icon: browsers
 ---
 
-# Customizing the theme
+# Branding Customization
 
 ### Update the Hub's Theme
 
