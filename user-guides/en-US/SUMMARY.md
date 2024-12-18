@@ -20,7 +20,7 @@
   * [🔌 Using our automatic actions](user-guide/participating-and-contributing/use-our-automatic-actions.md)
   * [👀 Viewing contributions programs](user-guide/participating-and-contributing/accessing-and-using-an-engagement-program.md)
   * [✅ Tracking your contributions](user-guide/participating-and-contributing/encourage-and-congratulate-others.md)
-* [Setting Up your Account](user-guide/setting-up-your-account/README.md)
+* [🛠️ Setting Up your Account](user-guide/setting-up-your-account/README.md)
   * [👤 Updating Your Profile](user-guide/setting-up-your-account/updating-your-profile.md)
   * [🔏 Updating Your Password](user-guide/setting-up-your-account/updating-your-password.md)
   * [💰 Initializing your wallet](user-guide/setting-up-your-account/initializing-your-wallet.md)
