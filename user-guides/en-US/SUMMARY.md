@@ -89,7 +89,7 @@
   * [Wallets Management](admin-guide/managing-rewards/wallets-management.md)
   * [Rewards Management](admin-guide/managing-rewards/rewards-management.md)
   * [Meeds Rewards Program](admin-guide/managing-rewards/meeds-rewards-program.md)
-* [🏘️ Organizing Communities](admin-guide/organizing-communities/README.md)
+* [Organizing Communities](admin-guide/organizing-communities/README.md)
   * [Managing Space Templates](admin-guide/organizing-communities/managing-space-templates.md)
   * [Managing Spaces](admin-guide/organizing-communities/managing-spaces.md)
   * [Bind a space to a group of users](admin-guide/organizing-communities/bind-a-space-to-a-group-of-users.md)

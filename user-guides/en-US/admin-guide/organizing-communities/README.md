@@ -3,9 +3,10 @@ description: >-
   Meeds provides guidance on organizing communities with space templates,
   managing permissions, automating group imports, and optimizing categories for
   better filtering.
+icon: house-building
 ---
 
-# 🏘️ Organizing Communities
+# Organizing Communities
 
 Discover how to streamline your community structure for improved collaboration and accessibility:
 
