@@ -1,5 +1,6 @@
 ---
 description: For your profile management needs, create your own user database
+icon: people-group
 ---
 
 # Add a user group

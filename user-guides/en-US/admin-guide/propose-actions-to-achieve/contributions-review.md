@@ -2,9 +2,10 @@
 description: >-
   Program Owners can review contributions, including those that have already
   been marked as approved.
+icon: square-check
 ---
 
-# ✅ Reviewing Contributions
+# Contributions Review
 
 ## ❓ Why Review Contributions? <a href="#how-to-find-your-previous-contributions-on-the-meeds-platform" id="how-to-find-your-previous-contributions-on-the-meeds-platform"></a>
 

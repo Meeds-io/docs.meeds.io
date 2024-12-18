@@ -2,9 +2,10 @@
 description: >-
   In addition to adding members, Space Admins can promote othem as admin,
   publisher, or content writer
+icon: shield-check
 ---
 
-# 🛡️ Managing Space Roles
+# Managing Space Roles
 
 ### :question: What are my options?
 

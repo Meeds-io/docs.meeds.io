@@ -1,5 +1,6 @@
 ---
 description: Understand how your users can act on the platform
+icon: user-gear
 ---
 
 # Manage User Rights

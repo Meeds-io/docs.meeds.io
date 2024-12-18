@@ -2,9 +2,10 @@
 description: >-
   Meeds provides you with default programs so you can start in few steps
   onboarding your users
+icon: pen-ruler
 ---
 
-# ☺️ Quick Steps to Design Programs
+# Quick Steps to Design Programs
 
 Two default programs are provided by default: `Getting Started` and `Community Empowerment`
 

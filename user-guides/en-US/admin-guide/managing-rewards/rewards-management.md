@@ -1,8 +1,9 @@
 ---
 description: Set your rewards budget, review reward period and reward your contributors
+icon: coins
 ---
 
-# 💖 Rewards Management
+# Rewards Management
 
 ### :busts\_in\_silhouette: Who can manage rewards?
 

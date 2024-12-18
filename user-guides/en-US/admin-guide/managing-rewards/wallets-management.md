@@ -1,8 +1,9 @@
 ---
 description: List the initialized wallets and adjust if necessary
+icon: wallet
 ---
 
-# 💰 Wallet
+# Wallets Management
 
 ### **Top Up Your Administrator Wallet**
 

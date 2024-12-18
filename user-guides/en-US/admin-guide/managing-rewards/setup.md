@@ -1,8 +1,9 @@
 ---
 description: In a few clicks, establish the foundations for managing your rewarding policy
+icon: screwdriver-wrench
 ---
 
-# 🛠️ Rewards Setup
+# Setup
 
 ### **Define the Initial Amount of Meeds for New Wallets**
 

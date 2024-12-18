@@ -1,5 +1,6 @@
 ---
 description: Create, invite users
+icon: user-pen
 ---
 
 # Create and Manage Users

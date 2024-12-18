@@ -1,8 +1,9 @@
 ---
 description: Set the number of available kudos per user for a periodicity
+icon: award-simple
 ---
 
-# 🛠️ Kudos Configuration
+# Kudos Configuration
 
 ### **Set the Number of Available Kudos**
 

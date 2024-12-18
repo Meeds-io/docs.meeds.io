@@ -1,8 +1,9 @@
 ---
 description: Enable Contributors to earn badges based on Program Contributions
+icon: badge-check
 ---
 
-# 🎖️ Badges
+# Badges Management
 
 ### **List and Modify Accessible Badges**
 

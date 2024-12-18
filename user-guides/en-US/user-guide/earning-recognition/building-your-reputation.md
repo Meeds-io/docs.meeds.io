@@ -2,9 +2,10 @@
 description: >-
   Gain visibility through your actions and the automatic awarding of recognition
   badges
+icon: octagon-check
 ---
 
-# ☑️ Building your reputation
+# Building your Reputation
 
 In addition to enabling you to contribute, your Meeds solution allows you to build your reputation.
 

@@ -1,8 +1,9 @@
 ---
 description: Earn MEED tokens through the {0}Meeds Rewards{1} program.
+icon: sack-dollar
 ---
 
-# 💲 Meeds Rewards Program
+# Meeds Rewards Program
 
 ### :tools:  How to join in the program?
 
