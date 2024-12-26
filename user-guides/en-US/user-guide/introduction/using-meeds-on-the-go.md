@@ -14,7 +14,7 @@ Meeds can be used on the web with most browsers but also as an app on your mobil
 
 On all platforms, the principle to install the app remains the same :&#x20;
 
-1. On your device, start  the Chrome browser&#x20;
+1. On your device, start  the Chrome browser (or any chromium-based browser like Edge, Brave)
 2. Log in to your favorite Meeds Hub
 3. After 15 seconds, a snack bar will invite you to install the app. ![](../../.gitbook/assets/snackbar-install.png)
 4. Alternatively, you can install it from `User Settings > Mobile App > Install` or `User Settings > Desktop App > Install`
