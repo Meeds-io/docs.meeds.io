@@ -45,6 +45,7 @@ Topbar and Sidebar default display
 * Select which options appear in the topbar.
 * Choose which sites to list in the sidebar.
 * Customize user experience by highlighting favorite or recently visited communities.
+* List spaces depending on their template or category
 
 ### :tools: How to Change these displays?
 

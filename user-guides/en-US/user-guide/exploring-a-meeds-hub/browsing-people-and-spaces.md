@@ -28,7 +28,7 @@ The spaces directory lets you browse your hub's communities, teams, and other ch
 
 <figure><img src="../../.gitbook/assets/spaces-directory.png" alt=""><figcaption></figcaption></figure>
 
-#### 📽️ No time to read? What our quick video tours : [desktop](browsing-people-and-spaces.md#quick-video-tour-desktop) / [mobile](browsing-people-and-spaces.md#quick-video-tour-mobile)
+#### 📽️ No time to read? Whatch our quick video tours : [desktop](browsing-people-and-spaces.md#quick-video-tour-desktop) / [mobile](browsing-people-and-spaces.md#quick-video-tour-mobile)
 
 ### Space cards
 
