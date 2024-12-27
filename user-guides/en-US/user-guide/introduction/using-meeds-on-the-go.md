@@ -38,7 +38,7 @@ To do so, you need to enable an experimental flag proposed by Chromium-based bro
 5. Start again the browser
 6. Install the app (or install it again)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Enabling Notifications
 

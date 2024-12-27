@@ -26,7 +26,7 @@ Each page gives you different options.
 
 The spaces directory lets you browse your hub's communities, teams, and other channels.
 
-<figure><img src="../../.gitbook/assets/spaces-directory.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Spaces directory filtered thanks to categories</p></figcaption></figure>
 
 #### 📽️ No time to read? Whatch our quick video tours : [desktop](browsing-people-and-spaces.md#quick-video-tour-desktop) / [mobile](browsing-people-and-spaces.md#quick-video-tour-mobile)
 
@@ -82,11 +82,9 @@ If you're a space admin yourself, you can also quickly review all requests to jo
 
 #### :point\_down: Watch this video to see more
 
-#### Quick Video Tour (desktop)
+#### Quick Video Tour (desktop).
 
-{% embed url="https://www.loom.com/share/4aae6cb16e954cf893eac796d0607bf2?sid=42fb76d3-6cd1-4807-b7bf-3f16c77c0565" %}
-Browsing the Spaces Directory
-{% endembed %}
+{% embed url="https://www.loom.com/share/43221d99f9fd45e9bcf612c33b0ce623?sid=60e6b3d7-b677-4e55-aeaa-7ed5fdce3b21" %}
 
 #### Quick Video Tour (mobile)
 

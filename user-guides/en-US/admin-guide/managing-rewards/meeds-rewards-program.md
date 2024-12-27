@@ -1,6 +1,6 @@
 ---
-description: Earn MEED tokens through the {0}Meeds Rewards{1} program.
 icon: sack-dollar
+description: Earn MEED tokens through the {0}Meeds Rewards{1} program.
 ---
 
 # Meeds Rewards Program
@@ -32,7 +32,7 @@ _In case you have no DEED NFT, you will be suggested to get one from the_ [_Meed
 4. Start connecting your DEED NFT
 5. Once ok, your hub is listed in the Hub Explorer and it is ready to participate to the program
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="229"><figcaption><p>Connection of a Hub to a DEED NFT</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="229"><figcaption><p>Connection of a Hub to a DEED NFT</p></figcaption></figure>
 
 ### :track\_next:  What's next?
 
