@@ -1,6 +1,6 @@
 ---
-description: Simplify access to your space by adding categories
 icon: table-cells-large
+description: Simplify access to your space by adding categories
 ---
 
 # Categorizing your space
@@ -31,3 +31,5 @@ Learn more [here](../../admin-guide/advanced-customization/managing-categories.m
    * Spaces identified with a subcategory will also appear in searches filtered by the parent category.
 
 For more details, watch the video below :point\_down:
+
+{% embed url="https://www.loom.com/share/f8727d5f47e74401b67bba39caffa0ea?sid=307e864f-0b8e-448d-b4a3-891a8527356a" %}
