@@ -40,3 +40,5 @@ Example:
      * Filter by category and customize related filters.
 
 For more details, watch the video below :point\_down:
+
+{% embed url="https://www.loom.com/share/ccaa13b677934aa99b5d6d9d72c2bbf3?sid=e7a579f3-2966-4d77-aa02-2b772a038eb7" %}
