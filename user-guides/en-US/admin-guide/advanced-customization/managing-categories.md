@@ -1,6 +1,6 @@
 ---
-description: Provide categories to users so they can ease the access to content
 icon: table-cells-large
+description: Provide categories to users so they can ease the access to content
 ---
 
 # Managing categories
@@ -12,8 +12,8 @@ As a platform admin, you can:
 * Create, manage, and delete categories for end-users.
 * Configure each category with:
   * **Icon and Name**
-  * **Access Permissions:** Who can access the category.
-  * **Addition Permissions:** Who can add the category to items.
+  * **Access Permissions:** Who can use this category to search items
+  * **Addition Permissions:** Who can add the category to items
 * Organize categories by creating parent categories and subcategories or repositioning categories.
 
 ### :bulb: Good to know
