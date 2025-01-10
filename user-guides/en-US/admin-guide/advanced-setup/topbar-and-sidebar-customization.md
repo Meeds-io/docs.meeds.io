@@ -36,8 +36,6 @@ Customization applies only to the navigation topbar and sidebar in the meta site
 
 #### Watch the video to learn how users interact with these features :point\_down:
 
-####
-
 {% embed url="https://www.loom.com/share/a5c2f7a834e441188fd3e57f121db47c?sid=e834f1e3-b25f-4a18-8e00-49262286894f" %}
 
 ### :question: **Why Update the Topbar & Sidebar Display?**
