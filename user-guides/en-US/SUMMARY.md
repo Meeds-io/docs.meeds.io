@@ -105,6 +105,7 @@
   * [Edit Navigation](admin-guide/advanced-customization/edit-navigation.md)
   * [Add a page](admin-guide/advanced-customization/add-a-page.md)
   * [Edit Page Layout](admin-guide/advanced-customization/edit-page-layout.md)
+  * [Create Section Templates](admin-guide/advanced-customization/create-section-templates.md)
   * [Create Page Templates](admin-guide/advanced-customization/create-page-templates.md)
   * [Create Apps](admin-guide/advanced-customization/create-apps.md)
   * [Managing categories](admin-guide/advanced-customization/managing-categories.md)

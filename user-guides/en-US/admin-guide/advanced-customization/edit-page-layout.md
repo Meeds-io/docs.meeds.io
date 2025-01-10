@@ -25,13 +25,15 @@ Once the Page Builder is opened, you will be able to:
 
 #### Create the Layout Skeleton&#x20;
 
-1. Add sections among two types:
+1. Add sections among two default ones:
    1. A grid layout where each block is displayed in a designated page area
    2. A Dynamic Sections where blocks expand vertically based on the content to display
 2. Organize the section layout by choosing numbers of rows/columns
 3. Depending on the section, apply options:
    1. Both Section: Margins, Background
    2. Dynamic Only: Mobile View &  Behaviour when scrolling down
+
+:information\_source: **Note:** In case you have created [new section templates](create-section-templates.md), these customized section will be proposed as well
 
 #### Add Application
 
@@ -55,6 +57,13 @@ You can personalize the display of each application, one by one, for a customize
 
 :bulb: In case you want to apply a generic style to every application listed in the page, edit the page design directly.
 
+#### Manage sections in the page
+
+Once you have customized your section with app, styles and data, two options are provided so you can:
+
+* Clone the section
+* Save it as a section template
+
 #### Preview Page Display
 
 You have different options to preview the Page before publishing it
@@ -67,7 +76,3 @@ You have different options to preview the Page before publishing it
 * Once you're glad with the layout you have created and the apps display, then publish your page.
 * You will be invited to view it another page
 * The editor remains open so you can keep adjusting the page layout if needed
-
-
-
-{% embed url="https://www.youtube.com/watch?v=342N6_s0TA4" %}
