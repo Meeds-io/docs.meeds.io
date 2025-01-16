@@ -23,7 +23,7 @@ description: Discover in few steps how to browse the Meeds Platform
 * Enter your [Workspace ](entering-your-workspace.md)(activity feed, tasks, content)
 * Browse the [directory of members and spaces](browsing-people-and-spaces.md)
 * Modify your [User Settings](../setting-up-your-account/updating-personal-notifications.md)
-* Read Terms & Conditions (if published by admins)
+* Read Terms & Conditions from user settings (if published by admins)&#x20;
 
 ### 💡 Note
 
