@@ -71,6 +71,7 @@
   * [Login Page Customization](admin-guide/advanced-setup/login-page-customization.md)
   * [Platform Access](admin-guide/set-up-your-hub/specifying-access-to-the-platform.md)
   * [Public Site Management](admin-guide/set-up-your-hub/managing-a-public-site.md)
+  * [Terms & Conditions](admin-guide/advanced-setup/terms-and-conditions.md)
   * [Customizing the Overview](admin-guide/set-up-your-hub/customizing-the-overview.md)
 * [👥 Managing Users](admin-guide/manage-users/README.md)
   * [Create and Manage Users](admin-guide/manage-users/create-and-manage-users.md)
