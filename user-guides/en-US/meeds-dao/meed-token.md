@@ -14,11 +14,15 @@ Meeds DAO officially supports the following liquidity pools for trading MEED tok
 
 
 
-| Exchange | Pair | Chain |
-| -------- | ---- | ----- |
-|          |      |       |
-|          |      |       |
-|          |      |       |
+| Exchange | Pair                                                                                                   | Chain    |
+| -------- | ------------------------------------------------------------------------------------------------------ | -------- |
+| Uniswap  | [MEED/USDT](https://app.uniswap.org/explore/pools/ethereum/0xC82b1C50609217075D28Aa22f11A80450212B3D1) | Ethereum |
+| Uniswap  | [MEED/ETH](https://app.uniswap.org/explore/pools/ethereum/0xfA127D9A1154610EeDBab7323B64363089F9989e)  | Ethereum |
+|          |                                                                                                        |          |
+| Uniswap  | [POL/MEED](https://app.uniswap.org/explore/pools/polygon/0x4e7D4E5FD3E4a68aDCbEACAA3748B9C67BB02a69)   | Polygon  |
+| Uniswap  | [MEED/USDT](https://app.uniswap.org/explore/pools/arbitrum/0xc76979618841ab656bb834b4fe812319677225a1) | Arbitrum |
+| Uniswap  | [USDT/MEED](https://app.uniswap.org/explore/pools/optimism/0xe133306fc90133e33a8c322e8c81f06ec2369b17) | Optimism |
+| Uniswap  | [MEED/USDT](https://app.uniswap.org/explore/pools/base/0xada40f483dd44e9e6e126a2db59379d45551dd55)     | Base     |
 
 ## Token Distribution
 
