@@ -26,10 +26,22 @@ Meeds DAO officially supports the following liquidity pools for trading MEED tok
 
 ## Token Distribution
 
+MEED has a total supply of 100,000,000 tokens. It is minted gradually over time by on Ethereum a TokenFactory contract : [0x1b37d04759ad542640cc44ff849a373040386050](https://etherscan.io/address/0x1b37d04759ad542640cc44ff849a373040386050)
+
+
+
 
 
 ## Meeds DAO Treasury
 
+Meeds DAO stores reserve treasury assets in several multisig wallets
 
+
+
+<table><thead><tr><th>Wallet</th><th width="449">Address</th></tr></thead><tbody><tr><td>Users  (Ethereum)</td><td><a href="https://app.safe.global/home?safe=eth:0x8f4660498E79c771f93316f09da98E1eBF94c576">0x8f4660498E79c771f93316f09da98E1eBF94c576</a></td></tr><tr><td>Users  (Polygon)</td><td><a href="https://app.safe.global/home?safe=matic:0xdBc382c0142C54BC9B7D1BD21eE1b87B320e6198">0xdBc382c0142C54BC9B7D1BD21eE1b87B320e6198</a></td></tr><tr><td>Builders  (Ethereum)</td><td><a href="https://app.safe.global/home?safe=eth:0xBa5e4D55CA96bf25c35Fc65D9251355Dcd120655">0xBa5e4D55CA96bf25c35Fc65D9251355Dcd120655</a></td></tr><tr><td>Builders  (Polygon)</td><td><a href="https://app.safe.global/home?safe=matic:0x6e026D747baC14209e437261EC32a2c6F8347B34">0x6e026D747baC14209e437261EC32a2c6F8347B34</a></td></tr><tr><td>Investors (Ehtereum)</td><td><a href="https://app.safe.global/home?safe=eth:0x70CAd5d439591Ea7f496B69DcB22521685015853">0x70CAd5d439591Ea7f496B69DcB22521685015853</a></td></tr><tr><td>Investors (Polygon)</td><td><a href="https://app.safe.global/home?safe=matic:0x29d31ad013DC276d0ffCF74E15E315F14dbE5858">0x29d31ad013DC276d0ffCF74E15E315F14dbE5858</a></td></tr><tr><td>Treasury (Ethereum)</td><td><a href="https://app.safe.global/home?safe=eth:0x769CF241f79Cfcfa5693f4a1adf6C7eBdD43e3c6">0x769CF241f79Cfcfa5693f4a1adf6C7eBdD43e3c6</a></td></tr></tbody></table>
 
 ## Vesting Contracts
+
+
+
+[https://etherscan.io/address/0x440701Ca5817b5847438da2EC2cA3b9fdBF37DFa](https://etherscan.io/address/0x440701Ca5817b5847438da2EC2cA3b9fdBF37DFa)
