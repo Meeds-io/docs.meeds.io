@@ -110,3 +110,7 @@
   * [Create Page Templates](admin-guide/advanced-customization/create-page-templates.md)
   * [Create Apps](admin-guide/advanced-customization/create-apps.md)
   * [Managing categories](admin-guide/advanced-customization/managing-categories.md)
+
+## Meeds DAO
+
+* [MEED Token](meeds-dao/meed-token.md)
