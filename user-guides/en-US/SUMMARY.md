@@ -113,4 +113,4 @@
 
 ## Meeds DAO
 
-* [MEED Token](meeds-dao/meed-token.md)
+* [🌕 MEED Token](meeds-dao/meed-token.md)
