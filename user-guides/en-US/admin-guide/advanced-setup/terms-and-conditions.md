@@ -1,8 +1,8 @@
 ---
+icon: book-open
 description: >-
   Meeds provides administrators a new way to show and be sure user read Terms &
   Conditions (Community Guidelines, User Policy, Terms of Use).
-icon: book-open
 ---
 
 # Terms & Conditions
@@ -54,3 +54,7 @@ In this drawer you will be able to
 
 * Add an action in your 'Discover' Contribution Program so users get rewarded for reading these Terms of Use
 * Make this automatic action a prerequisite to do any other action so they won't get rewarded before accepting rules
+
+#### Watch the video below to better understand how it works
+
+{% embed url="https://youtu.be/RSq6GfTCtHo" %}
