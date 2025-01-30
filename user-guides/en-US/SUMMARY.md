@@ -11,7 +11,8 @@
 * [🚀 Exploring a Meeds Hub](user-guide/exploring-a-meeds-hub/README.md)
   * [🧐 Finding Your Way Around](user-guide/exploring-a-meeds-hub/finding-your-way-around.md)
   * [🏆 Starting to contribute](user-guide/exploring-a-meeds-hub/starting-to-contribute.md)
-  * [💼 Entering your Workspace](user-guide/exploring-a-meeds-hub/entering-your-workspace.md)
+  * [💼 Entering your Workspace](user-guide/exploring-a-meeds-hub/entering-your-workspace/README.md)
+    * [📰 Exploring the News Center](user-guide/exploring-a-meeds-hub/entering-your-workspace/exploring-the-news-center.md)
   * [👤 Browsing People & Spaces](user-guide/exploring-a-meeds-hub/browsing-people-and-spaces.md)
 * [🏆 Participating & Contributing](user-guide/participating-and-contributing/README.md)
   * [🧐 Two action types](user-guide/participating-and-contributing/two-action-type.md)
@@ -48,11 +49,13 @@
   * [Managing Space Roles](user-guide/administering-a-space/managing-space-roles.md)
   * [Categorizing your space](user-guide/administering-a-space/categorizing-your-space.md)
   * [🏤 Leading Your Community](user-guide/administering-a-space/leading-your-community.md)
+  * [Managing Space News](user-guide/administering-a-space/managing-space-news.md)
   * [📣 Showcasing your space](user-guide/administering-a-space/showcasing-your-space.md)
 * [👥 Collaborating in Spaces](user-guide/collaborating-in-spaces/README.md)
   * [👋 Joining a space](user-guide/collaborating-in-spaces/joining-a-space.md)
   * [🤝 Collaborating as a team or on a project](user-guide/collaborating-in-spaces/working-well-with-your-community.md)
   * [📣 Sharing informations](user-guide/collaborating-in-spaces/sharing-and-interacting.md)
+  * [🗞️ Sharing News in Spaces](user-guide/collaborating-in-spaces/sharing-news-in-spaces.md)
   * [👍 Sharing and interacting](user-guide/collaborating-in-spaces/documenting-procedures-and-reports.md)
   * [⭐ Referencing content with #tags.](user-guide/collaborating-in-spaces/referencing-content-with-tags..md)
   * [📋 Documenting procedures and reports](user-guide/collaborating-in-spaces/documenting-procedures-and-reports-1.md)
@@ -110,6 +113,7 @@
   * [Create Page Templates](admin-guide/advanced-customization/create-page-templates.md)
   * [Create Apps](admin-guide/advanced-customization/create-apps.md)
   * [Managing categories](admin-guide/advanced-customization/managing-categories.md)
+  * [Managing News Targets](admin-guide/advanced-customization/managing-news-targets.md)
 
 ## Meeds DAO
 
