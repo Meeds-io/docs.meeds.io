@@ -111,7 +111,8 @@
   * [Edit Page Layout](admin-guide/advanced-customization/edit-page-layout.md)
   * [Create Section Templates](admin-guide/advanced-customization/create-section-templates.md)
   * [Create Page Templates](admin-guide/advanced-customization/create-page-templates.md)
-  * [Create Apps](admin-guide/advanced-customization/create-apps.md)
+  * [Create Apps](admin-guide/advanced-customization/create-apps/README.md)
+    * [Creating Gadgets](admin-guide/advanced-customization/create-apps/creating-gadgets.md)
   * [Managing categories](admin-guide/advanced-customization/managing-categories.md)
   * [Managing News Targets](admin-guide/advanced-customization/managing-news-targets.md)
 

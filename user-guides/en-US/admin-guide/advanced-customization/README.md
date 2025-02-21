@@ -16,4 +16,4 @@ In addition to [Theme Customization](../set-up-your-hub/customizing-the-theme.md
 Administrators can access development tools to preset pages and apps at their convenience
 
 * [Create Page Templates](create-page-templates.md)
-* [Create Apps](create-apps.md)
+* [Create Apps](create-apps/)
