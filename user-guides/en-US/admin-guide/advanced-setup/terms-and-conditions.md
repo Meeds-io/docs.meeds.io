@@ -34,7 +34,7 @@ In this drawer you will be able to
 
 * The first time you access the option, you will be kindly invited to "Create" the content thanks to a simple one button&#x20;
 
-### :busts\_in\_silhouette: How does user access Terms & Conditions?
+### :busts\_in\_silhouette: How do users access Terms & Conditions?
 
 * Admins publish Terms & Conditions
   *   **I am logging in:**&#x20;
