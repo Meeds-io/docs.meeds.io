@@ -73,82 +73,76 @@ Meeds pages are built using **blocks**, which can be content-based or applicatio
 
 1. Select an area within the grid or column layout.
 2. A **side panel appears**, and invites you to select a category &#x20;
-3. Within a block you can either insert&#x20;
+
+<figure><img src="../../../.gitbook/assets/add-application-category.png" alt="" width="206"><figcaption><p>Pick App Category</p></figcaption></figure>
+
+1. Within a block you can either insert&#x20;
    * **Content** : Text, images, links, or rich media.
    * **Application** : Interactive widgets like charts, analytics, or dynamic feeds.
-4. After picking a category its block types (aka applications) are displayed and you can preview them or insert them by clicking on the Add (+) button
-5. Click to insert the block into the selected area.
+2. After picking a category its block types (aka applications) are displayed and you can preview them or insert them by clicking on the Add (+) button
+3. Click to insert the block into the selected area.
+
+
+
+<figure><img src="../../../.gitbook/assets/add-application-content.png" alt="" width="208"><figcaption><p>Choose an App</p></figcaption></figure>
 
 **💡Good to Know** : the categories as well as the list of blocks available can be managed in Administration (see [**Managing Applications**](../managing-applications/))
 
 #### **Managing Blocks**
 
+Moving your mouse over a block will reveal a bunch of controls
+
+<figure><img src="../../../.gitbook/assets/edit-block-icons.png" alt=""><figcaption><p>Block Control Icons</p></figcaption></figure>
+
 * **Move**: Drag blocks to reposition them within the grid.
-* **Resize**: Adjust the block’s dimensions to fit your layout.
 * **Edit**: Modify content, settings, or styles of individual blocks.
 * **Delete**: Remove a block from the page.
+* **Resize** ![](../../../.gitbook/assets/resize-block-icon.png): Adjust the block’s dimensions to fit your layout. (grid layout only)
 
-Each block may include **individual configuration settings**, allowing application-specific customization.  The Page Builder tries to apply these params so what you see while editing is as close as possible to the final result.
+Each block may include acess to **application settings**, allowing application-specific customization.  The Page Builder tries to apply these params so what you see while editing is as close as possible to the final result.
+
+<figure><img src="../../../.gitbook/assets/edit-application-settings.png" alt=""><figcaption><p>Access to Applicaiton Settings through the Page Builders</p></figcaption></figure>
 
 ### 🎨 **Customizing Page Design**
 
-In addition to structuring layout, Meeds allows users to customize page design elements.
+In addition to structuring layout, you can customize page design elements by clicking the page design icon ![](../../../.gitbook/assets/page-design-icon.png)
 
-#### **Layout Adjustments**
+#### **Global Page Design**
+
+<figure><img src="../../../.gitbook/assets/global-page-design.png" alt="" width="199"><figcaption><p>Global Page Design Settings</p></figcaption></figure>
 
 * **Page Width:** Define a fixed width (e.g., 800px) or enable **Full Window mode**.
-* **Margins & Padding:** Adjust spacing **above, below, and around** content.
-* **Background Customization:** Apply a **solid color, gradient, or background image**.
+* **Page Margins :** Adjust external spacing around the content grid.
+* **Page Background  :** Apply a **solid color, gradient, or background image**.
 
-#### **Styling Individual Blocks**
+#### **Block Styling**
 
-Each block on the page can be styled using:
+<figure><img src="../../../.gitbook/assets/application-styling.png" alt="" width="199"><figcaption></figcaption></figure>
+
+You can define various styling settings to be applied by default to all blocks within the page:
 
 * **Borders:** Customize color, thickness, and shadows.
 * **Corner Radius:** Adjust how rounded block corners appear.
-* **Background Colors & Images:** Set a unique style for each block.
-* **Text Styles:** Control typography settings for titles, subtitles, and body text.
+* **Background :** Set a common background color, gradient or image for all blocks
+* **Text Styles:** Control typography settings for titles, subtitles, header and body text.
 
-#### **Mobile Optimization**
+#### **Edit Block**&#x20;
 
-* Enable **Mobile Preview Mode** to test responsiveness.
-* Certain blocks can be **hidden on mobile devices** for a streamlined experience.
+The **Edit** icon on blocks lets you override styling for each individual block (see above). Additionnaly,  advanced options are available:&#x20;
 
-
-
-### 🏗️ **Managing Sections and Templates**
-
-Pages are structured as a stack of **sections**, each customizable.
-
-#### **Editing Sections**
-
-* Each section includes options for **margins, background, and layout settings**.
-* Sections can be **modified, cloned, or saved as templates**.
-* **Grid-based sections** allow specifying the number of rows and columns.
-* **Dynamic sections** automatically organize content into pre-set columns.
-
-#### **Adding New Sections**
-
-1. Hover above or below an existing section to reveal the **Add Section (+) button**.
-2. Choose a section type:
-   * **Grid Section**
-   * **Dynamic Section** (aka[ Column model](editing-page-layout.md#column-layout) section)
-   * **Saved Templates** (predefined sections previously created)
-
-#### **Dynamic Sections**
-
-* Unlike  grid sections, **dynamic sections auto-adjust content placement**.
-* Users can drag and drop applications between columns.
-* Controls include **number of columns, alignment, and scroll behavior (sticky or floating)**.
+* **Hide on Mobile** : will not display the block on mobile device (useful when dealing with a non responsive app or when you want to lighten a page by trimming non essential content
+* **Fixed Height** (Column Layout  only):  instead of letting the block expand vertically in the column, you may want to give it a fixed heigh. Convenient to align boxes, but use with caaution because side effets may occer such as in-block scrollbars and weird display on mobile
 
 ### ✅ **Finalizing and Publishing Changes**
 
 #### **Previewing the Page**
 
-* Click the **Eye Icon** to see a live preview of the page.
-* Ensure the layout appears correctly across different screen sizes.
+* Click the **Preview** icon  to see a live preview of the page without having to publish it
+* Click the **Mobile**  icon for a preview of your page in mobile
 
 #### **Saving and Publishing**
+
+The page is automatically saved as draft as you make change and you can undo/redo each change
 
 * **Save Draft:** The page remains unpublished and only visible to editors.
 * **Publish:** Pushes the changes live, making them accessible to all users.
