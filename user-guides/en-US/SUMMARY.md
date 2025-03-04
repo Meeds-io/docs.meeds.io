@@ -111,7 +111,7 @@
   * [Editing Page Layout](admin-guide/advanced-customization/editing-page-layout.md)
   * [Managing Applications](admin-guide/advanced-customization/managing-applications/README.md)
     * [Creating Gadgets](admin-guide/advanced-customization/managing-applications/creating-gadgets.md)
-  * [Managing categories](admin-guide/advanced-customization/managing-categories.md)
+  * [Managing Categories](admin-guide/advanced-customization/managing-categories.md)
   * [Managing News Targets](admin-guide/advanced-customization/managing-news-targets.md)
   * [Managing Templates](admin-guide/advanced-customization/managing-templates/README.md)
     * [Managing Site Templates](admin-guide/advanced-customization/managing-templates/managing-site-templates.md)
