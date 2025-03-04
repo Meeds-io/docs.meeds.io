@@ -5,7 +5,7 @@ description: >-
   customize their pages
 ---
 
-# Edit Page Layout
+# Editing Page Layout
 
 ### :busts\_in\_silhouette: Who can edit the layout of a page?
 
@@ -14,7 +14,7 @@ description: >-
 
 ### &#x20;:tools: How to edit the layout of a page?
 
-* Access the [site navigation](edit-navigation.md)
+* Access the [site navigation](editing-navigation.md)
 * From there, for a page, access to its options
 * Choose to Edit Page Layout
 * The Page Builder will be opened in a new tab
@@ -33,7 +33,7 @@ Once the Page Builder is opened, you will be able to:
    1. Both Section: Margins, Background
    2. Dynamic Only: Mobile View &  Behaviour when scrolling down
 
-:information\_source: **Note:** In case you have created [new section templates](create-section-templates.md), these customized section will be proposed as well
+:information\_source: **Note:** In case you have created [new section templates](managing-templates/managing-section-templates.md), these customized section will be proposed as well
 
 #### Add Application
 

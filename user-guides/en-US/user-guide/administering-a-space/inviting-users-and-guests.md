@@ -4,6 +4,10 @@ description: Discover how space admins can invite people to join the space
 
 # 👥 Inviting Users & Guests
 
+### ▶️ Quick Video Tutorial
+
+{% embed url="https://www.loom.com/share/daa9b8cd84e940f7b16a23df93e3e054?sid=936b665a-c49d-4cbf-89db-7a8bf9a5b26f" %}
+
 ### :question: What are my options?
 
 The way space admins can invite users depends on the global hub Access settings on the[ hub Access settings](../../admin-guide/set-up-your-hub/specifying-access-to-the-platform.md)  :&#x20;
@@ -35,8 +39,3 @@ As explained above, once you click on the "Invite" button, you will be prompted 
 * The invitation email contains a temporary token to create an account
 * Pending members are listed to help you check who has been invited and who has requested to join your space
 
-:point\_down: More details in the video below
-
-
-
-{% embed url="https://www.loom.com/share/daa9b8cd84e940f7b16a23df93e3e054?sid=936b665a-c49d-4cbf-89db-7a8bf9a5b26f" %}

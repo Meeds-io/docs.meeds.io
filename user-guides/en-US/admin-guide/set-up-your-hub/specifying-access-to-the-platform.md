@@ -1,8 +1,8 @@
 ---
+icon: arrow-right-to-bracket
 description: >-
   Depending on your context, you can either invite everyone to join your
   platform or restrict access.
-icon: arrow-right-to-bracket
 ---
 
 # Platform Access
@@ -32,7 +32,7 @@ icon: arrow-right-to-bracket
 * Users cannot register freely
 * Authentication can be done via email/password or by connecting Metamask.
 
-:point\_right: **You can decide that external individuals can be invited by space hosts.**
+:point\_right: **You can decide that guests (aka external individuals) can be invited by space hosts (see**[ **Invites Users & Guests)**](../../user-guide/administering-a-space/inviting-users-and-guests.md)**.**
 
 * They will receive an email to create their profile and password, with limited access to certain platform pages
 * They won't be able to access user directories or spaces&#x20;

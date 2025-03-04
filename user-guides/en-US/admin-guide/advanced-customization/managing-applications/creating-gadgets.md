@@ -1,8 +1,8 @@
 ---
+icon: square-code
 description: >-
   Meeds lets you enhance your pages with Gadgets, which are blocks made of
   custom HTML, CSS, and JavaScript.
-icon: square-code
 ---
 
 # Creating Gadgets
@@ -73,7 +73,7 @@ Once a Gadget is added to a page, it can be edited **directly from the page layo
 
 1.  **Enable Edit Mode**
 
-    * Navigate to the page where the block is used and click **Edit Navigation icon** ![](../../../.gitbook/assets/site-navigation-icon.png)
+    * Navigate to the page where the block is used and click **Edit Navigation icon** ![](<../../../.gitbook/assets/site-navigation-icon (1).png>)
     * In the page tree, on the current page, click on **Edit Layout**&#x20;
     * **Hover** over the block you want to edit, then click the Edit application
 

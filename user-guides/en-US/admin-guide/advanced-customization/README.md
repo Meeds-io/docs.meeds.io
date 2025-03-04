@@ -9,11 +9,11 @@ description: >-
 
 In addition to [Theme Customization](../set-up-your-hub/customizing-the-theme.md), Administrators & Space Administrators can indeed:
 
-* [Edit Navigation](edit-navigation.md)
-* [Add Pages](add-a-page.md)
-* [Edit Page Layout](edit-page-layout.md)
+* [Edit Navigation](editing-navigation.md)
+* [Add Pages](adding-a-page.md)
+* [Edit Page Layout](editing-page-layout.md)
 
 Administrators can access development tools to preset pages and apps at their convenience
 
-* [Create Page Templates](create-page-templates.md)
-* [Create Apps](create-apps/)
+* [Create Page Templates](managing-templates/managing-page-templates.md)
+* [Create Apps](managing-applications/)
