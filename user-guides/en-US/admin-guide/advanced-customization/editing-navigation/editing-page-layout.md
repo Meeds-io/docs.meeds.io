@@ -135,15 +135,31 @@ The **Edit** icon on blocks lets you override styling for each individual block 
 
 ### ✅ **Finalizing and Publishing Changes**
 
+#### **Working with drafts**
+
+When starting to edit a page with unpublished changes, you're invited to resume from the draft or to create a new version based on the last published version.
+
+<figure><img src="../../../.gitbook/assets/resume-draft.png" alt="" width="320"><figcaption><p>Resume Draft Popup</p></figcaption></figure>
+
+The page is automatically saved as draft as you make change and you can undo/redo ![](../../../.gitbook/assets/undo-redo.png) each change.
+
 #### **Previewing the Page**
 
-* Click the **Preview** icon  to see a live preview of the page without having to publish it
-* Click the **Mobile**  icon for a preview of your page in mobile
+* Click the **Preview** icon ![](../../../.gitbook/assets/preview-icon.png) to see a live preview of the page without having to publish it
+* Click the **Mobile** icon ![](../../../.gitbook/assets/mobile-icon.png) for a preview of your page in mobile
 
 #### **Saving and Publishing**
 
-The page is automatically saved as draft as you make change and you can undo/redo each change
+* **Save:** The current version of the page remains unpublished and only visible to editors.
+* **Publish:** Pushes the current version live, making them accessible to all users.
 
-* **Save Draft:** The page remains unpublished and only visible to editors.
-* **Publish:** Pushes the changes live, making them accessible to all users.
-* **Save as Template**, to save and reuse the entire page setup as a template for creating new pages (both will be detached and editable separately after creation)
+**Finally, save as Template icon** ![](../../../.gitbook/assets/template-icon.png) let's you save the entire page setup as a template reusable for creating new pages.
+
+<figure><img src="../../../.gitbook/assets/saveas-template.png" alt="" width="311"><figcaption><p>Save as Page template drawer</p></figcaption></figure>
+
+&#x20;You're invited to give it a name and description and a preview image is generated based on the page content which you can override by your own thumbnail image.&#x20;
+
+Once saved, the template will be available as a starting point when creating new pages (see [#choosing-a-page-template](editing-page-layout.md#choosing-a-page-template "mention") and [managing-page-templates.md](../managing-templates/managing-page-templates.md "mention").
+
+**💡 Good to Know** : templates and current page won't be linked. meaning any change you aply to the page after you saved as template will NOT be automatically applied to the template.
+
