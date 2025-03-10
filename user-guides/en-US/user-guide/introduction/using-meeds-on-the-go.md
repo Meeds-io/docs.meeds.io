@@ -73,7 +73,7 @@ Quick tutorial to install a Meeds app on Android
 ## iOS
 
 {% embed url="https://youtu.be/1xdXqIeI7Gk" %}
-Quick tutorial to install a Meeds app on Android
+Quick tutorial to install a Meeds app on iOS
 {% endembed %}
 
 
