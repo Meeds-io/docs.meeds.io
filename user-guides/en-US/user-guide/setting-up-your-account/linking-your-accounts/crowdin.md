@@ -10,7 +10,7 @@ Quick video walkthrough to connect your Crwdin account
 
 If you Hit a Crowdin action and your account is not yet connected, it will look like this. To connect your Crowdin account, click `Connect your account`
 
-<figure><img src="../../../.gitbook/assets/crowdin-action-prompt.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/crowdin-action-prompt.png" alt="screenshot of a Crawdin action in Meeds inviting users to connect their Crowdin account"><figcaption></figcaption></figure>
 
 Alternatively, you can open the _Hamburger_ menu,  access your _User Settin&#x67;_&#x73;, then scroll down to _Other Apps :_
 
