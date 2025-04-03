@@ -122,3 +122,4 @@
 ## Meeds DAO
 
 * [🌕 MEED Token](meeds-dao/meed-token.md)
+* [⚖️ xMEED Token](meeds-dao/xmeed-token.md)
