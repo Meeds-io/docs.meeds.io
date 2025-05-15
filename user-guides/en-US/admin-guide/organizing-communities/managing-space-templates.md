@@ -1,43 +1,125 @@
 ---
-icon: browsers
 description: >-
   Create your templates to ease the process of creating a space. Decide for each
   what is mandatory, which app, who can create, edit or delete related spaces.
+icon: browsers
 ---
 
 # Managing Space Templates
 
-### :busts\_in\_silhouette: Who can add Space Templates?
+Space templates help streamline the creation of new spaces by predefining certain configurations. They enable administrators to specify what should be mandatory, which applications are included by default, and who can create, update, or delete spaces associated with the template.
 
-* Only Administrators can create a template
-
-### &#x20;:tools: How to edit templates?
-
-* Access the Platform Settings
-* Go to Development Entry from the Administration Menu
-* Access to Templates > Spaces
-* Choose whether you want to create or edit a template
-
-### :question: What are the options?
-
-When creating / editing a template, you will be able to:
-
-1. Give a name, describe and add an icon for it
-2. Decide which steps are mandatory at the creation of space
-3. Provide the default configuration (banner, access control, editorial space)
-4. Identify who can create, who can edit navigation, who can delete spaces
-
-:bulb: **In case you like a template without overwriting it, you can duplicate it to create another one**
-
-### :eyes:  Editing space template layout
-
-Once you have created your template, you can update the default navigation and layout:
-
-* You can organize the navigation at your convenience
-* You can edit each page layout for customized experience
-
-:bulb: **Data and preferences of apps (links, newslist, block of content will be saved so space creators can automatically get the space up and running)**
-
-#### Watch the video below for more information :point\_down:
+🎥 _Watch this tutorial video to understand how space templates work._
 
 {% embed url="https://www.loom.com/share/81b7b7757c304c06a9d823d676d81738?sid=d707bd8a-86a7-49e8-86bd-c73a05e43774" %}
+
+### Space Templates Overview
+
+
+
+🛡️ Only platform administrators can manage space templates.
+
+Go to your **Platform Settings** > **Development** > **Templates > Spaces**
+
+<figure><img src="../../.gitbook/assets/manage-space-templates.png" alt=""><figcaption><p><em>List of existing space templates with their status and actions.</em></p></figcaption></figure>
+
+&#x20;You will see a list of existing templates including:
+
+* Template name, description, and icon
+* Current permissions
+* Number and list of spaces using the template
+* A toggle to activate/deactivate the template
+* A dropdown menu with actions
+
+### Available Actions on a Template
+
+<figure><img src="../../.gitbook/assets/space-template-actions.png" alt="" width="225"><figcaption><p><em>Available actions on each space template.</em></p></figcaption></figure>
+
+The dropdown menu provides the following options:
+
+* **Create Space**: Opens the space creation drawer with the template preselected.
+* **List Spaces**: Lists all spaces currently using the template.
+* **Edit Navigation**: Opens the site navigation drawer used as the default layout for spaces created from this template. You can modify structure and page layout.
+* **Edit Properties**: Modify the template's name, description, and icon.
+* **Duplicate**: Duplicate a template to reuse its configuration.
+* **Export**: Export the full template configuration for use on another server.
+* **Delete**: Permanently remove the template.
+  * 🚫 _Note: default templates (Announcements, Circles, Community, Projects) cannot be deleted._
+
+### Edit Properties
+
+When editing or creating a template, you can define the following:
+
+<figure><img src="../../.gitbook/assets/edit-space-template.png" alt="" width="375"><figcaption><p><em>Editing properties and configuration of a space template</em></p></figcaption></figure>
+
+#### 1️⃣ Creation Steps
+
+Select which steps users go through when creating a new space:
+
+* _Name_: Define the space's name.
+* _Invitation_: Invite members.
+* _Properties_: logo, banner, and description.
+* _Access Control_: access permissions.
+
+#### 2️⃣ Template Permissions
+
+Choose **who can create spaces** from the template:
+
+* Administrators
+* All users
+* Members of a specific group
+
+You can also define **Space Coordinators**, who can create new spaces of this type, edit menus, manage public sites, delete spaces and administer spaces without being visible members
+
+#### 3️⃣ Default Settings
+
+Set default values that will apply when a space is created from the template:
+
+* Banner image
+* Categories
+* Editorial mode (enabled/disabled)
+* Access mode: _Open_, _Request Approval_, or _Invite Only_
+* Visibility: _Listed_ or _Not Listed_
+
+#### 4️⃣ Default Permissions
+
+Define who can:
+
+* Edit the menu and pages
+* Manage the space public site
+* Delete the space
+
+Choices include:
+
+* Administrators
+* Space admins
+* Designated user groups
+
+### Creating a New Template
+
+Click the **Add** button and choose:
+
+* **Create**: Start a new template from scratch.
+* **Import**: Upload a previously exported template.
+
+<figure><img src="../../.gitbook/assets/add-space-templates.png" alt="" width="239"><figcaption><p><em>Options to create or import a new space template</em></p></figcaption></figure>
+
+💡 Alternatively, you can create a new template from and exiting space in **Administration > Organization > Spaces**.
+
+Once created, you can configure the properties as described above.
+
+### Applying a Template to Existing Spaces
+
+Templates only apply to **new spaces**. To apply a template to an existing space:
+
+1. Go to **Administration > Organization > Spaces**.
+2. Select the relevant space.
+3. In the action menu, choose **Apply Template**.
+4. Select the template and choose which properties to update (navigation, permissions, etc.).
+
+
+
+***
+
+Templates are essential for structuring communities at scale. 🧩 They provide a consistent framework while allowing enough flexibility for customization when needed.
+
