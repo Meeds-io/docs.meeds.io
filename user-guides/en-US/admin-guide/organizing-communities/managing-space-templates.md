@@ -15,10 +15,6 @@ Space templates help streamline the creation of new spaces by predefining certai
 
 ### Space Templates Overview
 
-
-
-🛡️ Only platform administrators can manage space templates.
-
 Go to your **Platform Settings** > **Development** > **Templates > Spaces**
 
 <figure><img src="../../.gitbook/assets/manage-space-templates.png" alt=""><figcaption><p><em>List of existing space templates with their status and actions.</em></p></figcaption></figure>
@@ -30,6 +26,8 @@ Go to your **Platform Settings** > **Development** > **Templates > Spaces**
 * Number and list of spaces using the template
 * A toggle to activate/deactivate the template
 * A dropdown menu with actions
+
+🛡️ Only platform administrators can manage space templates.
 
 ### Available Actions on a Template
 
@@ -46,11 +44,13 @@ The dropdown menu provides the following options:
 * **Delete**: Permanently remove the template.
   * 🚫 _Note: default templates (Announcements, Circles, Community, Projects) cannot be deleted._
 
-### Edit Properties
+### Editing a Space Template
+
+To edit a space template, click on the 3-dot icon in the Aciotns column of that space then select Edit Properties from the dropdown.
 
 When editing or creating a template, you can define the following:
 
-<figure><img src="../../.gitbook/assets/edit-space-template.png" alt="" width="375"><figcaption><p><em>Editing properties and configuration of a space template</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/edit-space-template-properties.png" alt="" width="375"><figcaption><p><em>Editing properties and configuration of a space template</em></p></figcaption></figure>
 
 #### 1️⃣ Creation Steps
 
@@ -63,15 +63,15 @@ Select which steps users go through when creating a new space:
 
 #### 2️⃣ Template Permissions
 
-Choose **who can create spaces** from the template:
+<figure><img src="../../.gitbook/assets/space-template-permissions.png" alt="" width="375"><figcaption></figcaption></figure>
 
-* Administrators
-* All users
-* Members of a specific group
+Choose **who can create spaces** from the template and **Space Coordinators** for spaces of this type. Coordinators have additional permissions such as :  editing navigation menus and pages, managing public sites, deleting spaces all without having to join the space.
 
-You can also define **Space Coordinators**, who can create new spaces of this type, edit menus, manage public sites, delete spaces and administer spaces without being visible members
+Choices include `Administrators`, `Space Admins` and designated user `Groups`.
 
 #### 3️⃣ Default Settings
+
+<figure><img src="../../.gitbook/assets/space-template-default-settings.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Set default values that will apply when a space is created from the template:
 
@@ -83,17 +83,15 @@ Set default values that will apply when a space is created from the template:
 
 #### 4️⃣ Default Permissions
 
+<figure><img src="../../.gitbook/assets/space-template-default-permissions.png" alt="" width="375"><figcaption></figcaption></figure>
+
 Define who can:
 
 * Edit the menu and pages
 * Manage the space public site
 * Delete the space
 
-Choices include:
-
-* Administrators
-* Space admins
-* Designated user groups
+Choices include `Administrators`, `Space Admins` and designated user `Groups`.
 
 ### Creating a New Template
 
