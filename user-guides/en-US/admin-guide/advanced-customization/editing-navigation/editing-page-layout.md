@@ -1,8 +1,8 @@
 ---
-icon: palette
 description: >-
   Thanks to its Page Builder, Meeds provides administrators an easy way to
   customize their pages
+icon: palette
 ---
 
 # Editing Page Layout
@@ -86,7 +86,7 @@ Meeds pages are built using **blocks**, which can be content-based or applicatio
 
 <figure><img src="../../../.gitbook/assets/add-application-content.png" alt="" width="208"><figcaption><p>Choose an App</p></figcaption></figure>
 
-**💡Good to Know** : the categories as well as the list of blocks available can be managed in Administration (see [**Managing Applications**](../managing-applications/))
+**💡Good to Know** : the categories as well as the list of blocks available can be managed in Administration (see [**Managing Applications**](../managing-portlets/))
 
 #### **Managing Blocks**
 

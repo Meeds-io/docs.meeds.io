@@ -1,6 +1,0 @@
----
-icon: grid
----
-
-# Create Apps
-
