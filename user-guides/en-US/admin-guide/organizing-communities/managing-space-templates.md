@@ -13,7 +13,7 @@ Space templates help streamline the creation of new spaces by predefining certai
 
 {% embed url="https://www.loom.com/share/81b7b7757c304c06a9d823d676d81738?sid=d707bd8a-86a7-49e8-86bd-c73a05e43774" %}
 
-### Space Templates Overview
+### Acessing Space Temapltes Management
 
 Go to your **Platform Settings** > **Development** > **Templates > Spaces**
 
