@@ -66,5 +66,5 @@ Clicking on an article opens it in full view. Additionally, a dropdown menu prov
 
 🔗 [Sharing News in Spaces ](../../collaborating-in-spaces/sharing-news-in-spaces.md)– Learn how to publish news articles.\
 🔗 [Managing Space News](../../administering-a-space/managing-space-news.md) – Space Admins guide for configuring news.\
-🔗 [Managing News Targets](../../../admin-guide/advanced-customization/managing-news-targets.md) – Advanced settings for global news publishing.
+🔗 [Managing News Targets](../../../admin-guide/managing-content/managing-news.md) – Advanced settings for global news publishing.
 

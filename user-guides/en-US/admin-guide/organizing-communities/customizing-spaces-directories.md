@@ -1,8 +1,8 @@
 ---
-icon: table-list
 description: >-
   Discover how you can provide users useful apps to ease the process of
   searching for a space
+icon: table-list
 ---
 
 # Customizing spaces directories
@@ -41,5 +41,5 @@ For more details, watch the video below :point\_down:
 Ensure directory content aligns with access permissions.
 
 * If a directory lists spaces from a restricted category, users without access to the category will see an empty directory.
-* You can use the Spaces Directory app on a public page. Anonymous visitors will see the listed spaces only if the server is in _Open_ access mode (see [specifying-access-to-the-platform.md](../set-up-your-hub/specifying-access-to-the-platform.md "mention"))
+* You can use the Spaces Directory app on a public page. Anonymous visitors will see the listed spaces only if the server is in _Open_ access mode (see [platform-access.md](../setting-up-meeds/advanced-setup/platform-access.md "mention"))
 

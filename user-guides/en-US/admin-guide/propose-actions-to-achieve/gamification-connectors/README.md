@@ -2,11 +2,11 @@
 description: Meeds provides connectors that facilitate integration with your tools
 ---
 
-# 🧩 Integrations
+# 🧩 Gamification Connectors
 
-⚙️ Go to the Platform Settings  > Recognition > Connectors
+⚙️ Go to the Platform Settings  > Gamification > Connectors
 
-<figure><img src="../../.gitbook/assets/platform-settings-recognition-connectors.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/gamification-connectors.png" alt="" width="308"><figcaption></figcaption></figure>
 
 ### **List Connectors**
 
@@ -14,11 +14,11 @@ Gamification connectors capture signals outside the Meeds hub and let program ow
 
 Each connector has its configuration, but they all listen to events that can be mapped into valued contributions. The configuration deals with technical integration, such as communication between your Hub and the third-party platform through APIs, and often lets admins define or restrict a broad scope of what program owners can incentivize.
 
-<figure><img src="../../.gitbook/assets/list-connectors.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/list-connectors.png" alt=""><figcaption></figcaption></figure>
 
 * From the administration site, access connector management
 * You will find a list of available connectors
-* We have also included a list of upcoming connectors to inform you about our roadmap. If you need an integration that is not listed, please let us know by [filing a request](https://github.com/Meeds-io/meeds/issues/new?assignees=\&labels=\&projects=\&template=feature\_request.md\&title=).
+* We have also included a list of upcoming connectors to inform you about our roadmap. If you need an integration that is not listed, please let us know by [filing a request](https://github.com/Meeds-io/meeds/issues/new?assignees=\&labels=\&projects=\&template=feature_request.md\&title=).
 
 ### **The Meeds Connector**
 

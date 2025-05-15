@@ -6,7 +6,7 @@ description: How to build a translation program with Crowdin
 
 Thanks to the X (Twitter) connector for Meeds, you can incentivize your community to boost your visibility on [X](https://x.com).
 
-✋ Before designing X incentives, configure the [X Connector](../integrations/x-twitter.md) on your Hub.
+✋ Before designing X incentives, configure the [X Connector](../propose-actions-to-achieve/gamification-connectors/x-twitter.md) on your Hub.
 
 
 
@@ -54,7 +54,7 @@ Once saved, the user will be able to directly preview the tweet to engage with i
 
 ## **👉 Get more people to tag you**
 
-For Mentions, if you have multiple X accounts configured to be watched (see [Connector configuration](../integrations/x-twitter.md)), you may be requested to choose which account the users must mention to complete the action.
+For Mentions, if you have multiple X accounts configured to be watched (see [Connector configuration](../propose-actions-to-achieve/gamification-connectors/x-twitter.md)), you may be requested to choose which account the users must mention to complete the action.
 
 <figure><img src="../../.gitbook/assets/Twitter-mention-choice.png" alt="" width="375"><figcaption></figcaption></figure>
 

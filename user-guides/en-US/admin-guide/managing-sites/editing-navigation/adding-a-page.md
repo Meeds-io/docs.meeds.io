@@ -1,6 +1,6 @@
 ---
-icon: plus
 description: Learn how to add Add a navigation item and create your first page
+icon: plus
 ---
 
 # Adding a Page
@@ -37,4 +37,4 @@ To add a new item to the navigation menu:
 4. **Icon** to select a distinctive icon for this item to be displayed in the sidebar (not in the top bar)
 5. **Display item in menu** lets ou control wether you want this item to be displayed in the **top bar menu**.
 6. (Optional) Set a **visibility schedule**, defining when the item becomes available or when it should be hidden.
-7. Click **Save** to apply the changes or **Next** to start [editing your New Page.](editing-page-layout.md)
+7. Click **Save** to apply the changes or **Next** to start [editing your New Page.](editing-pages.md)

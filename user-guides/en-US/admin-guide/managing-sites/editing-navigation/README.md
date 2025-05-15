@@ -1,6 +1,6 @@
 ---
-icon: map-location-dot
 description: Discover how you can customize the navigation of your site
+icon: map-location-dot
 ---
 
 # Editing Navigation
@@ -39,7 +39,7 @@ From there, you will be able to:
 
 * **Add Item** – Allows you to add a page.
 * **Copy Link –** copy the url of the page in the clipboard
-* **Edit Layout  –** Edit the layout of the page (see [Editing Page Layout](editing-page-layout.md))
+* **Edit Layout  –** Edit the layout of the page (see [Editing Page Layout](editing-pages.md))
 * **Edit Properties** – Modify the page's details.
 * **Cut Item / Copy Item** – Move or duplicate navigation items.
 * **Permissions** – Manage access rights for the navigation entry.

@@ -6,13 +6,13 @@ description: >-
 
 # 🎨 Advanced Customization
 
-In addition to [Theme Customization](../set-up-your-hub/customizing-the-theme.md), Administrators & Space Administrators can indeed:
+In addition to [Theme Customization](../setting-up-meeds/set-up-your-hub/branding-customization.md), Administrators & Space Administrators can indeed:
 
-* [Edit Navigation](editing-navigation/)
-* [Add Pages](editing-navigation/adding-a-page.md)
-* [Edit Page Layout](editing-navigation/editing-page-layout.md)
+* [Edit Navigation](../managing-sites/editing-navigation/)
+* [Add Pages](../managing-sites/editing-navigation/adding-a-page.md)
+* [Edit Page Layout](../managing-sites/editing-navigation/editing-pages.md)
 
 Administrators can access development tools to preset pages and apps at their convenience
 
-* [Create Page Templates](managing-templates/managing-page-templates.md)
-* [Create Apps](managing-portlets/)
+* [Create Page Templates](../managing-sites/managing-page-templates.md)
+* [Create Apps](../managing-sites/managing-portlets/)

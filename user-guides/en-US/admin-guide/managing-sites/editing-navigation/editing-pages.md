@@ -5,7 +5,7 @@ description: >-
 icon: palette
 ---
 
-# Editing Page Layout
+# Editing Pages
 
 The Page Builder in Meeds allows administrators and authorized users to fully customize the layout of a page by arranging content, structuring sections, and applying styles. This guide provides a comprehensive walkthrough of how to modify the page layout, including managing sections, adding content blocks, configuring design settings, and ensuring mobile responsiveness.
 
@@ -34,9 +34,9 @@ When creating or modifying a page, you can choose among **page templates**, whic
 * **Empty Column** – Uses the **Column Layout**, providing a structured format with stacked sections.
 * **Empty Grid** – Uses the **Grid Layout**, allowing flexible, dashboard-style design.
 
-Both templates create a page containing only **one empty section** to start from. In addition to these two blank templates, users can select from **other preconfigured templates**, which are managed by the administration in a [dedicated section](../managing-templates/managing-page-templates.md).
+Both templates create a page containing only **one empty section** to start from. In addition to these two blank templates, users can select from **other preconfigured templates**, which are managed by the administration in a [dedicated section](../managing-page-templates.md).
 
-**💡 Good to Know** : All [**section templates**](../managing-templates/managing-section-templates.md) in are derived from one of these two layout models and all [**page templates**](../managing-templates/managing-page-templates.md) are a combination of preconfigured sections.
+**💡 Good to Know** : All [**section templates**](../managing-section-templates.md) in are derived from one of these two layout models and all [**page templates**](../managing-page-templates.md) are a combination of preconfigured sections.
 
 
 
@@ -159,7 +159,7 @@ The page is automatically saved as draft as you make change and you can undo/red
 
 &#x20;You're invited to give it a name and description and a preview image is generated based on the page content which you can override by your own thumbnail image.&#x20;
 
-Once saved, the template will be available as a starting point when creating new pages (see [#choosing-a-page-template](editing-page-layout.md#choosing-a-page-template "mention") and [managing-page-templates.md](../managing-templates/managing-page-templates.md "mention").
+Once saved, the template will be available as a starting point when creating new pages (see [#choosing-a-page-template](editing-pages.md#choosing-a-page-template "mention") and [managing-page-templates.md](../managing-page-templates.md "mention").
 
 **💡 Good to Know** : templates and current page won't be linked. meaning any change you aply to the page after you saved as template will NOT be automatically applied to the template.
 

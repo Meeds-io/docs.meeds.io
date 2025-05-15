@@ -106,6 +106,6 @@ Users can 👍 Like, 💬 Comment, 🏅 Send Kudos and 🔄 Share. For more deta
 🔗 [Sharing and Interacting](documenting-procedures-and-reports.md) – Learn more about how to engage with news articles.\
 🔗 [Managing Space News ](../../admin-guide/organizing-communities/managing-spaces.md)– Learn how Space Admins configure the News Block.\
 🔗 [Exploring the News Center](../exploring-a-meeds-hub/entering-your-workspace/exploring-the-news-center.md) – Locate and manage your published articles.\
-🔗 [Managing News Targets](../../admin-guide/advanced-customization/managing-news-targets.md) – Advanced customization for platform admins.
+🔗 [Managing News Targets](../../admin-guide/managing-content/managing-news.md) – Advanced customization for platform admins.
 
 📹 _Placeholder: Short video walkthrough demonstrating how to publish and interact with news articles._

@@ -6,7 +6,7 @@ description: How to build a translation program with Crowdin
 
 Thanks to the Crowdin Connector for Meeds, you can incentivize your community to participate in your [Crowdin](https://crowdin.com) translation projects.
 
-✋ Before designing translation incentives, configure the [Crowdin Connector](../integrations/crowdin.md) on your Hub.
+✋ Before designing translation incentives, configure the [Crowdin Connector](../propose-actions-to-achieve/gamification-connectors/crowdin.md) on your Hub.
 
 {% embed url="https://youtu.be/N5Wuj0y0iV0?si=m2oWOQ6YUKCL2AAd&t=141" %}
 

@@ -29,4 +29,4 @@ To update language settings:
 3. Select the default language for emails and content translations.
 4. Save your changes.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Edit Default Language from admin site</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Edit Default Language from admin site</p></figcaption></figure>

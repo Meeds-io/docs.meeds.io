@@ -1,6 +1,0 @@
----
-icon: folders
----
-
-# Managing Templates
-

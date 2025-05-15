@@ -30,4 +30,4 @@ The default login page display is inherited from the platform configuration:
 3. Adjust the background, title, tagline, or other options.
 4. Save your changes.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Login Page Customization</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Login Page Customization</p></figcaption></figure>

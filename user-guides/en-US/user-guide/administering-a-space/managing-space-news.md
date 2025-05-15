@@ -41,7 +41,7 @@ icon: newspaper
 
 **2️⃣ News Source (Target Selection)**
 
-* Choose the [**News Target**](../../admin-guide/advanced-customization/managing-news-targets.md) that determines which articles will be displayed in the block.
+* Choose the [**News Target**](../../admin-guide/managing-content/managing-news.md) that determines which articles will be displayed in the block.
 * Only **one** news source can be selected per block.
 * By default, each space has its own dedicated **target**
 * If needed, a new **News Target** can be created directly from this screen
@@ -83,5 +83,5 @@ icon: newspaper
 
 🔗 [Sharing News in Spaces](../collaborating-in-spaces/sharing-news-in-spaces.md) – Learn how users create and publish news.\
 🔗 [Exploring the News Center](../exploring-a-meeds-hub/entering-your-workspace/exploring-the-news-center.md) – Locate published and drafted news articles.\
-🔗 [Managing News Targets](../../admin-guide/advanced-customization/managing-news-targets.md) – How to configure news publication across multiple spaces.\
+🔗 [Managing News Targets](../../admin-guide/managing-content/managing-news.md) – How to configure news publication across multiple spaces.\
 🔗 [Space Templates](../../admin-guide/organizing-communities/managing-space-templates.md) – Learn more about different space templates and their configurations.
