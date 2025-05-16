@@ -4,41 +4,48 @@ icon: globe-pointer
 
 # Managing Site Templates
 
-### 📄 Creating a Site Template
+**Site Templates** allow administrators to quickly launch new [webites](managing-websites/) with consistent branding and functionality, saving time and ensuring coherence across the platform. Use them as reusable blueprints that encapsulate a full website layout—including design, structure, and navigation.
 
-To create a custom site template from an existing site:
 
-1. Open **Site Management**.
-2. Click the **⋮ menu** on a site.
-3. Select **Save as Template**.
-4. Provide:
-   * **Name**
-   * **Description**
-   * **Icon**
-   * **Preview Image**
 
-> 📷 _Suggested screenshot: Save as template drawer_\
-> **Caption**: _Creating a site template from an existing site_
+### 📄\` Creating a Site Template
 
-***
+Site Templates can be easily created by Administrators from existing sites. To create a custom site template, navigate to **Administration > Development > Sites** :
 
-### 🌐 Managing Site Templates
+1. Click the **⋮ menu** on a site.
+2. Select **Save as Template**.
 
-Navigate to **Development > Templates > Sites** to access all available site templates. Each entry displays:
+<figure><img src="../../.gitbook/assets/save-site-as-template (1).png" alt="" width="563"><figcaption><p><em>Creating a site template from an existing site</em></p></figcaption></figure>
+
+A drawer panel opens and invites you to enter :
+
+* **Name**
+* **Description**
+* **Icon**
+* **Preview Image**
+
+<figure><img src="../../.gitbook/assets/add-site-tempalte-drawer.png" alt="" width="375"><figcaption><p>Drawer to identify your Site template</p></figcaption></figure>
+
+### 🌐 Admin Interface for Site Templates
+
+Navigate to **Administration > Development > Templates > Sites** to access all available site templates.&#x20;
+
+<figure><img src="../../.gitbook/assets/admin-site-templates.png" alt=""><figcaption><p><em>Managing all site templates from the admin panel</em></p></figcaption></figure>
+
+Each entry displays:
 
 * Icon and name
 * Description
 * Template status (Active/Inactive)
 * Actions menu (⋮)
 
-> 📷 _Suggested screenshot: Site templates listing_\
-> **Caption**: _Managing all site templates from the admin panel_
+### 🔄 Available Actions&#x20;
 
-***
+From the template list, use the ⋮ menu to access the following dropdown menu :
 
-### 🔄 Actions on Templates
+<figure><img src="../../.gitbook/assets/site-template-actions-dropdown.png" alt="" width="248"><figcaption><p><em>Available actions for a selected site template</em></p></figcaption></figure>
 
-From the template list, use the ⋮ menu to access the following:
+Available actions on the site template include:
 
 1. **Edit Layout** – Change global design: header, background, margins, etc.
 2. **Edit Navigation** – Configure the default navigation menu for new sites based on this template.
@@ -49,24 +56,18 @@ From the template list, use the ⋮ menu to access the following:
 5. **Export** – Download the template as a `.zip` file.
 6. **Delete** – Remove the template (only for custom templates).
 
-> 📷 _Suggested screenshot: Template action menu open_\
-> **Caption**: _Available actions for a selected site template_
-
-***
-
 ### ✍️ Adding or Importing Templates
 
-To add a new site template manually:
+To add a new site template manually, click **Add** button in the templates interface:
 
-1. Click **Add** in the templates interface.
-2. Choose:
-   * **Import** – Upload a `.zip` file of an existing template.
-   * **Create** – Define name, description, and customize layout and navigation.
+<figure><img src="../../.gitbook/assets/add-site-template-dropdown.png" alt="" width="164"><figcaption><p><em>Options to import or create a new site template manually</em></p></figcaption></figure>
 
-> 📷 _Suggested screenshot: Add site template dropdown_\
-> **Caption**: _Options to import or create a new site template manually_
+Choose between:
 
-***
+* **Import** – Upload a `.zip` file of an existing template.
+* **Create** – Define name, description, and customize layout and navigation.
+
+
 
 ### 🚀 Bulk Operations
 
@@ -75,14 +76,14 @@ Select multiple templates to:
 * **Export** – Download several templates at once
 * **Delete** – Remove selected templates (custom templates only)
 
-***
+<figure><img src="../../.gitbook/assets/bulk-operations-site-templates.png" alt="" width="246"><figcaption><p>Bulk operations on Site Templates</p></figcaption></figure>
 
 ### 💡 Best Practices
 
 * Use site templates for seasonal campaigns, microsites, or team portals.
 * Name templates clearly to reflect their purpose.
 * Keep navigation lean and relevant.
-* Remember: Navigation edits on a template do not apply retroactively to already-created sites.
+* ⚠️ Remember: Navigation edits on a template do not apply retroactively to already-created sites.
 
 ***
 

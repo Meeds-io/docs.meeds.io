@@ -86,8 +86,6 @@ You can create or import templates from the admin interface:
 
 
 
-***
-
 ### 🛠️ Bulk Operations
 
 <figure><img src="../../.gitbook/assets/bulk-operations-page-templates.png" alt="" width="332"><figcaption><p>Bulk operations for Page Templates</p></figcaption></figure>
@@ -103,7 +101,5 @@ You can create or import templates from the admin interface:
 * Use templates to enforce branding
 * Regularly audit and clean unused templates
 * Create variants for different use cases (e.g. event pages, profiles)
-
-***
 
 Page Templates save time and maintain consistency. Once adopted, they become essential building blocks of an efficient Meeds Hub experience.
