@@ -15,7 +15,7 @@ Video guide to creating and customizing section templates.
 
 ### What is a Section Template?
 
-A section template defines the layout and structure of a content block that can be reused across multiple pages. Sections can represent headers, footers, dashboards, or any functional block of content. They are created from individual cells that can contain applications, text, images, and other content. Sections are sued in the Page builder when you [edit a page layout](editing-navigation/editing-pages.md).
+A section template defines the layout and structure of a content block that can be reused across multiple pages. Sections can represent headers, footers, dashboards, or any functional block of content. They are created from individual cells that can contain applications, text, images, and other content. Sections are sued in the Page builder when you [edit a page layout](managing-websites/editing-navigation/editing-pages.md).
 
 Each section can be based on:
 

@@ -8,11 +8,11 @@ description: >-
 
 In addition to [Theme Customization](../setting-up-meeds/set-up-your-hub/branding-customization.md), Administrators & Space Administrators can indeed:
 
-* [Edit Navigation](../managing-sites/editing-navigation/)
-* [Add Pages](../managing-sites/editing-navigation/adding-a-page.md)
-* [Edit Page Layout](../managing-sites/editing-navigation/editing-pages.md)
+* [Edit Navigation](../managing-sites-and-pages/managing-websites/editing-navigation/)
+* [Add Pages](../managing-sites-and-pages/managing-websites/editing-navigation/adding-a-page.md)
+* [Edit Page Layout](../managing-sites-and-pages/managing-websites/editing-navigation/editing-pages.md)
 
 Administrators can access development tools to preset pages and apps at their convenience
 
-* [Create Page Templates](../managing-sites/managing-page-templates.md)
-* [Create Apps](../managing-sites/managing-portlets/)
+* [Create Page Templates](../managing-sites-and-pages/managing-page-templates.md)
+* [Create Apps](../managing-sites-and-pages/managing-portlets/)

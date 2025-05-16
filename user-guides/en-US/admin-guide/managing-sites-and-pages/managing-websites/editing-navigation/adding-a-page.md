@@ -25,9 +25,9 @@ To add a new item to the navigation menu:
 
 1. Click **“Add Item”** in the Navigation Editor.
 
-<figure><img src="../../../.gitbook/assets/add-navigation-item.png" alt=""><figcaption><p>Add navigation Item</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/add-navigation-item.png" alt=""><figcaption><p>Add navigation Item</p></figcaption></figure>
 
-1. **Name** : name of your menu item, click the translation icon (![](../../../.gitbook/assets/translate-icon.png))  to localize the name
+1. **Name** : name of your menu item, click the translation icon (![](../../../../.gitbook/assets/translate-icon.png))  to localize the name
 2. **URL slug** : the trailing part of the url ( inferred automatically from the name, but ⚠️ you can only customize it at creation time)
 3. I**tem Type**: Choose the type of item among
    * **New Page** – After filling out the item proeprties form, the page editor will open immediately, allowing you to start creating the new page directly.

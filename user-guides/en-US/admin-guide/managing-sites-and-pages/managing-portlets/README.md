@@ -54,7 +54,7 @@ Admins can:
 
 ### Managing Portlet Instances
 
-Within each category, you find **portlet instances** – preconfigured blocks ready to use in the [Page Builder](../editing-navigation/adding-a-page.md).
+Within each category, you find **portlet instances** – preconfigured blocks ready to use in the [Page Builder](../managing-websites/editing-navigation/adding-a-page.md).
 
 Each instance includes:
 

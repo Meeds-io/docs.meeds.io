@@ -17,7 +17,7 @@ Watch this quick tutorial about Page Templates
 
 To create a page template from any existing page:
 
-1. Open the page in [**Edit Layout**](editing-navigation/editing-pages.md) mode.
+1. Open the page in [**Edit Layout**](managing-websites/editing-navigation/editing-pages.md) mode.
 2. Adjust the layout and content as needed.
 3. Click **Save as Template** in the top bar of the editor.
 
