@@ -123,7 +123,7 @@ Click **Next** and the Section editor opens
 
 ***
 
-### Best Practices
+### 💡 Best Practices
 
 * Use consistent naming conventions.
 * Keep descriptions meaningful.
