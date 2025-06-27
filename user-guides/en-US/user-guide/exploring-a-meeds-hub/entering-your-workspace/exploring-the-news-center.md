@@ -1,5 +1,9 @@
 # 📰 Exploring the News Center
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans. [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### What is My Content?
 
 **My Content** is where you can find all your published and drafted news articles across different spaces. It allows you to quickly access, manage, and track your contributions in one place.

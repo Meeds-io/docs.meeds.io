@@ -6,6 +6,10 @@ description: >-
 
 # 👤 Browsing People & Spaces
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans. [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 #### :question:What are we talking about?
 
 From the left menu, access 2 key pages:
@@ -42,7 +46,7 @@ Depending on the space's `Access` settings, you may see a `Join` or `Request Acc
 
 ### Quick actions
 
-Quick actions are available on cards to  [bookmark ](../discovering-helpful-features/creating-your-favorite-list.md)it, [send a kudos](../earning-recognition/praising-others-with-kudos.md) to the whole space :&#x20;
+Quick actions are available on cards to  [bookmark ](../other-helpful-features/creating-your-favorite-list.md)it, [send a kudos](../earning-recognition/praising-others-with-kudos.md) to the whole space :&#x20;
 
 <figure><img src="../../.gitbook/assets/space-card-3-dots-menu.png" alt="" width="210"><figcaption></figcaption></figure>
 

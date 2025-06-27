@@ -4,15 +4,19 @@ description: Discover in few steps how to browse the Meeds Platform
 
 # 🧐 Finding Your Way Around
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### :question: Need quick access to tools, applications?
 
 :point\_right: **Use the top bar. It will allow you to quickly:**
 
 * The Home Page
-* [Search](../discovering-helpful-features/searching-for-content.md)
-* [Notifications](../discovering-helpful-features/updating-your-notifications.md)
-* [Favorites](../discovering-helpful-features/creating-your-favorite-list.md)
-* [Applications](../discovering-helpful-features/listing-your-applications.md)
+* [Search](../other-helpful-features/searching-for-content.md)
+* [Notifications](../other-helpful-features/updating-your-notifications.md)
+* [Favorites](../other-helpful-features/creating-your-favorite-list.md)
+* [Applications](../other-helpful-features/listing-your-applications.md)
 
 ### :question:Need to navigate to other pages
 

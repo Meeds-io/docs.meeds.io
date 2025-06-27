@@ -1,6 +1,6 @@
-# 💡 Discovering Helpful Features
+# 💡 Other Helpful Features
 
-Meeds provides you Key Features to help you:
+Other helpful features you'll enjoy in Meeds
 
 * [Managing notifications you can receive](updating-your-notifications.md)
 * [Search for contents](searching-for-content.md)&#x20;

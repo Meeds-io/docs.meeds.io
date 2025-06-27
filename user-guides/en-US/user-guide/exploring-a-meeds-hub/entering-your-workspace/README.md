@@ -7,6 +7,10 @@ description: >-
 
 # 💼 Entering your Workspace
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans. [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 **My Workspace** is a dedicated space where users can access personalized information beyond their contributions. It provides an overview of personal activity, tasks, content, and team structure.
 
 You can access **My Workspace** from the left sidebar menu by selecting **"My Workspace"**.
