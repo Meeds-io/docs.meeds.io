@@ -1,13 +1,15 @@
-# 👨‍💻 Introduction
+# 🧭 Getting Started
 
-## About this Guide
 
-Onboard the  Meeds solution with confidence and tranquility with this user documentation.
 
-Designed to assist you in your initial steps, it also introduces advanced cases.&#x20;
+Welcome to your Meeds Hub!\
+This guide is designed for users of our **Starter offer** — a streamlined experience where you manage or join a single, pre-configured Hub.
 
-⚙️ If you're looking for administrator documentation, visit [here](broken-reference) &#x20;
+If you’ve just created your Starter Hub or received an invitation to one, you’re in the right place to get started.
 
-:question:**Have a question?**&#x20;
+👉 Want to learn more about other Meeds offers? [Check our pricing and features](https://www.meeds.io/pricing).\
 
-Tell us everything and ask questions in this [forum](https://github.com/orgs/Meeds-io/discussions/new?category=q-a). Your contribution is important to help us enhance our software and documentation.
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>👤 <strong>I'm the Admin of this Hub</strong></td><td>Learn how to personalize your Hub, configure engagement programs, and onboard your members</td><td><a href="start-as-an-admin.md">start-as-an-admin.md</a></td></tr><tr><td>🙋 I<strong>'m a Member of this Hub</strong></td><td>Discover how to set up your profile, explore your community, and start contributing.</td><td><a href="explore-as-a-member.md">explore-as-a-member.md</a></td></tr></tbody></table>

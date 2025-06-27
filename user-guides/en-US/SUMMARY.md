@@ -4,10 +4,12 @@
 
 ## USER GUIDE
 
-* [👨‍💻 Getting Started](user-guide/introduction/README.md)
+* [🧭 Getting Started](user-guide/introduction/README.md)
   * [🌐 Exploring Community Hubs](user-guide/introduction/exploring-community-hubs.md)
   * [🚪 Joining a Hub](user-guide/introduction/joining-a-hub.md)
   * [📳 Installing the App](user-guide/introduction/using-meeds-on-the-go.md)
+  * [👉 Start as an Admin](user-guide/introduction/start-as-an-admin.md)
+  * [👉 Explore as a Member](user-guide/introduction/explore-as-a-member.md)
 * [🚀 Exploring a Meeds Hub](user-guide/exploring-a-meeds-hub/README.md)
   * [🧐 Finding Your Way Around](user-guide/exploring-a-meeds-hub/finding-your-way-around.md)
   * [🏆 Starting to contribute](user-guide/exploring-a-meeds-hub/starting-to-contribute.md)
