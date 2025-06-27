@@ -27,9 +27,9 @@ Make the space work the way you like.
 Click the ![](../../.gitbook/assets/settings-icon.png)icon, to open your **Settings**
 
 * Update your **notification preferences**
-* Find links to **download the mobile app**
+* Find links to **download the** [**mobile app**](using-meeds-on-the-go.md)
 
-🔗 [Configure your settings](https://docs.meeds.io/meeds-guides/user-guide/setting-up-your-account/configuring-your-settings)
+🔗 [Configure your settings](../setting-up-your-account/)
 
 ***
 
