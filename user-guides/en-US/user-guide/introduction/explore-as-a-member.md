@@ -6,10 +6,7 @@ Glad to have you here 🎉\
 Here are a few easy steps to help you settle in, personalize your experience, and start contributing.
 
 {% hint style="info" %}
-
-
-This page applies to the **Starter** and **Premium** plans. [👉 Compare all plans](https://www.meeds.io/pricing)\
-
+This page applies to the **Starter** and **Premium** plans. [👉 Compare all plans](https://www.meeds.io/pricing)
 {% endhint %}
 
 ***

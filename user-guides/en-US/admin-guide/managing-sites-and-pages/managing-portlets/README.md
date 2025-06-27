@@ -7,6 +7,10 @@ icon: grid
 
 # Managing Portlets
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 Portlets in Meeds are configurable design blocks used to enrich the layout and functionality of pages created using the Page Editor. This guide explains how administrators can manage these portlets through the administration console.
 
 ***

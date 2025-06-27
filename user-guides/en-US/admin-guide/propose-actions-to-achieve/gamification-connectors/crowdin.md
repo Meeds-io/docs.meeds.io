@@ -4,6 +4,10 @@ description: How to configure the Crowdin Connector for Meeds
 
 # 🌐 Crowdin
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 If your organization uses [Crowdin](https://crowdin.com) for translation management, you can seamlessly involve your community and shape incentives to drive your localization programs.
 
 You can activate the Crowdin connector to let contributors earn points based on their participation in your translation project on Crowdin.&#x20;

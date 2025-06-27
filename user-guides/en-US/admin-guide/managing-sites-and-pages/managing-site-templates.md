@@ -4,6 +4,10 @@ icon: globe-pointer
 
 # Managing Site Templates
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 **Site Templates** allow administrators to quickly launch new [webites](managing-websites/) with consistent branding and functionality, saving time and ensuring coherence across the platform. Use them as reusable blueprints that encapsulate a full website layout—including design, structure, and navigation.
 
 

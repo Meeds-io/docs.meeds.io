@@ -8,6 +8,10 @@ icon: browsers
 
 # Branding Customization
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### Update the Hub's Theme
 
 * Go to the admin site and access general settings.

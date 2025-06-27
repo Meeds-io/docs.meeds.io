@@ -7,6 +7,10 @@ icon: grip-dots
 
 # Managing Section Templates
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 Section templates are reusable layout components that help you build consistent, efficient, and visually appealing pages within your Meeds hub. This guide explains how to create, manage, and reuse section templates using the admin interface and the page builder.
 
 {% embed url="https://www.loom.com/share/2f09a83909914a5a858c612b19922f13?sid=f7d6e3cd-c6bc-4940-8685-d2ce25169c77" %}

@@ -1,11 +1,15 @@
 ---
-icon: layer-group
 description: >-
   Supervise spaces added in your platform and access to management useful
   options
+icon: layer-group
 ---
 
 # Managing Spaces
+
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 ### :busts\_in\_silhouette: Who can manage all spaces?
 

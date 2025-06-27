@@ -7,6 +7,10 @@ icon: bell
 
 # Notifications Settings
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### Specify the sender of notifications&#x20;
 
 * From the administration site, go to the notification configuration

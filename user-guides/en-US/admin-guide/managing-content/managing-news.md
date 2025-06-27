@@ -2,9 +2,11 @@
 icon: bullseye
 ---
 
-# Managing News Targets
+# Managing News
 
-
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 ### What Are News Targets?
 

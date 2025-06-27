@@ -4,6 +4,10 @@ description: How to configure the X connector for Meeds as an administrator
 
 # 🐦 X (Twitter)
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 If your organization uses X for general communication and wants to boost your audience's engagement, the X connector for Meeds is for you.
 
 You can activate it to allow contributors to earn points by interacting with your accounts on X.

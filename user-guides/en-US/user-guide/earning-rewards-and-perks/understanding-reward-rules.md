@@ -4,7 +4,11 @@ description: >-
   rewards. Discover how these rewards can be calculated.
 ---
 
-# 🧑‍🏫 Understanding Reward Rules
+# 🧑‍🏫 Understanding Quest Rewards
+
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 ### :question:What are the reward terms? <a href="#quelles-sont-les-modalites-de-recompense" id="quelles-sont-les-modalites-de-recompense"></a>
 

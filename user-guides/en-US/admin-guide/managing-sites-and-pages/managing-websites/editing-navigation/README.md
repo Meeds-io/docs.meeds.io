@@ -5,6 +5,10 @@ icon: map-location-dot
 
 # Editing Navigation
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 Navigation is a fundamental aspect of structuring a Meeds site. Properly configuring navigation ensures that users can efficiently access relevant content, navigate between sections, and maintain a logical flow throughout the platform. This guide details how administrators can edit and manage site navigation, including adding, removing, and organizing navigation items.
 
 ### ▶️ Quick Video Tutorial

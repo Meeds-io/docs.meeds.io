@@ -1,11 +1,15 @@
 ---
-icon: book-open
 description: >-
   Meeds provides administrators a new way to show and be sure user read Terms &
   Conditions (Community Guidelines, User Policy, Terms of Use).
+icon: book-open
 ---
 
 # Terms & Conditions
+
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 ### 🙋 Who can edit the Terms & conditions?
 

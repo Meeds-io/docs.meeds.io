@@ -5,6 +5,10 @@ icon: language
 
 # Language Management
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### :bulb: Good to Know
 
 When users access the platform, their browser's language is automatically set as their preferred language. This applies:

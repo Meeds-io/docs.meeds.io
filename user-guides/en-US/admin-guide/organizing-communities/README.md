@@ -8,6 +8,10 @@ icon: house-building
 
 # Organizing Communities
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 Discover how to streamline your community structure for improved collaboration and accessibility:
 
 * [Adding / Editing Space Templates](managing-space-templates.md)

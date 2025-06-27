@@ -1,11 +1,15 @@
 ---
-icon: sidebar
 description: >-
   Ease access to informations and communities by customizing the menu for your
   end-users
+icon: sidebar
 ---
 
 # Topbar & Sidebar Customization
+
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 ### :bulb: Good to Know
 

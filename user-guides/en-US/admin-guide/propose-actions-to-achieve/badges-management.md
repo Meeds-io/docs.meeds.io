@@ -5,6 +5,10 @@ icon: badge-check
 
 # Badges Management
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### **List and Modify Accessible Badges**
 
 * From the administration site, access badge configuration.

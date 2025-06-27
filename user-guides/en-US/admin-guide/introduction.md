@@ -1,5 +1,9 @@
 # 👩‍💻 Introduction
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### About this documentation
 
 Easily animate your Hub with our documentation.&#x20;

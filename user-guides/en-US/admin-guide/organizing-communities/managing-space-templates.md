@@ -7,6 +7,10 @@ icon: browsers
 
 # Managing Space Templates
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 Space templates help streamline the creation of new spaces by predefining certain configurations. They enable administrators to specify what should be mandatory, which applications are included by default, and who can create, update, or delete spaces associated with the template.
 
 🎥 _Watch this tutorial video to understand how space templates work._

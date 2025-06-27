@@ -4,6 +4,10 @@ description: How to build a translation program with Crowdin
 
 # 🐦 Growing your audience on X
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 Thanks to the X (Twitter) connector for Meeds, you can incentivize your community to boost your visibility on [X](https://x.com).
 
 ✋ Before designing X incentives, configure the [X Connector](../propose-actions-to-achieve/gamification-connectors/x-twitter.md) on your Hub.

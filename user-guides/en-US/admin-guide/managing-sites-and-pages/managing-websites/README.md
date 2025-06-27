@@ -4,6 +4,10 @@ icon: globe-pointer
 
 # Managing Websites
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 In Meeds, a **Site** is a collection of pages that share a unified design, navigation, and access control. Sites allow you to organize content around your organization, events, or working groups, each with its own visual identity and navigation.
 
 ***

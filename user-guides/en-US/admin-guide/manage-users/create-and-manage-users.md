@@ -5,6 +5,10 @@ icon: user-pen
 
 # Create and Manage Users
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### **Create Individual Users**
 
 #### :point\_right: **Add a user**

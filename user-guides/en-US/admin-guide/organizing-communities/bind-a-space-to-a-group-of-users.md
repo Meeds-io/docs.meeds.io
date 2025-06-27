@@ -7,9 +7,13 @@ icon: arrow-up-from-arc
 
 # Bind a space to a group of users
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 #### :point\_right: Space Management&#x20;
 
-Delegate space management to a user group by following [this procedure](../manage-users/manage-user-rights.md).
+Delegate space management to a user group by following [this procedure](../manage-users/managing-user-permissions.md).
 
 #### :point\_right: Link a Space to a User Group&#x20;
 

@@ -2,9 +2,7 @@
 
 Meeds lets you drive work through incentives. As a community leader, you have complete control over building a menu of actions your contributors can participate in.
 
-
-
-### Create an Engagement Program
+### Create a Campaign
 
 To get started, you need to create an engagement program in the  _Contribution Center_ through  `Contribute > Programs` then click `Add Program`, and fill in the requested information :
 

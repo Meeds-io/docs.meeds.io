@@ -4,6 +4,10 @@ description: Meeds provides connectors that facilitate integration with your too
 
 # 🧩 Gamification Connectors
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ⚙️ Go to the Platform Settings  > Gamification > Connectors
 
 <figure><img src="../../../.gitbook/assets/gamification-connectors.png" alt="" width="308"><figcaption></figcaption></figure>

@@ -1,9 +1,13 @@
 ---
-icon: wallet
 description: List the initialized wallets and adjust if necessary
+icon: wallet
 ---
 
 # Wallets Management
+
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 ### **Top Up Your Hub Wallet**
 

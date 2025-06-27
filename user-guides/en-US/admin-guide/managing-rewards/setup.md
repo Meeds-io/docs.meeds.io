@@ -5,6 +5,10 @@ icon: screwdriver-wrench
 
 # Setup
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### **Define the Initial Amount of Meeds for New Wallets**
 
 * From the administration site, access the general configuration settings for recognition

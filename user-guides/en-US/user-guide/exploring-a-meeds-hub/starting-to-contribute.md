@@ -6,6 +6,10 @@ description: >-
 
 # 🏆 Starting to contribute
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans. [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### :question: What are we talking about?
 
 Access the `Contribute` section from the left menu, where you will find a home page listing:

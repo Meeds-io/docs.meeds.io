@@ -4,6 +4,10 @@ description: Contribute, be rewarded, and use your Meeds in the online shop
 
 # 🛒 Claiming Your Perks
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### :question:Who can propose products in the shop?
 
 #### :point\_right: **By default, any member can create products in the shop.**

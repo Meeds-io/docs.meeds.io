@@ -7,6 +7,10 @@ icon: table-list
 
 # Customizing spaces directories
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### :question: What are my options?
 
 As a platform admin, you can:

@@ -1,4 +1,8 @@
-# 📊 Manage Analytics
+# 📊 Analytics
+
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 Meeds provides key indicators to understand:
 

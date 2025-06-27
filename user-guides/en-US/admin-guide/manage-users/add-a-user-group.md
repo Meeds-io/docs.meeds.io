@@ -5,6 +5,10 @@ icon: people-group
 
 # Add a user group
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 👉 **Add a User Group**
 
 * From the administration site, go to group management.

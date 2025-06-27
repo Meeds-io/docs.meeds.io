@@ -3,7 +3,11 @@ description: Understand how your users can act on the platform
 icon: user-gear
 ---
 
-# Manage User Rights
+# Managing User Permissions
+
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 ### Understanding Different User Rights
 

@@ -5,6 +5,10 @@ icon: gear
 
 # Customizing the Overview
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 #### :map: Where?
 
 Once they log in, users access the Contribute section.

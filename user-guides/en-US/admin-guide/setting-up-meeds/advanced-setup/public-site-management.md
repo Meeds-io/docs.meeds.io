@@ -5,6 +5,10 @@ icon: globe
 
 # Public Site Management
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### **Publishing Your Public Site:**
 
 * Publishing your public site allows you to provide a personalized page to any non-connected visitor

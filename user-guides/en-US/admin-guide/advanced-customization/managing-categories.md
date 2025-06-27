@@ -1,9 +1,13 @@
 ---
-icon: table-cells-large
 description: Provide categories to users so they can ease the access to content
+icon: table-cells-large
 ---
 
-# Managing categories
+# Managing Categories
+
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 ### :question: What are my options?
 

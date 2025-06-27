@@ -7,6 +7,12 @@ icon: arrow-right-to-bracket
 
 # Platform Access
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
+
+
 * From the Administration Site, access General Settings
 * Access Platform Access options
 * Choose one of the two detailed options below

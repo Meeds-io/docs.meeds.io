@@ -4,6 +4,10 @@ description: How to configure the GitHub connector for Meeds as an administrator
 
 # 🐙 GitHub
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 If your organization uses [GitHub](https://github.com) to manage code or documentation and wants to foster open contributions and collaboration, the GitHub connector for Meeds is for you!
 
 You can activate it to allow contributors to earn points by interacting with your repositories.

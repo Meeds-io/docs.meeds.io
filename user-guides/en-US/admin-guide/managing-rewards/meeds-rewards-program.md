@@ -1,9 +1,13 @@
 ---
+description: Earn MEED tokens through the Meeds Rewards program.
 icon: sack-dollar
-description: Earn MEED tokens through the {0}Meeds Rewards{1} program.
 ---
 
 # Meeds Rewards Program
+
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 ### :tools:  How to join in the program?
 

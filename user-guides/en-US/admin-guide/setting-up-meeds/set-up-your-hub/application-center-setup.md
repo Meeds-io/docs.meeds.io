@@ -3,7 +3,11 @@ description: Add and organize the applications you want to make available to use
 icon: grid
 ---
 
-# Appcenter Setup
+# Application Center Setup
+
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 ### List the available applications
 

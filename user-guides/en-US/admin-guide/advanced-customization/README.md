@@ -6,6 +6,10 @@ description: >-
 
 # 🎨 Advanced Customization
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 In addition to [Theme Customization](../setting-up-meeds/set-up-your-hub/branding-customization.md), Administrators & Space Administrators can indeed:
 
 * [Edit Navigation](../managing-sites-and-pages/managing-websites/editing-navigation/)

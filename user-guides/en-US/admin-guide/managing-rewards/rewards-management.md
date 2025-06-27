@@ -5,6 +5,10 @@ icon: coins
 
 # Rewards Management
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### :busts\_in\_silhouette: Who can manage rewards?
 
 * Only Rewarding Administrators can access and manage rewards

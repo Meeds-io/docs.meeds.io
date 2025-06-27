@@ -1,11 +1,15 @@
 ---
-icon: square-code
 description: >-
   Meeds lets you enhance your pages with Gadgets, which are blocks made of
   custom HTML, CSS, and JavaScript.
+icon: square-code
 ---
 
 # Creating Gadgets
+
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 They give you full flexibility to integrate interactive elements such as **animated marquees, token price widgets, third-party scripts, and dynamic user interactions**. These blocks can be **created, edited, and managed** directly within the platform, enabling a seamless customization experience.\
 \

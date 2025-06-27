@@ -5,6 +5,10 @@ icon: plus
 
 # Adding a Page
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### ▶️ Quick Video Tutorial
 
 {% embed url="https://youtu.be/w_h_MWuRIA4" %}

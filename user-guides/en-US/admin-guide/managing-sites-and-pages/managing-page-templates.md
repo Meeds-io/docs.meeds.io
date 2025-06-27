@@ -7,6 +7,10 @@ icon: memo-circle-check
 
 # Managing Page Templates
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 Page templates in Meeds allow you to save and reuse layouts for consistency across your site. They help accelerate the creation of new pages by reusing existing structures, including content blocks and applications.
 
 {% embed url="https://youtu.be/RjwiHMc7Mxo" %}
