@@ -2,7 +2,7 @@
 description: Communicate to the outside world by enabling a public website for your space
 ---
 
-# 📣 Showcasing your space
+# 🖼️ Showcasing your community
 
 ### :question: What are we talking about?
 
