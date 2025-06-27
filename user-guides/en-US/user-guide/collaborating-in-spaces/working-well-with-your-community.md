@@ -1,5 +1,6 @@
 ---
 description: Meeds can support team collaboration or project implementation.
+hidden: true
 ---
 
 # 🤝 Collaborating as a team or on a project

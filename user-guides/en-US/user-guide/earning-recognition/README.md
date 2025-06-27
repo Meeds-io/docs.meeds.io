@@ -2,6 +2,7 @@
 description: >-
   In addition to taking initiatives, build your reputation and gather
   encouragement from your peers.
+hidden: true
 ---
 
 # 🏅 Earning Recognition

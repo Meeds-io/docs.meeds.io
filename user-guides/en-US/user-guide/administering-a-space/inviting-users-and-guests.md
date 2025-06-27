@@ -10,6 +10,10 @@ description: Discover how space admins can invite people to join the space
 
 ### :question: What are my options?
 
+{% hint style="info" %}
+This section applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 The way space admins can invite users depends on the global hub Access settings on the[ hub Access settings](../../admin-guide/setting-up-meeds/advanced-setup/platform-access.md)  :&#x20;
 
 <figure><img src="../../.gitbook/assets/platform-access.png" alt="" width="375"><figcaption></figcaption></figure>

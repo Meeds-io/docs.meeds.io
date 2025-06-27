@@ -6,6 +6,10 @@ description: >-
 
 # ➕ Creating a space
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### :question: Why create a space?
 
 * Exchange on a cross-cutting theme.&#x20;

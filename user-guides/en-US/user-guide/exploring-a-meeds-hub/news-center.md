@@ -1,4 +1,4 @@
-# 📰 Exploring the News Center
+# 📰 News Center
 
 {% hint style="info" %}
 This page applies to the **Business** and **Enterprise** plans. [👉 Compare all plans](https://www.meeds.io/pricing)
@@ -18,7 +18,7 @@ This page applies to the **Business** and **Enterprise** plans. [👉 Compare al
 2. Select **"My Workspace"**.
 3. Navigate to **"My Content"**, which provides access to the News Center where all news articles are listed.
 
-<figure><img src="../../../.gitbook/assets/myworkspace-content-menu.png" alt="" width="563"><figcaption><p>Access the News Center through My Workspace > My Content</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/myworkspace-content-menu.png" alt="" width="563"><figcaption><p>Access the News Center through My Workspace > My Content</p></figcaption></figure>
 
 ***
 
@@ -58,7 +58,7 @@ Clicking on an article opens it in full view. Additionally, a dropdown menu prov
 
 📌 _For drafts, only "Resume" (to continue editing) and "Delete" options are available._
 
-<figure><img src="../../../.gitbook/assets/my-content.png" alt="" width="563"><figcaption><p>News Center</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/my-content.png" alt="" width="563"><figcaption><p>News Center</p></figcaption></figure>
 
 💡 The News Center **respects user permissions**. You will only see articles based on your access rights and space memberships. If an article is not visible, it may be due to **space restrictions or missing permissions**.
 
@@ -68,7 +68,7 @@ Clicking on an article opens it in full view. Additionally, a dropdown menu prov
 
 ### Related Documentation
 
-🔗 [Sharing News in Spaces ](../../collaborating-in-spaces/sharing-news-in-spaces.md)– Learn how to publish news articles.\
-🔗 [Managing Space News](../../administering-a-space/managing-space-news.md) – Space Admins guide for configuring news.\
-🔗 [Managing News Targets](../../../admin-guide/managing-content/managing-news.md) – Advanced settings for global news publishing.
+🔗 [Sharing News in Spaces ](../collaborating-in-spaces/sharing-news-in-spaces.md)– Learn how to publish news articles.\
+🔗 [Managing Space News](../administering-a-space/managing-space-news.md) – Space Admins guide for configuring news.\
+🔗 [Managing News Targets](../../admin-guide/managing-content/managing-news.md) – Advanced settings for global news publishing.
 

@@ -5,7 +5,7 @@ description: >-
   you organize content and receive updates.
 ---
 
-# 💼 Entering your Workspace
+# 💼 My Workspace
 
 {% hint style="info" %}
 This page applies to the **Business** and **Enterprise** plans. [👉 Compare all plans](https://www.meeds.io/pricing)
@@ -15,13 +15,13 @@ This page applies to the **Business** and **Enterprise** plans. [👉 Compare al
 
 You can access **My Workspace** from the left sidebar menu by selecting **"My Workspace"**.
 
-<figure><img src="../../../.gitbook/assets/myworkspace-menu.png" alt="" width="563"><figcaption><p>My Workspace menu in the sidebar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/myworkspace-menu.png" alt="" width="563"><figcaption><p>My Workspace menu in the sidebar</p></figcaption></figure>
 
 ### My Workspace Pages
 
-* [**Dashboard**](./#dashboard) – A personalized activity feed with an overview of tasks, spaces, and relevant actions.
-* [**My Tasks**](../../collaborating-in-spaces/tracking-tasks.md) – A filtered view of personal task management.
-* [**My Content** ](exploring-the-news-center.md)– The **News Center**, where you can manage and find all their published and drafted news.
+* [**Dashboard**](my-workspace.md#dashboard) – A personalized activity feed with an overview of tasks, spaces, and relevant actions.
+* [**My Tasks**](../collaborating-in-spaces/tracking-tasks.md) – A filtered view of personal task management.
+* [**My Content** ](news-center.md)– The **News Center**, where you can manage and find all their published and drafted news.
 * **My Team** – Displays the user's position within the organization if the information is available.
 
 #### :point\_down: Watch this video to see more

@@ -4,9 +4,9 @@ icon: newspaper
 
 # Managing Space News
 
-
-
-
+{% hint style="info" %}
+This page applies to the **Premium**, **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 **Space News** enable Space Admins to configure and manage news updates within their space. It ensures important announcements are structured, visible, and effectively delivered to members.
 
@@ -82,6 +82,6 @@ icon: newspaper
 ### Related Documentation
 
 🔗 [Sharing News in Spaces](../collaborating-in-spaces/sharing-news-in-spaces.md) – Learn how users create and publish news.\
-🔗 [Exploring the News Center](../exploring-a-meeds-hub/entering-your-workspace/exploring-the-news-center.md) – Locate published and drafted news articles.\
+🔗 [Exploring the News Center](../exploring-a-meeds-hub/news-center.md) – Locate published and drafted news articles.\
 🔗 [Managing News Targets](../../admin-guide/managing-content/managing-news.md) – How to configure news publication across multiple spaces.\
 🔗 [Space Templates](../../admin-guide/organizing-communities/managing-space-templates.md) – Learn more about different space templates and their configurations.

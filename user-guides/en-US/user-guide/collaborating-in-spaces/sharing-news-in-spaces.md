@@ -1,6 +1,8 @@
 # 🗞️ Sharing News in Spaces
 
-
+{% hint style="info" %}
+This page applies to the **Premium**, **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 Space News allows you to share structured updates within a space, ensuring important information remains visible and easily accessible to all members. Unlike activity posts, news articles are **formatted, persistent, and designed for structured communication**.
 
@@ -28,7 +30,7 @@ Introduction to Space News
 * **Write your content** using the rich-text editor (bold, lists, links, etc.).
 * **Include images or videos** for better engagement.
 
-💡 **Autosave & Drafts:** Your article is automatically saved as a draft and can be accessed later in [**My Content**](../exploring-a-meeds-hub/entering-your-workspace/exploring-the-news-center.md).
+💡 **Autosave & Drafts:** Your article is automatically saved as a draft and can be accessed later in [**My Content**](../exploring-a-meeds-hub/news-center.md).
 
 <figure><img src="../../.gitbook/assets/edit-article.png" alt="" width="563"><figcaption><p>The news editor </p></figcaption></figure>
 
@@ -105,7 +107,7 @@ Users can 👍 Like, 💬 Comment, 🏅 Send Kudos and 🔄 Share. For more deta
 
 🔗 [Sharing and Interacting](documenting-procedures-and-reports.md) – Learn more about how to engage with news articles.\
 🔗 [Managing Space News ](../../admin-guide/organizing-communities/managing-spaces.md)– Learn how Space Admins configure the News Block.\
-🔗 [Exploring the News Center](../exploring-a-meeds-hub/entering-your-workspace/exploring-the-news-center.md) – Locate and manage your published articles.\
+🔗 [Exploring the News Center](../exploring-a-meeds-hub/news-center.md) – Locate and manage your published articles.\
 🔗 [Managing News Targets](../../admin-guide/managing-content/managing-news.md) – Advanced customization for platform admins.
 
 📹 _Placeholder: Short video walkthrough demonstrating how to publish and interact with news articles._

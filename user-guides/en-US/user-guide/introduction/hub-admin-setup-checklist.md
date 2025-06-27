@@ -1,15 +1,19 @@
-# 👤 Start as an Admin
+# 👤 Hub Admin Setup Checklist
+
+{% hint style="info" %}
+This page applies to the **Starter** and **Premium** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
 
 ### 🎉 Welcome, Hub Admin!
 
-Congrats on launching your **Starter Hub** on Meeds!\
-You're now in charge of your community space — let’s help you get it ready in 6 quick steps.
+Congrats on launching your **Hub** on Meeds!\
+You're now in charge of your community space, let’s help you get it ready in 6 quick steps.
 
 
 
 {% stepper %}
 {% step %}
-#### **✅ Update your profile**
+## **✅ Update your profile**
 
 Let your community know who’s behind the Hub. On the homepage, **click the** ![](../../.gitbook/assets/profile-icon.png) **icon below your name** to edit your profile
 
@@ -21,7 +25,7 @@ This helps build trust and makes your space more personal.
 {% endstep %}
 
 {% step %}
-#### **🎨 Customize your space identity**
+## **🎨 Customize your space identity**
 
 Make your space feel like home.
 
@@ -34,7 +38,7 @@ Make your space feel like home.
 {% endstep %}
 
 {% step %}
-#### **🔐 Manage space access**
+## **🔐 Manage space access**
 
 Control who can see or join your space.
 
@@ -46,7 +50,7 @@ Control who can see or join your space.
 {% endstep %}
 
 {% step %}
-#### **🧭 Launch your first Quests**
+## **🧭 Launch your first Quests**
 
 Encourage members to engage right away.
 
@@ -59,7 +63,7 @@ Encourage members to engage right away.
 {% endstep %}
 
 {% step %}
-#### **💬 Post a welcome message**
+## **💬 Post a welcome message**
 
 Make everyone feel at home.
 
@@ -71,7 +75,7 @@ Make everyone feel at home.
 {% endstep %}
 
 {% step %}
-#### 📩 6: Invite your members
+## 📩 6: Invite your members
 
 Time to grow your community.
 

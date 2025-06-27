@@ -46,7 +46,7 @@ Complete the information requested, resolve the new captcha, and `Save`
 
 You now have a personal account on the hub!  You should be directly redirected inside the hub now, and you can :&#x20;
 
-1. [Install the app](using-meeds-on-the-go.md)
+1. [Install the app](../setting-up-your-account/using-meeds-on-the-go.md)
 2. [Explore the community](../exploring-a-meeds-hub/) hub
 3. [Setup your account](../setting-up-your-account/)
 

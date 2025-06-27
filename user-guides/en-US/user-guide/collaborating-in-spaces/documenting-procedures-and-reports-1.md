@@ -4,6 +4,10 @@ description: To consolidate your knowledge and centralize information with Meeds
 
 # 📋 Documenting procedures and reports
 
+{% hint style="info" %}
+This page applies to the **Premium**, **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### :question: What are we talking about?&#x20;
 
 #### 👉 Document project reports and specifications&#x20;

@@ -89,5 +89,5 @@ This page applies to the **Business** and **Enterprise** plans.  [👉 Compare a
 
 🔗 [Managing Space News](../../user-guide/administering-a-space/managing-space-news.md) – Configure the News Block for a specific space.\
 🔗 [Sharing News in Spaces](../../user-guide/collaborating-in-spaces/sharing-news-in-spaces.md) – Learn how users create and publish news.\
-🔗 [Exploring the News Center](../../user-guide/exploring-a-meeds-hub/entering-your-workspace/exploring-the-news-center.md) – Locate published and drafted news articles.
+🔗 [Exploring the News Center](../../user-guide/exploring-a-meeds-hub/news-center.md) – Locate published and drafted news articles.
 

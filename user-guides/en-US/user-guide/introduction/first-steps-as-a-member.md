@@ -1,4 +1,4 @@
-# 🙋 Explore as a Member
+# 🙋 First steps as a Member
 
 ### 🙋 Welcome to your new community space!
 
@@ -33,7 +33,7 @@ Make the space work the way you like.
 Click the ![](../../.gitbook/assets/settings-icon.png)icon, to open your **Settings**
 
 * Update your **notification preferences**
-* Find links to **download the** [**mobile app**](using-meeds-on-the-go.md)
+* Find links to **download the** [**mobile app**](../setting-up-your-account/using-meeds-on-the-go.md)
 
 🔗 [Configure your settings](../setting-up-your-account/)
 {% endstep %}
@@ -60,7 +60,7 @@ See how you can contribute.
 * Look for open **Quests** — small missions that help your community grow
 
 💡 Completing quests earns you points and recognition!\
-🔗 [Participate in quests](../exploring-a-meeds-hub/starting-to-contribute.md)
+🔗 [Participate in quests](../exploring-a-meeds-hub/contribution-center.md)
 {% endstep %}
 {% endstepper %}
 

@@ -68,7 +68,7 @@ When selecting the **Permissions** option for a navigation item, a permissions d
 This section defines who has the right to **modify the page layout, appearance, and properties**. There are two options:
 
 * **Administrators** – Only global administrators can edit this page.
-* **Group Members** – Allows specifying a group that will have editing permissions. When selected, an autocomplete field appears where you can enter the name of a [group](../../../manage-users/add-a-user-group.md).
+* **Group Members** – Allows specifying a group that will have editing permissions. When selected, an autocomplete field appears where you can enter the name of a [group](../../../manage-users/adding-user-groups.md).
 
 #### **2. Who Can View This Page?**
 
@@ -78,7 +78,7 @@ This section controls who has access to view the page. Options include:
 * **Users** – Authenticated users with an account on the platform.
 * **Guests** – Allows [guest users](../../../../user-guide/administering-a-space/inviting-users-and-guests.md) without an account to view the page.
 * **Any** – Grants access to all visitors, even unidentified ones.
-* **Group Members** – Allows restricting access to specific [groups](../../../manage-users/add-a-user-group.md), with an autocomplete field to select the group.
+* **Group Members** – Allows restricting access to specific [groups](../../../manage-users/adding-user-groups.md), with an autocomplete field to select the group.
 
 By configuring these options, administrators can ensure proper access control and visibility management for different types of users.
 

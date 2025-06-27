@@ -30,7 +30,7 @@ It is possible to modify these settings if needed to delegate community manageme
 
 
 
-<table><thead><tr><th width="192">Type</th><th width="297">Permissions</th><th>Comment</th></tr></thead><tbody><tr><td>Platform Administrator</td><td>Space creation</td><td>Restrict this option to only few groups of people if needed</td></tr><tr><td></td><td></td><td>In such cases, only few people will be able to create space</td></tr><tr><td></td><td>Spaces Management: access to its settings, &#x26; Ability to bind groups to spaces</td><td></td></tr><tr><td>Animateurs de communautés</td><td>If identified, then:</td><td></td></tr><tr><td></td><td>Spaces Management: access to its settings, &#x26; Ability to bind groups to spaces</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="192">Type</th><th width="297">Permissions</th><th>Comment</th></tr></thead><tbody><tr><td>Platform Administrator</td><td>Space creation</td><td>Restrict this option to only few groups of people if needed</td></tr><tr><td></td><td></td><td>In such cases, only few people will be able to create space</td></tr><tr><td></td><td>Spaces Management: access to its settings, &#x26; Ability to bind groups to spaces</td><td></td></tr><tr><td>Space Admin</td><td>If identified, then:</td><td></td></tr><tr><td></td><td>Spaces Management: access to its settings, &#x26; Ability to bind groups to spaces</td><td></td></tr></tbody></table>
 
 #### :point\_right: **Roles in Spaces**
 
@@ -38,7 +38,7 @@ By default, anyone who is a member of a space can publish messages, add notes, a
 
 The space host can decide to restrict these writing rights by identifying specific authors. This can be useful in informational spaces.
 
-<table><thead><tr><th width="192">Type</th><th width="297">If no redactor</th><th>If redactor</th></tr></thead><tbody><tr><td>Space Host</td><td>Space Management (customization of application and space assets)</td><td>idem</td></tr><tr><td></td><td>Members Management (invitation and roles identification)</td><td>idem</td></tr><tr><td>Space Redactor</td><td>--</td><td>Writing and sharing informations (message, notes)</td></tr><tr><td>Space Member</td><td>View of contents</td><td>View of contents</td></tr><tr><td></td><td>Writing and sharing informations (message, notes)</td><td>Interaction to informations</td></tr><tr><td></td><td>Interaction to informations</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="192">Type</th><th width="297">If no redactor</th><th>If redactor</th></tr></thead><tbody><tr><td>Space Admin</td><td>Space Management (customization of application and space assets)</td><td>idem</td></tr><tr><td></td><td>Members Management (invitation and roles identification)</td><td>idem</td></tr><tr><td>Space Redactor</td><td>--</td><td>Writing and sharing informations (message, notes)</td></tr><tr><td>Space Member</td><td>View of contents</td><td>View of contents</td></tr><tr><td></td><td>Writing and sharing informations (message, notes)</td><td>Interaction to informations</td></tr><tr><td></td><td>Interaction to informations</td><td></td></tr></tbody></table>
 
 #### :point\_right: **Program Hosting**
 
@@ -50,7 +50,7 @@ If the program's audience is a space, then Space Hosts are the programs owners.&
 
 * Conversely, moderators can be explicitly appointed by other program moderators.
 
-<table><thead><tr><th width="192">Type</th><th width="297">Audience: No space</th><th>Audience : Espace</th></tr></thead><tbody><tr><td>Rewarding Administrator</td><td>Creation of Programs</td><td>Idem</td></tr><tr><td></td><td>Programs management (mission description, addition of actions, contributions management &#x26; review)</td><td>Idem</td></tr><tr><td></td><td>Promotion of new Program Owners</td><td>Idem</td></tr><tr><td>Space Host</td><td>NA</td><td>Programs management (mission description, addition of actions, contributions management &#x26; review)</td></tr><tr><td></td><td></td><td>Promotion of new Program Owners</td></tr><tr><td>Owner added manually by another Program Owner</td><td>--</td><td>Programs management (mission description, addition of actions, contributions management &#x26; review)</td></tr><tr><td></td><td></td><td>Promotion of new Program Owners</td></tr></tbody></table>
+<table><thead><tr><th width="192">Type</th><th width="297">Audience: No space</th><th>Audience : Espace</th></tr></thead><tbody><tr><td>Rewarding Administrator</td><td>Creation of Programs</td><td>Idem</td></tr><tr><td></td><td>Programs management (mission description, addition of actions, contributions management &#x26; review)</td><td>Idem</td></tr><tr><td></td><td>Promotion of new Program Owners</td><td>Idem</td></tr><tr><td>Space Admin</td><td>NA</td><td>Programs management (mission description, addition of actions, contributions management &#x26; review)</td></tr><tr><td></td><td></td><td>Promotion of new Program Owners</td></tr><tr><td>Owner added manually by another Program Owner</td><td>--</td><td>Programs management (mission description, addition of actions, contributions management &#x26; review)</td></tr><tr><td></td><td></td><td>Promotion of new Program Owners</td></tr></tbody></table>
 
 ### Adding User Rights
 

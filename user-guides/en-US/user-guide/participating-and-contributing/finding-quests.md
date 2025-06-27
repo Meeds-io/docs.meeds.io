@@ -6,7 +6,7 @@ description: Start participating easily in the quests proposed in various campai
 
 ### :question: How to participate? <a href="#comment-participer" id="comment-participer"></a>
 
-#### ​👉 If no quests are available on the 'Quests' page or your 'Dashboard':
+#### ​👉 If no quests are available on the 'Contribute' page or your 'Dashboard':
 
 * Either no quests are currently open, In such cases, contact your Hub animator.
 * Or all campaigns are associated with restricted audiences. In such cases, explore [spaces to join](../collaborating-in-spaces/)
@@ -20,11 +20,7 @@ description: Start participating easily in the quests proposed in various campai
 
 ### ​❓Where to start contributing? <a href="#comment-contribuer" id="comment-contribuer"></a>
 
-#### 👉 **Access the 'Quests' page:**
-
-Discover recently proposed quests, quests no longer available soon, or upcoming quests.&#x20;
-
-You can list quests by campaign for a thematic view.
+####
 
 #### 👉 **Access the** campaign **of your choice:**
 

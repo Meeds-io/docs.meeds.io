@@ -4,6 +4,10 @@ description: From your wallet, access the history of your rewards and other tran
 
 # 📈 Tracking Your Rewards
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### :question:How am I informed about the payment?
 
 #### ​👉Each time rewards are paid, eligible members receive a notification:

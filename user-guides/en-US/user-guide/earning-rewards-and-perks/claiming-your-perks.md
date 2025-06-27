@@ -1,5 +1,6 @@
 ---
 description: Contribute, be rewarded, and use your Meeds in the online shop
+hidden: true
 ---
 
 # 🛒 Claiming Your Perks

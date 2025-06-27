@@ -6,6 +6,10 @@ description: >-
 
 # 📑 Tracking Tasks
 
+{% hint style="info" %}
+This page applies to the **Business** and **Enterprise** plans.  [👉 Compare all plans](https://www.meeds.io/pricing)
+{% endhint %}
+
 ### :question: How to organize your project using Meeds?
 
 #### :point\_right: **From a space, access the Tasks Application and create a Task Project**

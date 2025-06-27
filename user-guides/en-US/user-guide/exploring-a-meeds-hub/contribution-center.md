@@ -4,7 +4,7 @@ description: >-
   to contribute to the latest available actions.
 ---
 
-# 🏆 Starting to contribute
+# 🚀 Contribution Center
 
 {% hint style="info" %}
 This page applies to the **Business** and **Enterprise** plans. [👉 Compare all plans](https://www.meeds.io/pricing)
@@ -14,15 +14,17 @@ This page applies to the **Business** and **Enterprise** plans. [👉 Compare al
 
 Access the `Contribute` section from the left menu, where you will find a home page listing:
 
-* Ranking of top contributors for the current period (week, month or quarter)
-* Recently updated programs
-* Proposed contributions for you to complete
-* Summary of your **accepted** contributions
-* List of your Badges
-* Kudos sent or received
-* Last Rewards received
+<figure><img src="../../.gitbook/assets/Contribution-Dashboard.png" alt=""><figcaption><p>Contribution Dashboard</p></figcaption></figure>
+
+* Top contributors for the current period (week, month or quarter)
+* Conribution Campaigns
+* Suggested Quests
+* Pie chart of your **completed** contributions&#x20;
+* Your Badges
+* Kudos you sent or received
+* Latest Rewards received
 * Current balance in your wallet
-* List of your contributions
+* List of your contributions (all)
 
 :bulb: **Each widget provides access to a sidebar listing additional options.**
 
