@@ -5,8 +5,8 @@
 ## USER GUIDE
 
 * [🧭 Getting Started](user-guide/introduction/README.md)
-  * [👉 Start as an Admin](user-guide/introduction/start-as-an-admin.md)
-  * [👉 Explore as a Member](user-guide/introduction/explore-as-a-member.md)
+  * [👤 Start as an Admin](user-guide/introduction/start-as-an-admin.md)
+  * [🙋 Explore as a Member](user-guide/introduction/explore-as-a-member.md)
   * [🌐 Exploring Community Hubs](user-guide/introduction/exploring-community-hubs.md)
   * [🚪 Joining a Hub](user-guide/introduction/joining-a-hub.md)
   * [📳 Installing the App](user-guide/introduction/using-meeds-on-the-go.md)

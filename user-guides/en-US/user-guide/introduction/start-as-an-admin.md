@@ -1,4 +1,4 @@
-# 👉 Start as an Admin
+# 👤 Start as an Admin
 
 ### 🎉 Welcome, Hub Admin!
 

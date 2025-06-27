@@ -1,4 +1,4 @@
-# 👉 Explore as a Member
+# 🙋 Explore as a Member
 
 ### 🙋 Welcome to your new community space!
 
