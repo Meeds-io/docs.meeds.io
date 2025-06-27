@@ -11,9 +11,8 @@ You're now in charge of your community space — let’s help you get it ready i
 {% step %}
 #### **✅ Update your profile**
 
-Let your community know who’s behind the Hub.
+Let your community know who’s behind the Hub. On the homepage, **click the** ![](../../.gitbook/assets/profile-icon.png) **icon below your name** to edit your profile
 
-* On the homepage, **click the ✏️ icon below your name** to edit your profile
 * Add a headline, profile picture, short bio, and any useful links
 
 This helps build trust and makes your space more personal.
