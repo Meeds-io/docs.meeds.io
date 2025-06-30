@@ -38,28 +38,26 @@ Make your space feel like home.
 {% endstep %}
 
 {% step %}
-## **🔐 Manage space access**
+## **🧭 Prepare your first Quests**
 
-Control who can see or join your space.
+Encourage members to engage right away by creating quests.
 
-* Still in **Settings**, go to **Access Control**
-* Choose if your space is **public or private**
-* Decide who can join and who can post
+* Go to the **Dashboard** tab, hover  **Community Campaigns**
+* Use the ➕ button to create a campaign
+* Add a few simple Quests (ex “Introduce yourself”)
 
-🔗 [Update identity and access for your space](https://docs.meeds.io/meeds-guides/user-guide/administering-a-space/updating-identity-and-access)
+🔗 [Set up engagement campaigns](https://docs.meeds.io/meeds-guides/admin-guide/designing-incentives)
 {% endstep %}
 
 {% step %}
-## **🧭 Launch your first Quests**
+## **🔐 Open your Hub**
 
-Encourage members to engage right away.
+Control who can see or join your space.
 
-* Go to the **Dashboard** tab
-* Click **Community Campaigns**
-* Use the ➕ button to create a campaign
-* Add a few simple Quests (like “Introduce yourself”)
+* Still in **Settings**, go to **Access Control > Access Settings**
+* Choose **Open** to let new members join easily
 
-🔗 [Set up engagement campaigns](https://docs.meeds.io/meeds-guides/admin-guide/designing-incentives)
+🔗 [Update identity and access for your space](https://docs.meeds.io/meeds-guides/user-guide/administering-a-space/updating-identity-and-access)
 {% endstep %}
 
 {% step %}
@@ -71,7 +69,7 @@ Make everyone feel at home.
 * Create a post to introduce your space and greet new members
 * Pin it to keep it visible at the top
 
-🔗 S[haring information](https://docs.meeds.io/meeds-guides/user-guide/collaborating-in-spaces/sharing-information)
+🔗 [Sharing information](https://docs.meeds.io/meeds-guides/user-guide/collaborating-in-spaces/sharing-information)
 {% endstep %}
 
 {% step %}
