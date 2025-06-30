@@ -42,7 +42,7 @@ Make your space feel like home.
 
 Encourage members to engage right away by creating quests.
 
-* Go to the **Dashboard** tab, hover  **Community Campaigns**
+* Go to the **Quests** tab, hover  **Community Campaigns**
 * Use the ➕ button to create a campaign
 * Add a few simple Quests (ex “Introduce yourself”)
 

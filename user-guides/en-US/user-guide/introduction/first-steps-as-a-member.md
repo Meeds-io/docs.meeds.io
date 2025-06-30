@@ -13,7 +13,7 @@ This page applies to the **Starter** and **Premium** plans. [👉 Compare all pl
 
 {% stepper %}
 {% step %}
-#### ✅ Complete your profil
+## ✅ Complete your profil
 
 Let others know who you are.
 
@@ -26,7 +26,7 @@ On the homepage, **click the** ![](../../.gitbook/assets/profile-icon.png) **ico
 {% endstep %}
 
 {% step %}
-#### ⚙️ Adjust your settings
+## ⚙️ Adjust your settings
 
 Make the space work the way you like.
 
@@ -39,7 +39,7 @@ Click the ![](../../.gitbook/assets/settings-icon.png)icon, to open your **Setti
 {% endstep %}
 
 {% step %}
-#### 💬 Say hello in the Feed
+## 💬 Say hello in the Feed
 
 Let others know you’ve joined.
 
@@ -51,11 +51,11 @@ Let others know you’ve joined.
 {% endstep %}
 
 {% step %}
-#### 🚀 Check out the Dashboard
+## 🚀 Contribute to Quests
 
 See how you can contribute.
 
-* Go to the **Dashboard** tab
+* Go to the **Quests** tab
 * Open **Community Campaigns**
 * Look for open **Quests** — small missions that help your community grow
 
