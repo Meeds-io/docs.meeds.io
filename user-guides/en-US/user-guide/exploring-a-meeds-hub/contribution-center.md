@@ -1,14 +1,11 @@
 ---
 description: >-
-  Your Hub provides you with a dashboard to track your progress and allows you
-  to contribute to the latest available actions.
+  Your Hub provides you with a general dashboard to track your progress and
+  allows you to contribute to the latest available quests accross your
+  communities
 ---
 
 # 🚀 Contribution Center
-
-{% hint style="info" %}
-This page applies to the **Business** and **Enterprise** plans. [👉 Compare all plans](https://www.meeds.io/pricing)
-{% endhint %}
 
 ### :question: What are we talking about?
 
