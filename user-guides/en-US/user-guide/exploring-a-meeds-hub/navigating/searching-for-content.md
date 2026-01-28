@@ -30,8 +30,5 @@ You can search among the following types of content:
 
 #### :bulb:Good To Know
 
-You can filter your search to only one space instead of anyone
-
-
-
-{% embed url="https://www.loom.com/share/8faef3aaf3f04532933224a101372849?sid=d516f76c-597f-4721-bb2c-37849b8365b7" %}
+* You can filter your search to only one space instead of anyone
+* From the results list, access quick actions that are contextual to the content (bookmark, open task, add comments, etc.)
