@@ -12,7 +12,6 @@ You can search among the following types of content:
 
 * Action
 * Activity
-* Application
 * Space
 * Note
 * People
@@ -28,6 +27,10 @@ You can search among the following types of content:
 
 * The search is done on the name of the content
 * It can be done on the content itself (description of the space, content of the note, etc.)
+
+#### :bulb:Good To Know
+
+You can filter your search to only one space instead of anyone
 
 
 
